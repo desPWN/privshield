@@ -115,18 +115,27 @@ export const StudioView: React.FC<StudioViewProps> = ({
     });
   };
 
-  // Masking format toggle
+  // Masking format toggle (Partial, Full Redact, or Reversible Token)
+  const allMaskingToken =
+    directIdCols.length > 0 &&
+    directIdCols.every((c) => config.masking_rules[c.column_name] === 'token');
   const allMaskingRedact =
     directIdCols.length > 0 &&
     directIdCols.every((c) => config.masking_rules[c.column_name] === 'redact');
+  const currentMaskingStyle: 'preserve_trailing' | 'redact' | 'token' = allMaskingToken
+    ? 'token'
+    : allMaskingRedact
+    ? 'redact'
+    : 'preserve_trailing';
 
-  const setGlobalMaskingStyle = (style: 'preserve_trailing' | 'redact') => {
+  const setGlobalMaskingStyle = (style: 'preserve_trailing' | 'redact' | 'token') => {
     const updatedRules: Record<string, string> = { ...config.masking_rules };
     directIdCols.forEach((c) => {
       updatedRules[c.column_name] = style;
     });
     onChangeConfig({
       ...config,
+      processing_mode: style === 'token' ? 'reversible_pseudonymization' : 'irreversible_anonymization',
       masking_rules: updatedRules,
     });
   };
@@ -176,7 +185,7 @@ export const StudioView: React.FC<StudioViewProps> = ({
       <div className="p-4 rounded-2xl bg-surface-panel/90 border border-white/[0.07] flex items-center justify-between shadow-apple-card">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 rounded-xl bg-accent/15 border border-accent/25 flex items-center justify-center text-accent">
-            <Sparkles className="w-5 h-5" />
+            <Sliders className="w-5 h-5" />
           </div>
           <div>
             <h2 className="text-sm font-semibold text-text-primary">
@@ -204,7 +213,11 @@ export const StudioView: React.FC<StudioViewProps> = ({
               <div>
                 <div className="flex items-center gap-2">
                   <h3 className="text-xs font-semibold text-text-primary">
-                    {SHOW_DEMOGRAPHIC_GROUPING ? 'Custom Universal Profile' : 'Direct PII Masking Profile'}
+                    {SHOW_DEMOGRAPHIC_GROUPING
+                      ? 'Custom Universal Profile'
+                      : currentMaskingStyle === 'token'
+                      ? 'Reversible Pseudonymization Profile'
+                      : 'Direct PII Masking Profile'}
                   </h3>
                   <span className="inline-flex items-center gap-1 text-[11px] font-medium text-accent">
                     <span className="w-1.5 h-1.5 rounded-full bg-accent" />
@@ -214,6 +227,8 @@ export const StudioView: React.FC<StudioViewProps> = ({
                 <p className="text-[11px] text-text-muted mt-0.5">
                   {SHOW_DEMOGRAPHIC_GROUPING
                     ? 'Standard K=3 mathematical protection with cell suppression. Retains 100% of rows.'
+                    : currentMaskingStyle === 'token'
+                    ? 'Identifiers replaced with cryptographic tokens. Reversible via admin recovery vault.'
                     : 'Personal identifying attributes are masked. Retains 100% of rows with zero asterisks.'}
                 </p>
               </div>
@@ -226,6 +241,14 @@ export const StudioView: React.FC<StudioViewProps> = ({
                 <span className="text-success font-medium">100% Rows Kept</span>
                 <span className="text-white/20">•</span>
                 <span className="text-accent font-medium">Cell Suppression</span>
+              </div>
+            ) : currentMaskingStyle === 'token' ? (
+              <div className="flex items-center gap-2.5 text-[11px] font-mono text-text-secondary self-start sm:self-auto bg-canvas/80 px-3 py-1.5 rounded-xl border border-white/[0.06]">
+                <span className="text-success font-medium">100% Rows Kept</span>
+                <span className="text-white/20">•</span>
+                <span className="text-accent font-medium">Reversible Vault</span>
+                <span className="text-white/20">•</span>
+                <span className="text-info font-medium">Tokens Active</span>
               </div>
             ) : (
               <div className="flex items-center gap-2.5 text-[11px] font-mono text-text-secondary self-start sm:self-auto bg-canvas/80 px-3 py-1.5 rounded-xl border border-white/[0.06]">
@@ -356,14 +379,14 @@ export const StudioView: React.FC<StudioViewProps> = ({
                 </p>
               </div>
 
-              {/* Quick Masking Style Toggle */}
+              {/* Direct Identifiers Mode Toggle: Partial, Full, or Reversible Token */}
               {directIdCols.length > 0 && (
                 <div className="flex items-center gap-1 p-0.5 rounded-lg bg-canvas border border-white/[0.08] text-xs self-start sm:self-auto">
                   <button
                     type="button"
                     onClick={() => setGlobalMaskingStyle('preserve_trailing')}
                     className={`px-2.5 py-1 rounded text-[11px] transition-colors ${
-                      !allMaskingRedact
+                      currentMaskingStyle === 'preserve_trailing'
                         ? 'bg-accent/20 text-accent font-semibold'
                         : 'text-text-muted hover:text-text-primary'
                     }`}
@@ -374,12 +397,23 @@ export const StudioView: React.FC<StudioViewProps> = ({
                     type="button"
                     onClick={() => setGlobalMaskingStyle('redact')}
                     className={`px-2.5 py-1 rounded text-[11px] transition-colors ${
-                      allMaskingRedact
+                      currentMaskingStyle === 'redact'
                         ? 'bg-accent/20 text-accent font-semibold'
                         : 'text-text-muted hover:text-text-primary'
                     }`}
                   >
                     Full (••••••••)
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setGlobalMaskingStyle('token')}
+                    className={`px-2.5 py-1 rounded text-[11px] transition-colors ${
+                      currentMaskingStyle === 'token'
+                        ? 'bg-accent/20 text-accent font-semibold'
+                        : 'text-text-muted hover:text-text-primary'
+                    }`}
+                  >
+                    Reversible (TOK-8F2B...)
                   </button>
                 </div>
               )}
@@ -389,7 +423,9 @@ export const StudioView: React.FC<StudioViewProps> = ({
             <div className="flex flex-wrap gap-2 pt-1">
               {directIdCols.map((col) => {
                 const rule = config.masking_rules[col.column_name];
+                const isToken = rule === 'token';
                 const isRedact = rule === 'redact';
+                const chipLabel = isToken ? 'Token' : isRedact ? 'Redact' : 'Mask';
                 return (
                   <div
                     key={col.column_name}
@@ -398,7 +434,7 @@ export const StudioView: React.FC<StudioViewProps> = ({
                     <Lock className="w-3.5 h-3.5 text-accent" />
                     <span className="font-mono text-text-primary">{col.column_name}</span>
                     <span className="text-[10px] font-mono text-accent uppercase font-medium">
-                      {isRedact ? 'Redact' : 'Mask'}
+                      {chipLabel}
                     </span>
                   </div>
                 );
@@ -431,8 +467,8 @@ export const StudioView: React.FC<StudioViewProps> = ({
         <div className="space-y-4">
           <div className="p-5 rounded-2xl bg-surface-panel/90 border border-white/[0.07] space-y-4 shadow-apple-card">
             <div className="flex items-center justify-between border-b border-white/[0.07] pb-3">
-              <span className="text-xs font-semibold text-text-primary uppercase tracking-wider">
-                Protection Summary
+              <span className="text-xs font-semibold text-text-primary">
+                Protection summary
               </span>
               <span className={`inline-flex items-center gap-1.5 text-xs font-medium ${isReadyToExecute ? 'text-success' : 'text-danger'}`}>
                 <span className={`w-2 h-2 rounded-full ${isReadyToExecute ? 'bg-success' : 'bg-danger'}`} />
@@ -452,7 +488,10 @@ export const StudioView: React.FC<StudioViewProps> = ({
               <div className="flex items-center gap-2.5">
                 <CheckCircle2 className="w-4 h-4 text-success flex-shrink-0" />
                 <span className="text-text-primary">
-                  <strong>Direct IDs masked</strong> ({directIdCols.length} columns)
+                  <strong>
+                    {currentMaskingStyle === 'token' ? 'Direct IDs vaulted' : 'Direct IDs masked'}
+                  </strong>{' '}
+                  ({directIdCols.length} columns)
                 </span>
               </div>
 
@@ -499,17 +538,21 @@ export const StudioView: React.FC<StudioViewProps> = ({
               </div>
             </div>
 
-            {/* Transformation Preview Card */}
+            {/* Value Preview Card */}
             <div className="p-3.5 rounded-xl bg-canvas/60 border border-white/[0.06] space-y-2">
-              <span className="text-[10px] font-semibold text-text-muted uppercase tracking-wider block">
-                How Values Will Look
+              <span className="text-[11px] font-medium text-text-secondary block">
+                Value preview
               </span>
 
               <div className="space-y-1.5 font-mono text-[11px]">
                 <div className="flex items-center justify-between text-text-secondary">
-                  <span className="text-text-muted">Email:</span>
+                  <span className="text-text-muted">Direct IDs:</span>
                   <span className="text-accent">
-                    {allMaskingRedact ? '••••••••' : 'j***@domain.com'}
+                    {currentMaskingStyle === 'token'
+                      ? 'TOK-8F2B... (Vault)'
+                      : currentMaskingStyle === 'redact'
+                      ? '••••••••'
+                      : 'j***@domain.com'}
                   </span>
                 </div>
                 {SHOW_DEMOGRAPHIC_GROUPING ? (

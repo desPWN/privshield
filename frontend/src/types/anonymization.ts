@@ -1,4 +1,4 @@
-export type ProcessingMode = 'irreversible_anonymization';
+export type ProcessingMode = 'irreversible_anonymization' | 'reversible_pseudonymization';
 
 export interface AnonymizationConfig {
   processing_mode?: ProcessingMode;
