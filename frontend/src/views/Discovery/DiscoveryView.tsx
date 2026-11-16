@@ -204,10 +204,10 @@ export const DiscoveryView: React.FC<DiscoveryViewProps> = ({
           }`}
         >
           <div className="flex items-center justify-between text-xs mb-1">
-            <span className="font-semibold uppercase tracking-wider text-accent">Direct Identifiers</span>
+            <span className="font-medium text-accent">Direct identifiers</span>
             <span className="text-lg font-bold font-mono tabular-nums text-text-primary">{directIdCount}</span>
           </div>
-          <span className="text-[10px] text-text-muted">Requires Masking / Redaction</span>
+          <span className="text-xs text-text-muted">Requires Masking / Redaction</span>
         </button>
 
         <button
@@ -219,10 +219,10 @@ export const DiscoveryView: React.FC<DiscoveryViewProps> = ({
           }`}
         >
           <div className="flex items-center justify-between text-xs mb-1">
-            <span className="font-semibold uppercase tracking-wider text-info">Quasi-Identifiers</span>
+            <span className="font-medium text-info">Quasi-identifiers</span>
             <span className="text-lg font-bold font-mono tabular-nums text-text-primary">{quasiIdCount}</span>
           </div>
-          <span className="text-[10px] text-text-muted">K-Anonymity & Hierarchy</span>
+          <span className="text-xs text-text-muted">K-Anonymity & Hierarchy</span>
         </button>
 
         <button
@@ -234,10 +234,10 @@ export const DiscoveryView: React.FC<DiscoveryViewProps> = ({
           }`}
         >
           <div className="flex items-center justify-between text-xs mb-1">
-            <span className="font-semibold uppercase tracking-wider text-warning">Sensitive Attributes</span>
+            <span className="font-medium text-warning">Sensitive attributes</span>
             <span className="text-lg font-bold font-mono tabular-nums text-text-primary">{sensitiveCount}</span>
           </div>
-          <span className="text-[10px] text-text-muted">L-Diversity & T-Closeness</span>
+          <span className="text-xs text-text-muted">L-Diversity & T-Closeness</span>
         </button>
 
         <button
@@ -249,10 +249,10 @@ export const DiscoveryView: React.FC<DiscoveryViewProps> = ({
           }`}
         >
           <div className="flex items-center justify-between text-xs mb-1">
-            <span className="font-semibold uppercase tracking-wider text-text-secondary">Insensitive Fields</span>
+            <span className="font-medium text-text-secondary">Insensitive fields</span>
             <span className="text-lg font-bold font-mono tabular-nums text-text-primary">{insensitiveCount}</span>
           </div>
-          <span className="text-[10px] text-text-muted">Pass-through Retained</span>
+          <span className="text-xs text-text-muted">Pass-through Retained</span>
         </button>
       </div>
 
@@ -273,7 +273,7 @@ export const DiscoveryView: React.FC<DiscoveryViewProps> = ({
 
         <div className="overflow-x-auto rounded-xl border border-white/[0.06] bg-canvas/40">
           <table className="w-full text-left text-xs">
-            <thead className="bg-surface-elevated/70 text-text-muted font-semibold uppercase text-[10px] tracking-wider border-b border-white/[0.06]">
+            <thead className="bg-surface-elevated/70 text-text-muted font-medium text-xs border-b border-white/[0.06]">
               <tr>
                 <th className="py-2.5 px-3">Column Name</th>
                 <th className="py-2.5 px-3">Effective Role</th>
@@ -428,7 +428,7 @@ export const DiscoveryView: React.FC<DiscoveryViewProps> = ({
 
           <div className="overflow-x-auto rounded-xl border border-white/[0.06] bg-canvas/40 max-h-72">
             <table className="w-full text-left text-xs">
-              <thead className="sticky top-0 bg-surface-elevated/90 backdrop-blur-md text-text-muted font-semibold uppercase text-[10px] tracking-wider border-b border-white/[0.06]">
+              <thead className="sticky top-0 bg-surface-elevated/90 backdrop-blur-md text-text-muted font-medium text-xs border-b border-white/[0.06]">
                 <tr>
                   <th className="py-2 px-3 text-center w-12">#</th>
                   {previewColumns.map((c) => (

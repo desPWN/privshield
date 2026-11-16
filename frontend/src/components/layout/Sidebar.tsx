@@ -124,7 +124,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
           {navGroups.map((group) => (
             <div key={group.groupName} className="space-y-1">
               {!isCollapsed && (
-                <div className="px-2.5 py-1 text-[10px] font-semibold tracking-wider text-text-muted uppercase">
+                <div className="px-2.5 py-1 text-xs font-medium text-text-muted">
                   {group.groupName}
                 </div>
               )}
@@ -151,7 +151,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
                     )}
 
                     {!isCollapsed && item.badge && (
-                      <span className="text-[9px] font-mono uppercase px-1.5 py-0.2 rounded bg-white/[0.06] text-text-muted">
+                      <span className="text-xs font-mono px-1.5 py-0.5 rounded bg-white/[0.06] text-text-muted">
                         {item.badge}
                       </span>
                     )}
@@ -167,8 +167,8 @@ export const Sidebar: React.FC<SidebarProps> = ({
       {!isCollapsed && currentDataset && (
         <div className="p-3 border-t border-white/[0.07] bg-canvas/40">
           <div className="p-2 rounded-lg bg-surface-panel border border-white/[0.07] text-xs">
-            <div className="flex items-center justify-between text-[10px] text-text-muted mb-1">
-              <span className="font-semibold uppercase tracking-wider">Active Dataset</span>
+            <div className="flex items-center justify-between text-xs text-text-muted mb-1">
+              <span className="font-medium text-text-secondary">Active dataset</span>
               <span className="font-mono">{currentDataset.file_format?.toUpperCase()}</span>
             </div>
             <div className="font-medium text-text-primary truncate" title={currentDataset.name}>

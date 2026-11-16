@@ -118,7 +118,7 @@ export const ReportsSettingsView: React.FC<ReportsSettingsViewProps> = ({
       {activeTab === 'reports' ? (
         <div className="space-y-6">
           {/* Executive PDF Report Card */}
-          <div className="p-6 rounded-2xl bg-gradient-to-r from-surface-panel to-surface-elevated/80 border border-white/[0.08] shadow-apple-card flex flex-col lg:flex-row lg:items-center justify-between gap-6">
+          <div className="p-6 rounded-2xl bg-surface-panel border border-white/[0.07] shadow-apple-card flex flex-col lg:flex-row lg:items-center justify-between gap-6">
             <div className="space-y-3 max-w-xl">
               <div className="flex items-center gap-2.5">
                 <div className="w-10 h-10 rounded-xl bg-accent/15 border border-accent/30 flex items-center justify-center text-accent">
@@ -371,8 +371,8 @@ export const ReportsSettingsView: React.FC<ReportsSettingsViewProps> = ({
             </div>
 
             <div className="space-y-3 pt-4 border-t border-white/[0.07]">
-              <h4 className="text-xs font-semibold text-text-primary uppercase tracking-wider">
-                System Diagnostics & Telemetry
+              <h4 className="text-xs font-semibold text-text-primary">
+                System diagnostics & telemetry
               </h4>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs">

@@ -4,7 +4,6 @@ import {
   Shield,
   Play,
   CheckCircle2,
-  Sparkles,
   Check,
   Lock,
   AlertTriangle,
@@ -314,7 +313,7 @@ export const StudioView: React.FC<StudioViewProps> = ({
                     onClick={handleAutoTuneZeroAsterisks}
                     className="px-3 py-1.5 rounded-lg bg-warning hover:bg-warning/90 text-black font-bold text-xs whitespace-nowrap self-start sm:self-auto transition-all shadow-apple-sm flex items-center gap-1.5"
                   >
-                    <Sparkles className="w-3.5 h-3.5" />
+                    <Sliders className="w-3.5 h-3.5" />
                     Auto-Tune for 0 Asterisks
                   </button>
                 </div>
@@ -433,7 +432,7 @@ export const StudioView: React.FC<StudioViewProps> = ({
                   >
                     <Lock className="w-3.5 h-3.5 text-accent" />
                     <span className="font-mono text-text-primary">{col.column_name}</span>
-                    <span className="text-[10px] font-mono text-accent uppercase font-medium">
+                    <span className="text-[10px] font-mono text-accent font-medium">
                       {chipLabel}
                     </span>
                   </div>

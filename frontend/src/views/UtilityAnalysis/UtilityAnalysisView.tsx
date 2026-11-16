@@ -199,8 +199,8 @@ export const UtilityAnalysisView: React.FC<UtilityAnalysisViewProps> = ({
                 Retention metrics across 5 analytical dimensions
               </p>
             </div>
-            <span className="text-[10px] font-mono text-accent uppercase">
-              Radar Evaluation
+            <span className="text-xs font-mono text-accent">
+              Radar evaluation
             </span>
           </div>
 
@@ -344,7 +344,7 @@ export const UtilityAnalysisView: React.FC<UtilityAnalysisViewProps> = ({
         {/* Diff Table */}
         <div className="overflow-x-auto rounded-xl border border-white/[0.06] bg-canvas/40 max-h-96">
           <table className="w-full text-left text-xs">
-            <thead className="sticky top-0 bg-surface-elevated/90 backdrop-blur-md text-text-muted font-semibold uppercase text-[10px] tracking-wider border-b border-white/[0.06]">
+            <thead className="sticky top-0 bg-surface-elevated/90 backdrop-blur-md text-text-muted font-medium text-xs border-b border-white/[0.06]">
               <tr>
                 <th className="py-2 px-3 text-center w-12">#</th>
                 <th className="py-2 px-3 text-center w-24">Status</th>

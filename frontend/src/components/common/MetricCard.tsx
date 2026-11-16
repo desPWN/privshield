@@ -37,7 +37,7 @@ export const MetricCard: React.FC<MetricCardProps> = ({
       className={`p-4 rounded-xl bg-surface-panel/90 backdrop-blur-md border border-white/[0.07] hover:border-white/[0.14] transition-all duration-200 shadow-apple-card ${className}`}
     >
       <div className="flex items-center justify-between gap-3 mb-2.5">
-        <span className="text-[11px] font-semibold tracking-wider uppercase text-text-muted">
+        <span className="text-xs font-medium text-text-secondary">
           {title}
         </span>
         {Icon && (

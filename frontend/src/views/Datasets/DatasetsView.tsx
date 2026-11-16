@@ -5,6 +5,12 @@ import {
   ArrowRight,
   Building2,
   Search,
+  HeartPulse,
+  CreditCard,
+  GraduationCap,
+  Users,
+  ShoppingBag,
+  Landmark,
 } from 'lucide-react';
 import { DatasetMetadata } from '../../types/dataset';
 import { Button } from '../../components/common/Button';
@@ -81,7 +87,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
       industry: 'Healthcare (HIPAA)',
       records: '1,000 records',
       desc: 'MRN, Patient Name, DOB, Gender, ICD-10 Code, Diagnosis, Ward, Admission Date',
-      icon: '🏥',
+      icon: HeartPulse,
     },
     {
       id: 'finance',
@@ -89,7 +95,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
       industry: 'Banking & Finance (CBJ)',
       records: '1,000 records',
       desc: 'National ID, IBAN, Account, Amount, City, Merchant, Transaction Timestamp',
-      icon: '💳',
+      icon: CreditCard,
     },
     {
       id: 'education',
@@ -97,7 +103,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
       industry: 'Education (FERPA)',
       records: '1,000 records',
       desc: 'Student ID, GPA, Degree, Major, Financial Aid, Cohort Year, Postal Code',
-      icon: '🎓',
+      icon: GraduationCap,
     },
     {
       id: 'hr',
@@ -105,7 +111,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
       industry: 'Human Resources (HR)',
       records: '1,000 records',
       desc: 'SSN, Employee Name, Department, Salary, Performance Rating, City, Start Date',
-      icon: '👥',
+      icon: Users,
     },
     {
       id: 'ecommerce',
@@ -113,7 +119,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
       industry: 'Retail & Commerce',
       records: '1,000 records',
       desc: 'Customer ID, Email, Phone, Lifetime Value, Postal Code, Orders Count',
-      icon: '🛍️',
+      icon: ShoppingBag,
     },
     {
       id: 'government',
@@ -121,7 +127,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
       industry: 'Government & Civic',
       records: '1,000 records',
       desc: 'National Registry ID, Full Name, District, DOB, Voter Status, Tax Bracket',
-      icon: '🏛️',
+      icon: Landmark,
     },
   ];
 
@@ -207,25 +213,27 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-          {demoIndustries.map((ind) => (
-            <div
-              key={ind.id}
-              className="p-3.5 rounded-xl bg-surface-elevated/70 border border-white/[0.06] hover:border-accent/30 hover:bg-surface-hover transition-all flex flex-col justify-between space-y-3 group"
-            >
-              <div className="space-y-1.5">
-                <div className="flex items-center justify-between">
-                  <span className="text-xl">{ind.icon}</span>
-                  <span className="text-[11px] font-medium text-accent tracking-wide uppercase">
-                    {ind.industry}
-                  </span>
+          {demoIndustries.map((ind) => {
+            const Icon = ind.icon;
+            return (
+              <div
+                key={ind.id}
+                className="p-3.5 rounded-xl bg-surface-elevated/70 border border-white/[0.06] hover:border-accent/30 hover:bg-surface-hover transition-all flex flex-col justify-between space-y-3 group"
+              >
+                <div className="space-y-1.5">
+                  <div className="flex items-center justify-between">
+                    <Icon className="w-5 h-5 text-accent" />
+                    <span className="text-xs font-medium text-accent">
+                      {ind.industry}
+                    </span>
+                  </div>
+                  <h4 className="text-xs font-semibold text-text-primary group-hover:text-accent transition-colors">
+                    {ind.title}
+                  </h4>
+                  <p className="text-[11px] text-text-muted line-clamp-2 leading-relaxed">
+                    {ind.desc}
+                  </p>
                 </div>
-                <h4 className="text-xs font-semibold text-text-primary group-hover:text-accent transition-colors">
-                  {ind.title}
-                </h4>
-                <p className="text-[11px] text-text-muted line-clamp-2 leading-relaxed">
-                  {ind.desc}
-                </p>
-              </div>
 
               <div className="pt-2 border-t border-white/[0.06] flex items-center justify-between">
                 <span className="text-[11px] font-mono text-text-secondary">{ind.records}</span>
@@ -239,7 +247,8 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
                 </Button>
               </div>
             </div>
-          ))}
+            );
+          })}
         </div>
       </div>
 
@@ -305,7 +314,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
         {/* Table */}
         <div className="overflow-x-auto rounded-xl border border-white/[0.06] bg-canvas/40">
           <table className="w-full text-left text-xs">
-            <thead className="bg-surface-elevated/70 text-text-muted font-semibold uppercase text-[10px] tracking-wider border-b border-white/[0.06]">
+            <thead className="bg-surface-elevated/70 text-text-muted font-medium text-xs border-b border-white/[0.06]">
               <tr>
                 <th className="py-2.5 px-3">Dataset Name</th>
                 <th className="py-2.5 px-3 text-center">Format</th>
@@ -344,7 +353,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
                             {d.name}
                           </span>
                           {isCurrent && (
-                            <span className="text-[9px] font-mono uppercase px-1.5 py-0.2 rounded bg-accent/20 text-accent border border-accent/30">
+                            <span className="text-xs font-mono px-1.5 py-0.5 rounded bg-accent/15 text-accent border border-accent/20">
                               Active
                             </span>
                           )}
@@ -355,7 +364,7 @@ export const DatasetsView: React.FC<DatasetsViewProps> = ({
                       </td>
 
                       <td className="py-3 px-3 text-center font-mono">
-                        <span className="text-[10px] uppercase px-1.5 py-0.5 rounded bg-white/[0.06] text-text-secondary border border-white/[0.06]">
+                        <span className="text-xs px-1.5 py-0.5 rounded bg-white/[0.06] text-text-secondary border border-white/[0.06]">
                           {d.file_format || d.format || 'CSV'}
                         </span>
                       </td>

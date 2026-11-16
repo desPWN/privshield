@@ -411,7 +411,7 @@ export const PrivacyAnalysisView: React.FC<PrivacyAnalysisViewProps> = ({
               To strictly satisfy K-anonymity (min equivalence class size ≥ {targetK}), records in partitions smaller than K that could not be generalized further were dropped under the suppression ceiling.
             </p>
             <div className="p-3 rounded-xl bg-canvas/60 border border-white/[0.06] font-mono text-[11px] space-y-1">
-              <div className="text-text-muted text-[10px]">SUPPRESSION AUDIT SUMMARY:</div>
+              <div className="text-text-muted text-xs font-mono">Suppression audit summary</div>
               <div>• Total Raw Input Records: {activeRun.total_records.toLocaleString()}</div>
               <div>• Retained Compliant Records: {activeRun.retained_records.toLocaleString()}</div>
               <div>• Suppressed Records: {activeRun.suppressed_records.toLocaleString()} ({suppRate}%)</div>

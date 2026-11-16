@@ -7,6 +7,12 @@ import {
   Lock,
   Building2,
   TrendingUp,
+  HeartPulse,
+  CreditCard,
+  GraduationCap,
+  Users,
+  ShoppingBag,
+  Landmark,
 } from 'lucide-react';
 import {
   ResponsiveContainer,
@@ -110,7 +116,7 @@ export const OverviewView: React.FC<OverviewViewProps> = ({
   return (
     <div className="space-y-6">
       {/* Top Welcome Banner */}
-      <div className="p-6 rounded-2xl bg-gradient-to-r from-surface-panel via-surface-panel/90 to-surface-elevated/50 border border-white/[0.08] flex flex-col md:flex-row md:items-center justify-between gap-4 shadow-apple-card">
+      <div className="p-6 rounded-2xl bg-surface-panel border border-white/[0.07] flex flex-col md:flex-row md:items-center justify-between gap-4 shadow-apple-card">
         <div className="space-y-1">
           <div className="text-xs text-text-muted font-medium">
             Local Isolated Execution
@@ -283,7 +289,7 @@ export const OverviewView: React.FC<OverviewViewProps> = ({
                 Breakdown of active transformation mechanisms
               </p>
             </div>
-            <span className="text-[10px] font-mono text-text-muted uppercase">
+            <span className="text-xs font-mono text-text-muted">
               Balanced Pipeline
             </span>
           </div>
@@ -389,25 +395,28 @@ export const OverviewView: React.FC<OverviewViewProps> = ({
 
           <div className="grid grid-cols-2 gap-2 pt-1">
             {[
-              { id: 'healthcare', label: 'Hospital Records', icon: '🏥' },
-              { id: 'finance', label: 'Bank Transactions', icon: '💳' },
-              { id: 'education', label: 'Student Database', icon: '🎓' },
-              { id: 'hr', label: 'Employee Records', icon: '👥' },
-              { id: 'ecommerce', label: 'Customer DB', icon: '🛍️' },
-              { id: 'government', label: 'Public Registry', icon: '🏛️' },
-            ].map((ind) => (
-              <button
-                key={ind.id}
-                disabled={isLoading}
-                onClick={() => onLoadDemo(ind.id)}
-                className="flex items-center gap-2 p-2.5 rounded-xl bg-surface-elevated/70 border border-white/[0.06] hover:border-accent/30 hover:bg-surface-hover text-left transition-all active:scale-[0.98] disabled:opacity-50"
-              >
-                <span className="text-base">{ind.icon}</span>
-                <span className="text-xs font-medium text-text-primary truncate">
-                  {ind.label}
-                </span>
-              </button>
-            ))}
+              { id: 'healthcare', label: 'Hospital Records', icon: HeartPulse },
+              { id: 'finance', label: 'Bank Transactions', icon: CreditCard },
+              { id: 'education', label: 'Student Database', icon: GraduationCap },
+              { id: 'hr', label: 'Employee Records', icon: Users },
+              { id: 'ecommerce', label: 'Customer DB', icon: ShoppingBag },
+              { id: 'government', label: 'Public Registry', icon: Landmark },
+            ].map((ind) => {
+              const Icon = ind.icon;
+              return (
+                <button
+                  key={ind.id}
+                  disabled={isLoading}
+                  onClick={() => onLoadDemo(ind.id)}
+                  className="flex items-center gap-2.5 p-2.5 rounded-xl bg-surface-elevated/70 border border-white/[0.06] hover:border-accent/30 hover:bg-surface-hover text-left transition-all active:scale-[0.98] disabled:opacity-50"
+                >
+                  <Icon className="w-4 h-4 text-accent flex-shrink-0" />
+                  <span className="text-xs font-medium text-text-primary truncate">
+                    {ind.label}
+                  </span>
+                </button>
+              );
+            })}
           </div>
         </div>
 
@@ -433,14 +442,14 @@ export const OverviewView: React.FC<OverviewViewProps> = ({
 
           <div className="overflow-x-auto rounded-xl border border-white/[0.06] bg-canvas/40">
             <table className="w-full text-left text-xs">
-              <thead className="bg-surface-elevated/60 text-text-muted font-semibold uppercase text-[10px] tracking-wider border-b border-white/[0.06]">
+              <thead className="bg-surface-elevated/60 text-text-muted font-medium text-xs border-b border-white/[0.06]">
                 <tr>
-                  <th className="py-2 px-3">Dataset Name</th>
-                  <th className="py-2 px-3 text-center">Format</th>
-                  <th className="py-2 px-3 text-right">Records</th>
-                  <th className="py-2 px-3 text-right">Columns</th>
-                  <th className="py-2 px-3 text-center">Encryption</th>
-                  <th className="py-2 px-3 text-right">Action</th>
+                  <th className="py-2.5 px-3">Dataset Name</th>
+                  <th className="py-2.5 px-3 text-center">Format</th>
+                  <th className="py-2.5 px-3 text-right">Records</th>
+                  <th className="py-2.5 px-3 text-right">Columns</th>
+                  <th className="py-2.5 px-3 text-center">Encryption</th>
+                  <th className="py-2.5 px-3 text-right">Action</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-white/[0.04]">
@@ -457,7 +466,7 @@ export const OverviewView: React.FC<OverviewViewProps> = ({
                         {d.name}
                       </td>
                       <td className="py-2.5 px-3 text-center">
-                        <span className="font-mono text-[11px] text-text-secondary uppercase">
+                        <span className="font-mono text-xs text-text-secondary">
                           {d.file_format}
                         </span>
                       </td>
