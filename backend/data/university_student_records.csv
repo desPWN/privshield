@@ -1,0 +1,1001 @@
+StudentID,FullName,PersonalEmail,CampusPhone,HomeAddress,Age,Gender,HomeCity,HomeState,EnrollmentYear,Major,CumulativeGPA,AcademicStanding,FinancialAidAmount,ScholarshipStatus,IsSynthetic
+STU-300000,Daniel Haddad,daniel.haddad0@student-campus.edu,+962 77 854 2679,"356 University Way, Aqaba",18,M,Aqaba,Capital District,2022,Civil Engineering,3.29,Dean's List,9706.08,Need-Based Aid,True
+STU-300001,Michael Tarawneh,michael.tarawneh1@student-campus.edu,+962 77 617 1434,"297 University Way, Aqaba",25,M,Aqaba,Capital District,2021,Computer Science,2.68,Dean's List,5135.44,Need-Based Aid,True
+STU-300002,David Williams,david.williams2@student-campus.edu,+962 79 384 1106,"398 University Way, Mafraq",26,M,Mafraq,Capital District,2022,Business Administration,3.49,Probation,6122.35,Need-Based Aid,True
+STU-300003,David Tarawneh,david.tarawneh3@student-campus.edu,+962 78 204 2519,"204 University Way, Aqaba",27,M,Aqaba,Capital District,2022,Civil Engineering,3.57,Satisfactory,6600.75,Need-Based Aid,True
+STU-300004,Fatima Miller,fatima.miller4@student-campus.edu,+962 79 570 9785,"73 University Way, Amman",21,F,Amman,Capital District,2023,Psychology,2.27,Satisfactory,1887.11,None,True
+STU-300005,Yousef Smith,yousef.smith5@student-campus.edu,+962 79 171 1750,"348 University Way, Aqaba",18,M,Aqaba,Capital District,2023,Psychology,2.56,Satisfactory,1375.86,None,True
+STU-300006,Noor Haddad,noor.haddad6@student-campus.edu,+962 78 750 6977,"93 University Way, Salt",27,F,Salt,Capital District,2024,Software Engineering,3.21,Good Standing,10012.35,Need-Based Aid,True
+STU-300007,Fatima Al-Khatib,fatima.alkhatib7@student-campus.edu,+962 79 846 5010,"93 University Way, Irbid",24,F,Irbid,Capital District,2025,Software Engineering,3.01,Satisfactory,9832.77,Need-Based Aid,True
+STU-300008,Salma Obeidat,salma.obeidat8@student-campus.edu,+962 77 941 1525,"422 University Way, Amman",20,F,Amman,Capital District,2023,Electrical Engineering,3.14,Probation,9943.65,Need-Based Aid,True
+STU-300009,Salma Obeidat,salma.obeidat9@student-campus.edu,+962 77 771 9179,"212 University Way, Madaba",25,F,Madaba,Capital District,2025,Electrical Engineering,2.77,Dean's List,296.5,None,True
+STU-300010,Zaid Obeidat,zaid.obeidat10@student-campus.edu,+962 79 698 8019,"308 University Way, Salt",27,F,Salt,Capital District,2025,Electrical Engineering,3.55,Good Standing,4898.2,None,True
+STU-300011,Fatima Al-Khatib,fatima.alkhatib11@student-campus.edu,+962 77 981 2796,"88 University Way, Zarqa",20,M,Zarqa,Capital District,2024,Finance,3.5,Good Standing,2967.15,None,True
+STU-300012,Emma Tarawneh,emma.tarawneh12@student-campus.edu,+962 79 579 9669,"138 University Way, Jerash",25,M,Jerash,Capital District,2024,Software Engineering,3.18,Probation,11672.27,Need-Based Aid,True
+STU-300013,Emma Brown,emma.brown13@student-campus.edu,+962 77 400 8123,"90 University Way, Madaba",25,F,Madaba,Capital District,2023,Finance,3.66,Dean's List,12909.46,Need-Based Aid,True
+STU-300014,Ahmad Brown,ahmad.brown14@student-campus.edu,+962 79 405 9317,"321 University Way, Zarqa",23,M,Zarqa,Capital District,2022,Finance,3.36,Satisfactory,3700.21,None,True
+STU-300015,Zaid Al-Qudah,zaid.alqudah15@student-campus.edu,+962 79 431 9005,"19 University Way, Amman",24,M,Amman,Capital District,2025,Finance,2.76,Good Standing,10017.74,Need-Based Aid,True
+STU-300016,Fatima Miller,fatima.miller16@student-campus.edu,+962 79 180 2403,"384 University Way, Aqaba",20,F,Aqaba,Capital District,2021,Electrical Engineering,3.32,Satisfactory,1940.44,None,True
+STU-300017,Yousef Jones,yousef.jones17@student-campus.edu,+962 79 269 5342,"280 University Way, Mafraq",27,F,Mafraq,Capital District,2022,Data Science,2.72,Probation,4127.29,None,True
+STU-300018,Abdullah Smith,abdullah.smith18@student-campus.edu,+962 78 629 8397,"71 University Way, Madaba",27,M,Madaba,Capital District,2024,Civil Engineering,3.55,Good Standing,2079.82,None,True
+STU-300019,Khaled Haddad,khaled.haddad19@student-campus.edu,+962 79 325 1117,"46 University Way, Aqaba",27,M,Aqaba,Capital District,2025,Computer Science,3.13,Satisfactory,4252.81,None,True
+STU-300020,Khaled Haddad,khaled.haddad20@student-campus.edu,+962 78 785 8953,"119 University Way, Aqaba",25,M,Aqaba,Capital District,2021,Nursing,3.07,Dean's List,10121.05,Need-Based Aid,True
+STU-300021,Olivia Johnson,olivia.johnson21@student-campus.edu,+962 78 294 2545,"59 University Way, Mafraq",18,F,Mafraq,Capital District,2022,Accounting,2.84,Probation,13654.9,Need-Based Aid,True
+STU-300022,Fatima Tarawneh,fatima.tarawneh22@student-campus.edu,+962 77 512 6559,"419 University Way, Zarqa",21,M,Zarqa,Capital District,2021,Accounting,3.7,Academic Warning,3037.84,None,True
+STU-300023,Khaled Al-Khatib,khaled.alkhatib23@student-campus.edu,+962 78 287 5563,"246 University Way, Irbid",22,M,Irbid,Capital District,2024,Finance,3.08,Good Standing,8131.19,Need-Based Aid,True
+STU-300024,Yousef Masri,yousef.masri24@student-campus.edu,+962 77 871 4872,"95 University Way, Amman",27,F,Amman,Capital District,2021,Software Engineering,2.96,Probation,10520.87,Need-Based Aid,True
+STU-300025,Yasmin Masri,yasmin.masri25@student-campus.edu,+962 78 102 7396,"145 University Way, Irbid",23,F,Irbid,Capital District,2021,Business Administration,2.99,Good Standing,14293.84,Need-Based Aid,True
+STU-300026,Noor Tarawneh,noor.tarawneh26@student-campus.edu,+962 78 322 1958,"306 University Way, Aqaba",23,M,Aqaba,Capital District,2022,Accounting,3.39,Probation,9150.91,Need-Based Aid,True
+STU-300027,Olivia Al-Qudah,olivia.alqudah27@student-campus.edu,+962 79 973 9701,"90 University Way, Mafraq",19,M,Mafraq,Capital District,2025,Computer Science,3.31,Dean's List,3826.6,None,True
+STU-300028,James Haddad,james.haddad28@student-campus.edu,+962 79 982 4853,"216 University Way, Zarqa",25,M,Zarqa,Capital District,2025,Software Engineering,3.34,Good Standing,9382.17,Need-Based Aid,True
+STU-300029,Michael Al-Khatib,michael.alkhatib29@student-campus.edu,+962 78 773 9565,"171 University Way, Zarqa",21,F,Zarqa,Capital District,2021,Psychology,3.34,Probation,4807.37,None,True
+STU-300030,Abdullah Williams,abdullah.williams30@student-campus.edu,+962 77 787 5915,"244 University Way, Jerash",18,F,Jerash,Capital District,2023,Electrical Engineering,4.0,Satisfactory,14641.93,Merit Scholarship,True
+STU-300031,Yousef Al-Majali,yousef.almajali31@student-campus.edu,+962 77 650 4492,"269 University Way, Zarqa",27,F,Zarqa,Capital District,2025,Psychology,2.97,Academic Warning,5995.14,Need-Based Aid,True
+STU-300032,Zaid Al-Qudah,zaid.alqudah32@student-campus.edu,+962 77 548 9900,"370 University Way, Salt",19,F,Salt,Capital District,2023,Electrical Engineering,2.92,Dean's List,10281.42,Need-Based Aid,True
+STU-300033,Sophia Jones,sophia.jones33@student-campus.edu,+962 79 206 3200,"145 University Way, Salt",18,M,Salt,Capital District,2025,Computer Science,2.78,Probation,348.41,None,True
+STU-300034,Tareq Brown,tareq.brown34@student-campus.edu,+962 79 315 6617,"114 University Way, Salt",18,F,Salt,Capital District,2023,Data Science,3.43,Probation,6000.92,Need-Based Aid,True
+STU-300035,James Masri,james.masri35@student-campus.edu,+962 78 145 1058,"180 University Way, Jerash",22,M,Jerash,Capital District,2021,Computer Science,3.66,Satisfactory,13126.61,Need-Based Aid,True
+STU-300036,Daniel Obeidat,daniel.obeidat36@student-campus.edu,+962 79 109 2832,"48 University Way, Jerash",19,M,Jerash,Capital District,2025,Accounting,3.1,Good Standing,9153.41,Need-Based Aid,True
+STU-300037,Emily Al-Majali,emily.almajali37@student-campus.edu,+962 78 230 1685,"167 University Way, Irbid",26,F,Irbid,Capital District,2025,Psychology,2.77,Satisfactory,6659.14,Need-Based Aid,True
+STU-300038,Omar Al-Qudah,omar.alqudah38@student-campus.edu,+962 79 995 7658,"327 University Way, Madaba",23,M,Madaba,Capital District,2021,Electrical Engineering,2.78,Good Standing,14039.06,Need-Based Aid,True
+STU-300039,Khaled Miller,khaled.miller39@student-campus.edu,+962 77 854 6442,"410 University Way, Amman",21,F,Amman,Capital District,2024,Data Science,3.44,Good Standing,12809.77,Need-Based Aid,True
+STU-300040,Emma Miller,emma.miller40@student-campus.edu,+962 78 993 1634,"449 University Way, Zarqa",18,F,Zarqa,Capital District,2022,Civil Engineering,3.48,Good Standing,4833.24,None,True
+STU-300041,Khaled Al-Khatib,khaled.alkhatib41@student-campus.edu,+962 77 124 4164,"214 University Way, Aqaba",22,F,Aqaba,Capital District,2023,Nursing,3.39,Academic Warning,8168.23,Need-Based Aid,True
+STU-300042,Rania Miller,rania.miller42@student-campus.edu,+962 79 963 9785,"179 University Way, Jerash",19,M,Jerash,Capital District,2023,Civil Engineering,2.85,Dean's List,7347.36,Need-Based Aid,True
+STU-300043,Tareq Obeidat,tareq.obeidat43@student-campus.edu,+962 77 710 8119,"186 University Way, Amman",27,F,Amman,Capital District,2023,Psychology,3.25,Good Standing,9483.04,Need-Based Aid,True
+STU-300044,Layla Johnson,layla.johnson44@student-campus.edu,+962 78 145 8144,"10 University Way, Aqaba",20,M,Aqaba,Capital District,2024,Software Engineering,3.2,Probation,5011.67,Need-Based Aid,True
+STU-300045,Fatima Tarawneh,fatima.tarawneh45@student-campus.edu,+962 79 968 3041,"378 University Way, Madaba",22,F,Madaba,Capital District,2025,Nursing,3.25,Dean's List,3663.08,None,True
+STU-300046,James Obeidat,james.obeidat46@student-campus.edu,+962 79 230 4143,"225 University Way, Salt",18,F,Salt,Capital District,2024,Nursing,3.54,Academic Warning,13690.08,Need-Based Aid,True
+STU-300047,Emma Brown,emma.brown47@student-campus.edu,+962 78 661 1006,"165 University Way, Salt",19,F,Salt,Capital District,2025,Psychology,3.25,Good Standing,13858.12,Need-Based Aid,True
+STU-300048,Abdullah Tarawneh,abdullah.tarawneh48@student-campus.edu,+962 78 552 4501,"271 University Way, Mafraq",20,F,Mafraq,Capital District,2023,Psychology,3.46,Probation,12649.84,Need-Based Aid,True
+STU-300049,Olivia Al-Zubi,olivia.alzubi49@student-campus.edu,+962 77 938 4848,"354 University Way, Madaba",18,F,Madaba,Capital District,2025,Civil Engineering,3.18,Dean's List,14673.07,Need-Based Aid,True
+STU-300050,Khaled Jones,khaled.jones50@student-campus.edu,+962 77 586 2193,"243 University Way, Amman",25,F,Amman,Capital District,2021,Data Science,3.28,Good Standing,11174.87,Need-Based Aid,True
+STU-300051,Daniel Johnson,daniel.johnson51@student-campus.edu,+962 77 251 1090,"394 University Way, Jerash",27,M,Jerash,Capital District,2024,Business Administration,3.43,Good Standing,11470.01,Need-Based Aid,True
+STU-300052,Layla Al-Khatib,layla.alkhatib52@student-campus.edu,+962 79 355 2988,"243 University Way, Amman",27,M,Amman,Capital District,2024,Finance,2.49,Good Standing,11438.85,Need-Based Aid,True
+STU-300053,Dina Williams,dina.williams53@student-campus.edu,+962 78 727 9270,"228 University Way, Madaba",20,F,Madaba,Capital District,2025,Finance,3.01,Probation,7209.11,Need-Based Aid,True
+STU-300054,Hamza Brown,hamza.brown54@student-campus.edu,+962 79 383 9540,"258 University Way, Aqaba",25,M,Aqaba,Capital District,2023,Accounting,2.94,Academic Warning,6846.78,Need-Based Aid,True
+STU-300055,Rania Masri,rania.masri55@student-campus.edu,+962 78 427 9849,"51 University Way, Salt",23,M,Salt,Capital District,2022,Civil Engineering,2.86,Dean's List,3603.39,None,True
+STU-300056,Zaid Al-Khatib,zaid.alkhatib56@student-campus.edu,+962 78 517 6421,"287 University Way, Zarqa",18,F,Zarqa,Capital District,2022,Data Science,3.03,Academic Warning,9672.29,Need-Based Aid,True
+STU-300057,Layla Al-Majali,layla.almajali57@student-campus.edu,+962 79 489 8814,"13 University Way, Amman",18,F,Amman,Capital District,2024,Business Administration,3.82,Good Standing,4339.8,Merit Scholarship,True
+STU-300058,Noor Jones,noor.jones58@student-campus.edu,+962 78 324 5471,"233 University Way, Aqaba",23,F,Aqaba,Capital District,2025,Business Administration,2.76,Academic Warning,3867.13,None,True
+STU-300059,Ahmad Tarawneh,ahmad.tarawneh59@student-campus.edu,+962 77 737 9751,"23 University Way, Mafraq",22,F,Mafraq,Capital District,2022,Business Administration,3.59,Satisfactory,8789.42,Need-Based Aid,True
+STU-300060,Michael Johnson,michael.johnson60@student-campus.edu,+962 78 286 1823,"143 University Way, Irbid",18,F,Irbid,Capital District,2024,Software Engineering,2.39,Dean's List,6149.74,Need-Based Aid,True
+STU-300061,Huda Al-Khatib,huda.alkhatib61@student-campus.edu,+962 78 870 7906,"139 University Way, Jerash",27,M,Jerash,Capital District,2023,Nursing,3.0,Academic Warning,3282.85,None,True
+STU-300062,Yasmin Al-Majali,yasmin.almajali62@student-campus.edu,+962 79 170 1659,"396 University Way, Aqaba",25,M,Aqaba,Capital District,2023,Computer Science,3.22,Probation,12240.84,Need-Based Aid,True
+STU-300063,Khaled Al-Khatib,khaled.alkhatib63@student-campus.edu,+962 77 584 2874,"298 University Way, Aqaba",23,M,Aqaba,Capital District,2022,Psychology,3.41,Dean's List,12908.55,Need-Based Aid,True
+STU-300064,Dina Brown,dina.brown64@student-campus.edu,+962 77 418 2771,"306 University Way, Zarqa",27,M,Zarqa,Capital District,2022,Nursing,3.47,Satisfactory,2515.49,None,True
+STU-300065,Noor Johnson,noor.johnson65@student-campus.edu,+962 79 807 4978,"62 University Way, Zarqa",27,F,Zarqa,Capital District,2022,Business Administration,3.51,Academic Warning,112.61,None,True
+STU-300066,Emma Johnson,emma.johnson66@student-campus.edu,+962 79 538 7071,"45 University Way, Madaba",27,F,Madaba,Capital District,2021,Psychology,2.99,Dean's List,5041.95,Need-Based Aid,True
+STU-300067,Ahmad Miller,ahmad.miller67@student-campus.edu,+962 78 750 8532,"372 University Way, Jerash",20,M,Jerash,Capital District,2021,Accounting,2.94,Academic Warning,11962.66,Need-Based Aid,True
+STU-300068,Layla Al-Zubi,layla.alzubi68@student-campus.edu,+962 78 546 5397,"175 University Way, Mafraq",26,M,Mafraq,Capital District,2025,Civil Engineering,3.54,Probation,12587.61,Need-Based Aid,True
+STU-300069,Yousef Obeidat,yousef.obeidat69@student-campus.edu,+962 78 129 9098,"445 University Way, Jerash",23,F,Jerash,Capital District,2024,Electrical Engineering,3.06,Academic Warning,2074.94,None,True
+STU-300070,Hamza Masri,hamza.masri70@student-campus.edu,+962 78 710 5526,"294 University Way, Madaba",25,M,Madaba,Capital District,2023,Nursing,2.58,Good Standing,11615.04,Need-Based Aid,True
+STU-300071,James Al-Khatib,james.alkhatib71@student-campus.edu,+962 79 876 4937,"363 University Way, Mafraq",26,F,Mafraq,Capital District,2024,Electrical Engineering,2.64,Dean's List,1735.56,None,True
+STU-300072,Daniel Brown,daniel.brown72@student-campus.edu,+962 78 326 7625,"364 University Way, Zarqa",19,M,Zarqa,Capital District,2021,Accounting,2.74,Academic Warning,5850.94,Need-Based Aid,True
+STU-300073,Noor Williams,noor.williams73@student-campus.edu,+962 78 863 6419,"190 University Way, Madaba",22,F,Madaba,Capital District,2024,Nursing,3.37,Probation,14979.14,Need-Based Aid,True
+STU-300074,Rania Obeidat,rania.obeidat74@student-campus.edu,+962 78 222 9779,"400 University Way, Aqaba",19,M,Aqaba,Capital District,2021,Electrical Engineering,3.21,Satisfactory,2888.86,None,True
+STU-300075,Abdullah Al-Khatib,abdullah.alkhatib75@student-campus.edu,+962 77 952 4180,"161 University Way, Salt",20,M,Salt,Capital District,2025,Civil Engineering,3.46,Academic Warning,2309.45,None,True
+STU-300076,Fatima Al-Zubi,fatima.alzubi76@student-campus.edu,+962 78 146 1893,"293 University Way, Irbid",22,F,Irbid,Capital District,2025,Computer Science,2.96,Satisfactory,6342.0,Need-Based Aid,True
+STU-300077,David Al-Zubi,david.alzubi77@student-campus.edu,+962 78 590 8216,"184 University Way, Salt",26,M,Salt,Capital District,2021,Software Engineering,3.22,Academic Warning,9295.03,Need-Based Aid,True
+STU-300078,Omar Obeidat,omar.obeidat78@student-campus.edu,+962 78 175 1878,"87 University Way, Jerash",26,M,Jerash,Capital District,2021,Software Engineering,3.43,Academic Warning,13993.51,Need-Based Aid,True
+STU-300079,Michael Obeidat,michael.obeidat79@student-campus.edu,+962 79 710 4697,"407 University Way, Jerash",21,F,Jerash,Capital District,2021,Electrical Engineering,3.01,Dean's List,14712.32,Need-Based Aid,True
+STU-300080,Dina Masri,dina.masri80@student-campus.edu,+962 79 735 1986,"322 University Way, Salt",21,M,Salt,Capital District,2024,Psychology,3.36,Satisfactory,1044.61,None,True
+STU-300081,Abdullah Williams,abdullah.williams81@student-campus.edu,+962 77 277 2229,"90 University Way, Irbid",23,M,Irbid,Capital District,2021,Civil Engineering,2.85,Good Standing,2069.96,None,True
+STU-300082,Layla Masri,layla.masri82@student-campus.edu,+962 77 395 5632,"369 University Way, Amman",27,F,Amman,Capital District,2023,Accounting,2.99,Probation,11861.07,Need-Based Aid,True
+STU-300083,Yousef Williams,yousef.williams83@student-campus.edu,+962 78 217 9922,"125 University Way, Aqaba",27,M,Aqaba,Capital District,2025,Civil Engineering,2.98,Good Standing,4059.48,None,True
+STU-300084,Rania Miller,rania.miller84@student-campus.edu,+962 78 709 5728,"234 University Way, Irbid",20,M,Irbid,Capital District,2021,Software Engineering,2.61,Good Standing,13272.74,Need-Based Aid,True
+STU-300085,Dina Brown,dina.brown85@student-campus.edu,+962 78 182 1653,"231 University Way, Mafraq",19,F,Mafraq,Capital District,2023,Business Administration,3.37,Satisfactory,9951.8,Need-Based Aid,True
+STU-300086,Sophia Obeidat,sophia.obeidat86@student-campus.edu,+962 79 941 5415,"305 University Way, Amman",25,M,Amman,Capital District,2022,Software Engineering,2.94,Dean's List,1677.67,None,True
+STU-300087,Hamza Masri,hamza.masri87@student-campus.edu,+962 79 546 9056,"56 University Way, Irbid",21,F,Irbid,Capital District,2023,Accounting,3.16,Probation,12487.94,Need-Based Aid,True
+STU-300088,Fatima Tarawneh,fatima.tarawneh88@student-campus.edu,+962 78 521 9117,"157 University Way, Irbid",19,F,Irbid,Capital District,2021,Nursing,3.37,Satisfactory,2645.35,None,True
+STU-300089,Emily Al-Majali,emily.almajali89@student-campus.edu,+962 78 218 7622,"273 University Way, Salt",18,M,Salt,Capital District,2023,Software Engineering,3.35,Academic Warning,6352.43,Need-Based Aid,True
+STU-300090,Emma Miller,emma.miller90@student-campus.edu,+962 77 630 6927,"328 University Way, Amman",22,F,Amman,Capital District,2024,Accounting,3.45,Probation,8282.77,Need-Based Aid,True
+STU-300091,Daniel Masri,daniel.masri91@student-campus.edu,+962 78 548 8941,"72 University Way, Irbid",21,M,Irbid,Capital District,2023,Electrical Engineering,3.11,Dean's List,7511.49,Need-Based Aid,True
+STU-300092,Daniel Johnson,daniel.johnson92@student-campus.edu,+962 79 517 2527,"125 University Way, Amman",23,M,Amman,Capital District,2023,Data Science,2.96,Good Standing,10292.44,Need-Based Aid,True
+STU-300093,Dina Haddad,dina.haddad93@student-campus.edu,+962 78 954 8905,"251 University Way, Salt",20,M,Salt,Capital District,2023,Accounting,3.11,Good Standing,9790.3,Need-Based Aid,True
+STU-300094,Dina Smith,dina.smith94@student-campus.edu,+962 77 382 7798,"184 University Way, Irbid",25,F,Irbid,Capital District,2022,Business Administration,2.39,Good Standing,14880.63,Need-Based Aid,True
+STU-300095,Ahmad Obeidat,ahmad.obeidat95@student-campus.edu,+962 77 557 9824,"257 University Way, Mafraq",24,F,Mafraq,Capital District,2025,Psychology,2.5,Satisfactory,14991.33,Need-Based Aid,True
+STU-300096,Huda Smith,huda.smith96@student-campus.edu,+962 77 814 4912,"302 University Way, Madaba",22,F,Madaba,Capital District,2024,Business Administration,2.55,Probation,7746.89,Need-Based Aid,True
+STU-300097,Khaled Miller,khaled.miller97@student-campus.edu,+962 79 930 7246,"207 University Way, Mafraq",19,M,Mafraq,Capital District,2023,Computer Science,2.7,Academic Warning,1427.99,None,True
+STU-300098,Yasmin Al-Majali,yasmin.almajali98@student-campus.edu,+962 77 995 8213,"61 University Way, Madaba",23,F,Madaba,Capital District,2025,Finance,3.33,Good Standing,10917.65,Need-Based Aid,True
+STU-300099,Ahmad Brown,ahmad.brown99@student-campus.edu,+962 78 900 5342,"183 University Way, Zarqa",24,F,Zarqa,Capital District,2022,Business Administration,2.74,Good Standing,14649.96,Need-Based Aid,True
+STU-300100,Daniel Haddad,daniel.haddad100@student-campus.edu,+962 79 835 8994,"287 University Way, Madaba",21,M,Madaba,Capital District,2024,Finance,2.98,Satisfactory,4774.9,None,True
+STU-300101,Sophia Haddad,sophia.haddad101@student-campus.edu,+962 78 200 2646,"237 University Way, Zarqa",20,M,Zarqa,Capital District,2022,Civil Engineering,3.73,Good Standing,6918.13,Need-Based Aid,True
+STU-300102,David Obeidat,david.obeidat102@student-campus.edu,+962 78 467 7141,"230 University Way, Amman",23,M,Amman,Capital District,2023,Computer Science,2.99,Dean's List,6371.65,Need-Based Aid,True
+STU-300103,Khaled Smith,khaled.smith103@student-campus.edu,+962 77 180 7267,"327 University Way, Irbid",21,M,Irbid,Capital District,2022,Psychology,3.48,Academic Warning,771.29,None,True
+STU-300104,Yasmin Johnson,yasmin.johnson104@student-campus.edu,+962 78 361 1153,"421 University Way, Salt",22,F,Salt,Capital District,2024,Electrical Engineering,2.73,Good Standing,10083.97,Need-Based Aid,True
+STU-300105,Noor Williams,noor.williams105@student-campus.edu,+962 78 701 5901,"337 University Way, Mafraq",21,F,Mafraq,Capital District,2021,Data Science,3.06,Probation,5300.07,Need-Based Aid,True
+STU-300106,David Obeidat,david.obeidat106@student-campus.edu,+962 78 209 4886,"205 University Way, Jerash",21,F,Jerash,Capital District,2022,Civil Engineering,2.72,Academic Warning,11811.96,Need-Based Aid,True
+STU-300107,Michael Obeidat,michael.obeidat107@student-campus.edu,+962 77 679 1803,"320 University Way, Salt",25,F,Salt,Capital District,2024,Computer Science,3.0,Satisfactory,12481.8,Need-Based Aid,True
+STU-300108,Noor Jones,noor.jones108@student-campus.edu,+962 79 294 5106,"357 University Way, Aqaba",22,M,Aqaba,Capital District,2023,Psychology,3.53,Good Standing,12318.46,Need-Based Aid,True
+STU-300109,Daniel Haddad,daniel.haddad109@student-campus.edu,+962 79 473 3153,"56 University Way, Amman",22,F,Amman,Capital District,2024,Civil Engineering,2.37,Dean's List,6249.99,Need-Based Aid,True
+STU-300110,Huda Brown,huda.brown110@student-campus.edu,+962 79 997 6994,"281 University Way, Irbid",24,F,Irbid,Capital District,2022,Data Science,3.35,Academic Warning,4823.19,None,True
+STU-300111,Hamza Obeidat,hamza.obeidat111@student-campus.edu,+962 78 177 3306,"396 University Way, Zarqa",21,M,Zarqa,Capital District,2023,Civil Engineering,3.26,Academic Warning,11232.31,Need-Based Aid,True
+STU-300112,Emma Brown,emma.brown112@student-campus.edu,+962 78 114 5332,"284 University Way, Zarqa",19,M,Zarqa,Capital District,2023,Finance,2.88,Academic Warning,12020.84,Need-Based Aid,True
+STU-300113,Dina Al-Qudah,dina.alqudah113@student-campus.edu,+962 77 791 4830,"251 University Way, Madaba",26,M,Madaba,Capital District,2024,Psychology,2.5,Satisfactory,7368.86,Need-Based Aid,True
+STU-300114,Sophia Smith,sophia.smith114@student-campus.edu,+962 79 943 8606,"368 University Way, Zarqa",18,F,Zarqa,Capital District,2022,Psychology,3.18,Satisfactory,13395.47,Need-Based Aid,True
+STU-300115,Daniel Tarawneh,daniel.tarawneh115@student-campus.edu,+962 78 604 2902,"59 University Way, Amman",23,M,Amman,Capital District,2021,Data Science,2.91,Dean's List,2158.63,None,True
+STU-300116,Emily Al-Zubi,emily.alzubi116@student-campus.edu,+962 79 860 3531,"222 University Way, Jerash",20,M,Jerash,Capital District,2023,Accounting,3.25,Academic Warning,13186.03,Need-Based Aid,True
+STU-300117,Yasmin Johnson,yasmin.johnson117@student-campus.edu,+962 77 554 8285,"130 University Way, Madaba",20,F,Madaba,Capital District,2021,Civil Engineering,3.16,Academic Warning,1441.43,None,True
+STU-300118,Tareq Williams,tareq.williams118@student-campus.edu,+962 78 382 4109,"72 University Way, Amman",18,F,Amman,Capital District,2023,Finance,3.87,Satisfactory,2302.88,Merit Scholarship,True
+STU-300119,Yousef Williams,yousef.williams119@student-campus.edu,+962 78 349 3063,"412 University Way, Amman",27,M,Amman,Capital District,2021,Psychology,3.04,Good Standing,8007.6,Need-Based Aid,True
+STU-300120,Yousef Miller,yousef.miller120@student-campus.edu,+962 77 436 3417,"413 University Way, Aqaba",22,M,Aqaba,Capital District,2025,Electrical Engineering,2.69,Probation,1012.78,None,True
+STU-300121,Rania Miller,rania.miller121@student-campus.edu,+962 77 212 1422,"77 University Way, Salt",21,M,Salt,Capital District,2025,Data Science,3.23,Good Standing,792.11,None,True
+STU-300122,Fatima Jones,fatima.jones122@student-campus.edu,+962 77 371 1858,"74 University Way, Amman",25,F,Amman,Capital District,2023,Psychology,3.25,Good Standing,7.78,None,True
+STU-300123,James Haddad,james.haddad123@student-campus.edu,+962 79 707 2786,"241 University Way, Madaba",18,M,Madaba,Capital District,2024,Accounting,3.76,Dean's List,6544.75,Merit Scholarship,True
+STU-300124,Sophia Al-Majali,sophia.almajali124@student-campus.edu,+962 77 590 7580,"228 University Way, Amman",23,M,Amman,Capital District,2024,Civil Engineering,3.53,Probation,11619.36,Need-Based Aid,True
+STU-300125,Yasmin Brown,yasmin.brown125@student-campus.edu,+962 79 251 2076,"74 University Way, Madaba",22,F,Madaba,Capital District,2021,Software Engineering,3.31,Academic Warning,522.58,None,True
+STU-300126,Sophia Williams,sophia.williams126@student-campus.edu,+962 79 643 5831,"242 University Way, Jerash",23,F,Jerash,Capital District,2023,Finance,3.81,Probation,9783.86,Merit Scholarship,True
+STU-300127,Tareq Jones,tareq.jones127@student-campus.edu,+962 78 333 7779,"183 University Way, Jerash",19,F,Jerash,Capital District,2022,Finance,2.62,Dean's List,12346.91,Need-Based Aid,True
+STU-300128,Salma Tarawneh,salma.tarawneh128@student-campus.edu,+962 79 361 7132,"88 University Way, Madaba",27,F,Madaba,Capital District,2024,Nursing,2.86,Dean's List,2520.01,None,True
+STU-300129,Yousef Haddad,yousef.haddad129@student-campus.edu,+962 79 856 7105,"425 University Way, Zarqa",20,M,Zarqa,Capital District,2024,Software Engineering,2.73,Dean's List,2202.96,None,True
+STU-300130,Emily Al-Majali,emily.almajali130@student-campus.edu,+962 79 225 7730,"191 University Way, Madaba",24,F,Madaba,Capital District,2025,Finance,2.97,Probation,12912.01,Need-Based Aid,True
+STU-300131,Olivia Al-Majali,olivia.almajali131@student-campus.edu,+962 77 691 9313,"118 University Way, Madaba",25,M,Madaba,Capital District,2023,Psychology,2.53,Satisfactory,12346.87,Need-Based Aid,True
+STU-300132,Emma Masri,emma.masri132@student-campus.edu,+962 77 880 5564,"303 University Way, Madaba",21,M,Madaba,Capital District,2023,Software Engineering,3.44,Good Standing,8084.13,Need-Based Aid,True
+STU-300133,Layla Miller,layla.miller133@student-campus.edu,+962 79 773 5381,"24 University Way, Amman",19,M,Amman,Capital District,2025,Psychology,3.05,Probation,12288.0,Need-Based Aid,True
+STU-300134,Rania Brown,rania.brown134@student-campus.edu,+962 77 990 3347,"299 University Way, Amman",20,F,Amman,Capital District,2023,Nursing,2.49,Satisfactory,1391.34,None,True
+STU-300135,Yousef Al-Zubi,yousef.alzubi135@student-campus.edu,+962 78 529 8432,"184 University Way, Aqaba",26,M,Aqaba,Capital District,2025,Software Engineering,2.69,Dean's List,5917.22,Need-Based Aid,True
+STU-300136,Fatima Obeidat,fatima.obeidat136@student-campus.edu,+962 77 259 3579,"396 University Way, Zarqa",27,M,Zarqa,Capital District,2025,Psychology,3.29,Satisfactory,11066.96,Need-Based Aid,True
+STU-300137,Emma Haddad,emma.haddad137@student-campus.edu,+962 79 552 7785,"149 University Way, Mafraq",27,M,Mafraq,Capital District,2024,Accounting,3.53,Satisfactory,3861.78,None,True
+STU-300138,James Haddad,james.haddad138@student-campus.edu,+962 79 794 8972,"279 University Way, Salt",20,F,Salt,Capital District,2021,Business Administration,4.0,Satisfactory,11284.93,Merit Scholarship,True
+STU-300139,Omar Al-Khatib,omar.alkhatib139@student-campus.edu,+962 77 408 4460,"402 University Way, Amman",24,M,Amman,Capital District,2021,Psychology,4.0,Academic Warning,7562.68,Merit Scholarship,True
+STU-300140,Rania Obeidat,rania.obeidat140@student-campus.edu,+962 79 540 3878,"76 University Way, Mafraq",19,F,Mafraq,Capital District,2021,Software Engineering,3.34,Satisfactory,11253.99,Need-Based Aid,True
+STU-300141,Emily Brown,emily.brown141@student-campus.edu,+962 77 506 1693,"233 University Way, Madaba",25,M,Madaba,Capital District,2025,Finance,2.7,Good Standing,6970.19,Need-Based Aid,True
+STU-300142,Dina Haddad,dina.haddad142@student-campus.edu,+962 79 755 7843,"158 University Way, Jerash",22,M,Jerash,Capital District,2024,Psychology,2.19,Satisfactory,5518.57,Need-Based Aid,True
+STU-300143,Salma Al-Majali,salma.almajali143@student-campus.edu,+962 79 470 2443,"233 University Way, Mafraq",25,M,Mafraq,Capital District,2025,Data Science,3.27,Satisfactory,3287.84,None,True
+STU-300144,Khaled Tarawneh,khaled.tarawneh144@student-campus.edu,+962 78 991 6083,"391 University Way, Zarqa",24,F,Zarqa,Capital District,2025,Business Administration,2.78,Probation,3125.69,None,True
+STU-300145,Khaled Al-Qudah,khaled.alqudah145@student-campus.edu,+962 79 622 4176,"407 University Way, Zarqa",27,F,Zarqa,Capital District,2025,Software Engineering,2.96,Good Standing,11272.36,Need-Based Aid,True
+STU-300146,Fatima Brown,fatima.brown146@student-campus.edu,+962 78 302 3842,"318 University Way, Irbid",22,M,Irbid,Capital District,2021,Electrical Engineering,2.87,Good Standing,1783.66,None,True
+STU-300147,Daniel Haddad,daniel.haddad147@student-campus.edu,+962 79 678 6295,"331 University Way, Mafraq",21,F,Mafraq,Capital District,2024,Accounting,3.09,Good Standing,1289.74,None,True
+STU-300148,Zaid Masri,zaid.masri148@student-campus.edu,+962 78 705 1920,"190 University Way, Salt",23,M,Salt,Capital District,2024,Accounting,3.63,Dean's List,2644.37,None,True
+STU-300149,Noor Masri,noor.masri149@student-campus.edu,+962 78 178 2479,"324 University Way, Madaba",19,F,Madaba,Capital District,2021,Computer Science,3.22,Academic Warning,2630.2,None,True
+STU-300150,Dina Johnson,dina.johnson150@student-campus.edu,+962 78 719 8792,"266 University Way, Aqaba",19,M,Aqaba,Capital District,2024,Computer Science,3.08,Probation,12346.61,Need-Based Aid,True
+STU-300151,Omar Masri,omar.masri151@student-campus.edu,+962 77 353 8172,"234 University Way, Irbid",23,M,Irbid,Capital District,2021,Nursing,2.68,Dean's List,5977.6,Need-Based Aid,True
+STU-300152,Fatima Al-Qudah,fatima.alqudah152@student-campus.edu,+962 79 712 1857,"414 University Way, Madaba",26,F,Madaba,Capital District,2024,Business Administration,2.4,Satisfactory,14855.83,Need-Based Aid,True
+STU-300153,Yousef Al-Qudah,yousef.alqudah153@student-campus.edu,+962 78 841 3463,"180 University Way, Salt",23,M,Salt,Capital District,2024,Finance,2.93,Dean's List,2058.17,None,True
+STU-300154,Michael Williams,michael.williams154@student-campus.edu,+962 77 709 2388,"168 University Way, Jerash",25,F,Jerash,Capital District,2023,Nursing,3.13,Good Standing,9803.1,Need-Based Aid,True
+STU-300155,Daniel Jones,daniel.jones155@student-campus.edu,+962 79 786 7937,"270 University Way, Zarqa",19,F,Zarqa,Capital District,2025,Data Science,3.95,Satisfactory,6730.94,Merit Scholarship,True
+STU-300156,Ahmad Al-Qudah,ahmad.alqudah156@student-campus.edu,+962 78 296 4711,"80 University Way, Madaba",22,M,Madaba,Capital District,2022,Data Science,3.21,Satisfactory,5893.77,Need-Based Aid,True
+STU-300157,Yousef Obeidat,yousef.obeidat157@student-campus.edu,+962 79 444 3147,"315 University Way, Amman",24,F,Amman,Capital District,2025,Finance,3.59,Dean's List,13126.26,Need-Based Aid,True
+STU-300158,Zaid Al-Zubi,zaid.alzubi158@student-campus.edu,+962 77 520 6968,"356 University Way, Mafraq",21,M,Mafraq,Capital District,2022,Psychology,2.93,Good Standing,14633.93,Need-Based Aid,True
+STU-300159,Dina Johnson,dina.johnson159@student-campus.edu,+962 78 928 8684,"437 University Way, Aqaba",18,M,Aqaba,Capital District,2022,Accounting,2.62,Satisfactory,13092.88,Need-Based Aid,True
+STU-300160,Fatima Williams,fatima.williams160@student-campus.edu,+962 78 614 9641,"224 University Way, Salt",18,M,Salt,Capital District,2024,Accounting,2.72,Probation,2884.51,None,True
+STU-300161,Abdullah Jones,abdullah.jones161@student-campus.edu,+962 79 592 7081,"293 University Way, Amman",27,M,Amman,Capital District,2023,Data Science,2.82,Probation,3311.97,None,True
+STU-300162,David Miller,david.miller162@student-campus.edu,+962 77 379 8361,"272 University Way, Zarqa",24,M,Zarqa,Capital District,2023,Software Engineering,4.0,Probation,9841.11,Merit Scholarship,True
+STU-300163,Layla Haddad,layla.haddad163@student-campus.edu,+962 78 154 7495,"267 University Way, Amman",20,F,Amman,Capital District,2023,Accounting,2.78,Good Standing,4336.25,None,True
+STU-300164,Khaled Tarawneh,khaled.tarawneh164@student-campus.edu,+962 78 201 6493,"415 University Way, Amman",20,M,Amman,Capital District,2022,Nursing,3.53,Dean's List,11020.88,Need-Based Aid,True
+STU-300165,Zaid Al-Majali,zaid.almajali165@student-campus.edu,+962 78 730 1086,"50 University Way, Mafraq",18,M,Mafraq,Capital District,2022,Accounting,2.74,Satisfactory,8496.31,Need-Based Aid,True
+STU-300166,Rania Al-Khatib,rania.alkhatib166@student-campus.edu,+962 77 894 5720,"131 University Way, Jerash",27,F,Jerash,Capital District,2025,Finance,3.57,Good Standing,8263.63,Need-Based Aid,True
+STU-300167,Tareq Al-Majali,tareq.almajali167@student-campus.edu,+962 77 213 9189,"315 University Way, Mafraq",19,M,Mafraq,Capital District,2025,Business Administration,3.32,Good Standing,12428.2,Need-Based Aid,True
+STU-300168,Daniel Smith,daniel.smith168@student-campus.edu,+962 78 101 6780,"133 University Way, Salt",25,F,Salt,Capital District,2022,Electrical Engineering,3.08,Probation,10657.99,Need-Based Aid,True
+STU-300169,Hamza Williams,hamza.williams169@student-campus.edu,+962 79 657 9312,"412 University Way, Zarqa",20,M,Zarqa,Capital District,2023,Finance,3.13,Dean's List,398.67,None,True
+STU-300170,Salma Miller,salma.miller170@student-campus.edu,+962 78 865 1266,"192 University Way, Madaba",21,M,Madaba,Capital District,2024,Computer Science,2.86,Academic Warning,741.89,None,True
+STU-300171,Fatima Al-Khatib,fatima.alkhatib171@student-campus.edu,+962 77 460 9945,"183 University Way, Irbid",20,M,Irbid,Capital District,2023,Psychology,3.35,Dean's List,9023.38,Need-Based Aid,True
+STU-300172,Emma Masri,emma.masri172@student-campus.edu,+962 79 894 8498,"28 University Way, Zarqa",26,F,Zarqa,Capital District,2022,Data Science,2.95,Academic Warning,7292.88,Need-Based Aid,True
+STU-300173,Abdullah Al-Majali,abdullah.almajali173@student-campus.edu,+962 79 507 9897,"252 University Way, Salt",18,F,Salt,Capital District,2023,Computer Science,2.6,Good Standing,3902.77,None,True
+STU-300174,Omar Jones,omar.jones174@student-campus.edu,+962 79 439 5476,"73 University Way, Amman",21,F,Amman,Capital District,2023,Civil Engineering,2.57,Good Standing,6279.84,Need-Based Aid,True
+STU-300175,Layla Tarawneh,layla.tarawneh175@student-campus.edu,+962 78 808 9151,"198 University Way, Irbid",20,F,Irbid,Capital District,2023,Business Administration,3.23,Academic Warning,11368.65,Need-Based Aid,True
+STU-300176,Yousef Brown,yousef.brown176@student-campus.edu,+962 79 400 6262,"62 University Way, Irbid",20,M,Irbid,Capital District,2024,Software Engineering,3.86,Academic Warning,12399.17,Merit Scholarship,True
+STU-300177,Huda Williams,huda.williams177@student-campus.edu,+962 77 806 8272,"189 University Way, Jerash",19,F,Jerash,Capital District,2024,Civil Engineering,3.22,Satisfactory,8418.35,Need-Based Aid,True
+STU-300178,Omar Brown,omar.brown178@student-campus.edu,+962 79 910 1939,"48 University Way, Salt",27,F,Salt,Capital District,2024,Psychology,3.1,Satisfactory,5780.54,Need-Based Aid,True
+STU-300179,Fatima Smith,fatima.smith179@student-campus.edu,+962 77 229 2101,"130 University Way, Mafraq",21,F,Mafraq,Capital District,2022,Computer Science,3.28,Good Standing,4060.45,None,True
+STU-300180,Fatima Tarawneh,fatima.tarawneh180@student-campus.edu,+962 79 560 7077,"200 University Way, Irbid",22,F,Irbid,Capital District,2025,Computer Science,3.74,Probation,7828.78,Need-Based Aid,True
+STU-300181,Yousef Johnson,yousef.johnson181@student-campus.edu,+962 78 765 5566,"137 University Way, Jerash",21,M,Jerash,Capital District,2023,Finance,3.25,Good Standing,4721.24,None,True
+STU-300182,Ahmad Brown,ahmad.brown182@student-campus.edu,+962 79 220 5288,"406 University Way, Jerash",27,F,Jerash,Capital District,2025,Accounting,2.97,Good Standing,8461.43,Need-Based Aid,True
+STU-300183,David Masri,david.masri183@student-campus.edu,+962 77 225 3223,"446 University Way, Mafraq",21,M,Mafraq,Capital District,2023,Psychology,3.65,Good Standing,10149.79,Need-Based Aid,True
+STU-300184,Dina Al-Zubi,dina.alzubi184@student-campus.edu,+962 79 166 9882,"158 University Way, Madaba",21,F,Madaba,Capital District,2023,Software Engineering,3.34,Academic Warning,991.19,None,True
+STU-300185,Hamza Brown,hamza.brown185@student-campus.edu,+962 77 305 3275,"131 University Way, Aqaba",21,F,Aqaba,Capital District,2025,Nursing,3.84,Good Standing,16.01,Merit Scholarship,True
+STU-300186,Ahmad Al-Qudah,ahmad.alqudah186@student-campus.edu,+962 79 232 2412,"43 University Way, Mafraq",21,F,Mafraq,Capital District,2023,Psychology,3.23,Probation,3184.16,None,True
+STU-300187,Salma Brown,salma.brown187@student-campus.edu,+962 79 175 3053,"172 University Way, Jerash",18,M,Jerash,Capital District,2024,Finance,2.6,Academic Warning,13417.67,Need-Based Aid,True
+STU-300188,Dina Masri,dina.masri188@student-campus.edu,+962 77 543 9238,"38 University Way, Irbid",24,M,Irbid,Capital District,2022,Nursing,2.53,Probation,9694.36,Need-Based Aid,True
+STU-300189,James Al-Zubi,james.alzubi189@student-campus.edu,+962 79 330 6669,"275 University Way, Madaba",18,F,Madaba,Capital District,2022,Data Science,3.89,Satisfactory,2579.41,Merit Scholarship,True
+STU-300190,Yousef Obeidat,yousef.obeidat190@student-campus.edu,+962 79 410 9740,"57 University Way, Irbid",20,M,Irbid,Capital District,2023,Finance,3.93,Good Standing,13353.96,Merit Scholarship,True
+STU-300191,Michael Johnson,michael.johnson191@student-campus.edu,+962 79 142 1464,"51 University Way, Madaba",20,M,Madaba,Capital District,2025,Data Science,3.07,Good Standing,7049.34,Need-Based Aid,True
+STU-300192,Daniel Jones,daniel.jones192@student-campus.edu,+962 79 754 1496,"264 University Way, Jerash",20,F,Jerash,Capital District,2022,Civil Engineering,2.98,Probation,7141.38,Need-Based Aid,True
+STU-300193,Daniel Obeidat,daniel.obeidat193@student-campus.edu,+962 78 174 1981,"90 University Way, Salt",25,F,Salt,Capital District,2024,Electrical Engineering,3.81,Academic Warning,14033.13,Merit Scholarship,True
+STU-300194,Layla Masri,layla.masri194@student-campus.edu,+962 78 982 6231,"385 University Way, Irbid",23,F,Irbid,Capital District,2023,Electrical Engineering,2.65,Academic Warning,892.3,None,True
+STU-300195,Salma Al-Zubi,salma.alzubi195@student-campus.edu,+962 78 347 8642,"72 University Way, Zarqa",27,F,Zarqa,Capital District,2025,Finance,2.75,Satisfactory,3227.67,None,True
+STU-300196,Dina Al-Khatib,dina.alkhatib196@student-campus.edu,+962 78 984 7850,"137 University Way, Salt",21,M,Salt,Capital District,2021,Software Engineering,3.44,Good Standing,8786.57,Need-Based Aid,True
+STU-300197,Huda Johnson,huda.johnson197@student-campus.edu,+962 79 578 9171,"167 University Way, Mafraq",27,F,Mafraq,Capital District,2022,Electrical Engineering,2.97,Satisfactory,2932.3,None,True
+STU-300198,Ahmad Haddad,ahmad.haddad198@student-campus.edu,+962 77 697 6781,"34 University Way, Aqaba",18,M,Aqaba,Capital District,2024,Finance,3.15,Academic Warning,10192.91,Need-Based Aid,True
+STU-300199,Noor Masri,noor.masri199@student-campus.edu,+962 77 541 3194,"145 University Way, Amman",23,F,Amman,Capital District,2023,Accounting,3.08,Probation,3211.38,None,True
+STU-300200,Salma Al-Qudah,salma.alqudah200@student-campus.edu,+962 78 666 5728,"47 University Way, Aqaba",25,F,Aqaba,Capital District,2021,Business Administration,3.3,Dean's List,1487.35,None,True
+STU-300201,James Masri,james.masri201@student-campus.edu,+962 77 199 7453,"201 University Way, Zarqa",23,F,Zarqa,Capital District,2025,Civil Engineering,3.78,Probation,3104.78,Merit Scholarship,True
+STU-300202,Emily Al-Qudah,emily.alqudah202@student-campus.edu,+962 79 141 1742,"29 University Way, Jerash",27,M,Jerash,Capital District,2025,Electrical Engineering,3.19,Good Standing,6341.01,Need-Based Aid,True
+STU-300203,David Al-Qudah,david.alqudah203@student-campus.edu,+962 79 627 3290,"177 University Way, Irbid",21,F,Irbid,Capital District,2024,Finance,3.44,Academic Warning,2642.07,None,True
+STU-300204,Hamza Tarawneh,hamza.tarawneh204@student-campus.edu,+962 79 948 9351,"282 University Way, Madaba",18,F,Madaba,Capital District,2025,Civil Engineering,2.23,Probation,2020.38,None,True
+STU-300205,David Johnson,david.johnson205@student-campus.edu,+962 78 789 2795,"223 University Way, Madaba",25,F,Madaba,Capital District,2021,Accounting,3.13,Satisfactory,12904.23,Need-Based Aid,True
+STU-300206,Olivia Miller,olivia.miller206@student-campus.edu,+962 79 901 4728,"379 University Way, Salt",18,M,Salt,Capital District,2024,Psychology,2.77,Dean's List,4805.96,None,True
+STU-300207,Michael Masri,michael.masri207@student-campus.edu,+962 77 941 4968,"26 University Way, Jerash",25,M,Jerash,Capital District,2025,Finance,2.6,Good Standing,5411.38,Need-Based Aid,True
+STU-300208,Abdullah Al-Majali,abdullah.almajali208@student-campus.edu,+962 78 807 4340,"220 University Way, Irbid",25,F,Irbid,Capital District,2024,Nursing,2.75,Academic Warning,829.06,None,True
+STU-300209,Olivia Brown,olivia.brown209@student-campus.edu,+962 79 432 8837,"279 University Way, Aqaba",26,F,Aqaba,Capital District,2025,Data Science,3.0,Dean's List,5360.54,Need-Based Aid,True
+STU-300210,Huda Al-Zubi,huda.alzubi210@student-campus.edu,+962 79 890 5331,"322 University Way, Madaba",22,F,Madaba,Capital District,2023,Finance,3.56,Academic Warning,3972.11,None,True
+STU-300211,Abdullah Al-Khatib,abdullah.alkhatib211@student-campus.edu,+962 78 889 5735,"370 University Way, Aqaba",26,M,Aqaba,Capital District,2023,Finance,2.55,Satisfactory,9157.28,Need-Based Aid,True
+STU-300212,David Brown,david.brown212@student-campus.edu,+962 79 914 5480,"157 University Way, Madaba",19,M,Madaba,Capital District,2024,Nursing,3.16,Academic Warning,3080.85,None,True
+STU-300213,Michael Williams,michael.williams213@student-campus.edu,+962 77 397 1689,"157 University Way, Madaba",22,M,Madaba,Capital District,2024,Business Administration,2.93,Probation,13325.48,Need-Based Aid,True
+STU-300214,Fatima Masri,fatima.masri214@student-campus.edu,+962 79 377 5450,"80 University Way, Aqaba",19,M,Aqaba,Capital District,2022,Accounting,3.0,Satisfactory,13945.0,Need-Based Aid,True
+STU-300215,Sophia Brown,sophia.brown215@student-campus.edu,+962 79 643 4697,"336 University Way, Amman",25,M,Amman,Capital District,2022,Electrical Engineering,3.6,Probation,1497.47,None,True
+STU-300216,Omar Haddad,omar.haddad216@student-campus.edu,+962 79 889 3252,"12 University Way, Zarqa",25,M,Zarqa,Capital District,2024,Nursing,3.39,Academic Warning,1611.04,None,True
+STU-300217,Layla Williams,layla.williams217@student-campus.edu,+962 78 392 1969,"403 University Way, Salt",26,M,Salt,Capital District,2022,Accounting,3.75,Academic Warning,1729.9,Merit Scholarship,True
+STU-300218,Daniel Johnson,daniel.johnson218@student-campus.edu,+962 78 957 3880,"28 University Way, Irbid",25,F,Irbid,Capital District,2021,Finance,3.08,Good Standing,9293.54,Need-Based Aid,True
+STU-300219,Yasmin Al-Zubi,yasmin.alzubi219@student-campus.edu,+962 79 717 2758,"181 University Way, Salt",21,F,Salt,Capital District,2021,Computer Science,2.84,Satisfactory,1829.53,None,True
+STU-300220,Dina Williams,dina.williams220@student-campus.edu,+962 79 579 5470,"108 University Way, Irbid",18,M,Irbid,Capital District,2024,Finance,3.05,Probation,12785.73,Need-Based Aid,True
+STU-300221,Huda Al-Zubi,huda.alzubi221@student-campus.edu,+962 79 445 5833,"300 University Way, Amman",27,M,Amman,Capital District,2022,Civil Engineering,3.26,Academic Warning,11314.07,Need-Based Aid,True
+STU-300222,Hamza Johnson,hamza.johnson222@student-campus.edu,+962 77 510 2562,"104 University Way, Madaba",22,M,Madaba,Capital District,2025,Business Administration,3.23,Academic Warning,12297.13,Need-Based Aid,True
+STU-300223,Yasmin Al-Qudah,yasmin.alqudah223@student-campus.edu,+962 77 557 5374,"178 University Way, Jerash",18,F,Jerash,Capital District,2023,Computer Science,2.66,Good Standing,7890.91,Need-Based Aid,True
+STU-300224,Michael Brown,michael.brown224@student-campus.edu,+962 79 341 2017,"351 University Way, Madaba",27,M,Madaba,Capital District,2023,Computer Science,3.19,Probation,14950.16,Need-Based Aid,True
+STU-300225,Dina Obeidat,dina.obeidat225@student-campus.edu,+962 79 220 5833,"198 University Way, Salt",27,M,Salt,Capital District,2025,Business Administration,3.25,Good Standing,662.63,None,True
+STU-300226,Khaled Al-Zubi,khaled.alzubi226@student-campus.edu,+962 78 818 9998,"251 University Way, Madaba",22,M,Madaba,Capital District,2024,Data Science,4.0,Academic Warning,6018.97,Merit Scholarship,True
+STU-300227,Khaled Williams,khaled.williams227@student-campus.edu,+962 79 820 6927,"49 University Way, Mafraq",25,M,Mafraq,Capital District,2025,Software Engineering,3.99,Probation,4859.05,Merit Scholarship,True
+STU-300228,Omar Miller,omar.miller228@student-campus.edu,+962 77 435 9525,"236 University Way, Irbid",18,M,Irbid,Capital District,2022,Finance,2.77,Probation,14229.68,Need-Based Aid,True
+STU-300229,Emma Al-Khatib,emma.alkhatib229@student-campus.edu,+962 77 564 3161,"272 University Way, Mafraq",18,F,Mafraq,Capital District,2021,Accounting,3.02,Probation,8652.91,Need-Based Aid,True
+STU-300230,Dina Johnson,dina.johnson230@student-campus.edu,+962 79 122 7487,"140 University Way, Salt",20,M,Salt,Capital District,2024,Finance,2.49,Dean's List,12092.86,Need-Based Aid,True
+STU-300231,Olivia Al-Khatib,olivia.alkhatib231@student-campus.edu,+962 78 817 2044,"287 University Way, Jerash",24,M,Jerash,Capital District,2021,Software Engineering,2.88,Probation,2555.12,None,True
+STU-300232,Yousef Masri,yousef.masri232@student-campus.edu,+962 77 884 7887,"201 University Way, Irbid",19,F,Irbid,Capital District,2024,Civil Engineering,3.29,Dean's List,14679.51,Need-Based Aid,True
+STU-300233,Dina Miller,dina.miller233@student-campus.edu,+962 79 980 6697,"70 University Way, Irbid",18,M,Irbid,Capital District,2021,Business Administration,3.69,Academic Warning,7479.59,Need-Based Aid,True
+STU-300234,Emily Tarawneh,emily.tarawneh234@student-campus.edu,+962 77 405 8585,"354 University Way, Amman",24,F,Amman,Capital District,2022,Data Science,2.82,Probation,7405.08,Need-Based Aid,True
+STU-300235,Emily Tarawneh,emily.tarawneh235@student-campus.edu,+962 77 382 4088,"381 University Way, Madaba",25,M,Madaba,Capital District,2024,Electrical Engineering,2.86,Good Standing,14563.27,Need-Based Aid,True
+STU-300236,Omar Jones,omar.jones236@student-campus.edu,+962 77 168 2653,"314 University Way, Aqaba",25,M,Aqaba,Capital District,2021,Psychology,2.18,Academic Warning,5710.99,Need-Based Aid,True
+STU-300237,Dina Johnson,dina.johnson237@student-campus.edu,+962 78 339 9843,"121 University Way, Jerash",25,M,Jerash,Capital District,2021,Electrical Engineering,3.08,Dean's List,5962.88,Need-Based Aid,True
+STU-300238,Zaid Smith,zaid.smith238@student-campus.edu,+962 79 712 6253,"131 University Way, Madaba",26,F,Madaba,Capital District,2025,Electrical Engineering,2.67,Satisfactory,8771.29,Need-Based Aid,True
+STU-300239,Zaid Williams,zaid.williams239@student-campus.edu,+962 78 162 3869,"330 University Way, Salt",24,F,Salt,Capital District,2024,Electrical Engineering,2.91,Probation,1920.79,None,True
+STU-300240,Emily Masri,emily.masri240@student-campus.edu,+962 79 526 7688,"86 University Way, Madaba",23,F,Madaba,Capital District,2024,Nursing,2.76,Dean's List,4816.28,None,True
+STU-300241,Salma Al-Zubi,salma.alzubi241@student-campus.edu,+962 78 978 3365,"422 University Way, Aqaba",26,F,Aqaba,Capital District,2022,Accounting,3.11,Probation,2898.12,None,True
+STU-300242,Omar Smith,omar.smith242@student-campus.edu,+962 78 348 5177,"114 University Way, Irbid",21,F,Irbid,Capital District,2025,Business Administration,2.36,Academic Warning,1549.25,None,True
+STU-300243,Daniel Haddad,daniel.haddad243@student-campus.edu,+962 77 374 7179,"354 University Way, Aqaba",18,M,Aqaba,Capital District,2021,Nursing,2.49,Academic Warning,12992.17,Need-Based Aid,True
+STU-300244,Yousef Al-Khatib,yousef.alkhatib244@student-campus.edu,+962 77 990 6455,"165 University Way, Mafraq",25,M,Mafraq,Capital District,2022,Finance,4.0,Probation,8839.97,Merit Scholarship,True
+STU-300245,Abdullah Al-Khatib,abdullah.alkhatib245@student-campus.edu,+962 78 345 6269,"407 University Way, Aqaba",20,F,Aqaba,Capital District,2022,Accounting,2.57,Dean's List,5380.09,Need-Based Aid,True
+STU-300246,Salma Masri,salma.masri246@student-campus.edu,+962 78 625 9147,"248 University Way, Salt",27,M,Salt,Capital District,2023,Nursing,2.66,Probation,6130.04,Need-Based Aid,True
+STU-300247,Olivia Masri,olivia.masri247@student-campus.edu,+962 78 146 4625,"389 University Way, Madaba",22,M,Madaba,Capital District,2023,Electrical Engineering,3.98,Satisfactory,6472.79,Merit Scholarship,True
+STU-300248,Ahmad Obeidat,ahmad.obeidat248@student-campus.edu,+962 78 256 4214,"178 University Way, Jerash",26,M,Jerash,Capital District,2025,Psychology,4.0,Probation,9497.24,Merit Scholarship,True
+STU-300249,Salma Johnson,salma.johnson249@student-campus.edu,+962 78 881 9005,"380 University Way, Madaba",18,F,Madaba,Capital District,2025,Accounting,2.62,Good Standing,13901.54,Need-Based Aid,True
+STU-300250,Dina Al-Zubi,dina.alzubi250@student-campus.edu,+962 77 655 1962,"278 University Way, Mafraq",24,M,Mafraq,Capital District,2022,Data Science,2.98,Satisfactory,13991.69,Need-Based Aid,True
+STU-300251,Yousef Miller,yousef.miller251@student-campus.edu,+962 79 336 2113,"372 University Way, Irbid",22,M,Irbid,Capital District,2024,Computer Science,3.3,Dean's List,5872.38,Need-Based Aid,True
+STU-300252,Ahmad Al-Khatib,ahmad.alkhatib252@student-campus.edu,+962 79 753 8916,"347 University Way, Amman",22,F,Amman,Capital District,2023,Accounting,3.93,Probation,4938.94,Merit Scholarship,True
+STU-300253,Ahmad Al-Majali,ahmad.almajali253@student-campus.edu,+962 77 642 5501,"284 University Way, Amman",20,F,Amman,Capital District,2024,Finance,2.71,Probation,6765.7,Need-Based Aid,True
+STU-300254,Ahmad Smith,ahmad.smith254@student-campus.edu,+962 79 252 4948,"108 University Way, Zarqa",27,F,Zarqa,Capital District,2021,Data Science,3.04,Academic Warning,8519.01,Need-Based Aid,True
+STU-300255,Fatima Obeidat,fatima.obeidat255@student-campus.edu,+962 78 678 4984,"366 University Way, Jerash",21,M,Jerash,Capital District,2023,Software Engineering,3.5,Academic Warning,6927.27,Need-Based Aid,True
+STU-300256,Noor Williams,noor.williams256@student-campus.edu,+962 78 486 8798,"38 University Way, Jerash",26,M,Jerash,Capital District,2021,Computer Science,3.35,Dean's List,9881.3,Need-Based Aid,True
+STU-300257,David Al-Zubi,david.alzubi257@student-campus.edu,+962 79 978 2562,"280 University Way, Madaba",22,M,Madaba,Capital District,2024,Accounting,2.98,Dean's List,8315.99,Need-Based Aid,True
+STU-300258,Khaled Al-Khatib,khaled.alkhatib258@student-campus.edu,+962 77 800 5593,"288 University Way, Amman",18,M,Amman,Capital District,2023,Accounting,3.09,Probation,4810.73,None,True
+STU-300259,Hamza Miller,hamza.miller259@student-campus.edu,+962 79 940 7525,"49 University Way, Irbid",26,F,Irbid,Capital District,2022,Computer Science,2.53,Satisfactory,5185.96,Need-Based Aid,True
+STU-300260,Hamza Johnson,hamza.johnson260@student-campus.edu,+962 78 873 3292,"414 University Way, Madaba",19,M,Madaba,Capital District,2024,Psychology,3.04,Good Standing,5678.89,Need-Based Aid,True
+STU-300261,James Brown,james.brown261@student-campus.edu,+962 77 958 2245,"184 University Way, Jerash",20,F,Jerash,Capital District,2021,Computer Science,3.03,Satisfactory,1419.6,None,True
+STU-300262,Huda Al-Majali,huda.almajali262@student-campus.edu,+962 78 666 7150,"231 University Way, Aqaba",26,M,Aqaba,Capital District,2024,Accounting,3.25,Satisfactory,2490.94,None,True
+STU-300263,Emma Johnson,emma.johnson263@student-campus.edu,+962 77 830 2204,"52 University Way, Salt",26,F,Salt,Capital District,2025,Software Engineering,2.9,Academic Warning,10846.71,Need-Based Aid,True
+STU-300264,Zaid Tarawneh,zaid.tarawneh264@student-campus.edu,+962 77 193 1085,"167 University Way, Madaba",27,F,Madaba,Capital District,2023,Business Administration,3.36,Good Standing,5836.45,Need-Based Aid,True
+STU-300265,Fatima Jones,fatima.jones265@student-campus.edu,+962 77 541 8353,"295 University Way, Zarqa",22,F,Zarqa,Capital District,2022,Software Engineering,3.61,Satisfactory,3218.08,None,True
+STU-300266,Tareq Al-Majali,tareq.almajali266@student-campus.edu,+962 79 712 6315,"207 University Way, Zarqa",25,M,Zarqa,Capital District,2025,Nursing,3.22,Dean's List,8440.09,Need-Based Aid,True
+STU-300267,Noor Tarawneh,noor.tarawneh267@student-campus.edu,+962 79 633 3778,"360 University Way, Aqaba",21,F,Aqaba,Capital District,2025,Software Engineering,3.31,Academic Warning,11333.09,Need-Based Aid,True
+STU-300268,Hamza Al-Zubi,hamza.alzubi268@student-campus.edu,+962 77 164 3739,"232 University Way, Mafraq",25,F,Mafraq,Capital District,2023,Civil Engineering,3.17,Satisfactory,3861.34,None,True
+STU-300269,Layla Obeidat,layla.obeidat269@student-campus.edu,+962 77 838 9123,"314 University Way, Salt",23,M,Salt,Capital District,2023,Software Engineering,3.15,Academic Warning,12401.85,Need-Based Aid,True
+STU-300270,Dina Haddad,dina.haddad270@student-campus.edu,+962 78 961 7224,"421 University Way, Jerash",18,F,Jerash,Capital District,2021,Civil Engineering,2.83,Good Standing,13912.57,Need-Based Aid,True
+STU-300271,Dina Al-Qudah,dina.alqudah271@student-campus.edu,+962 78 717 4290,"255 University Way, Salt",22,F,Salt,Capital District,2022,Psychology,3.29,Academic Warning,8960.92,Need-Based Aid,True
+STU-300272,Hamza Tarawneh,hamza.tarawneh272@student-campus.edu,+962 78 485 5592,"428 University Way, Aqaba",22,F,Aqaba,Capital District,2024,Civil Engineering,3.11,Satisfactory,10034.21,Need-Based Aid,True
+STU-300273,Fatima Haddad,fatima.haddad273@student-campus.edu,+962 79 886 1440,"382 University Way, Irbid",20,F,Irbid,Capital District,2025,Electrical Engineering,4.0,Probation,788.64,Merit Scholarship,True
+STU-300274,David Al-Khatib,david.alkhatib274@student-campus.edu,+962 79 611 3280,"334 University Way, Jerash",21,F,Jerash,Capital District,2021,Civil Engineering,3.86,Academic Warning,14182.8,Merit Scholarship,True
+STU-300275,Khaled Obeidat,khaled.obeidat275@student-campus.edu,+962 78 712 8851,"308 University Way, Zarqa",23,F,Zarqa,Capital District,2024,Business Administration,3.32,Good Standing,5887.27,Need-Based Aid,True
+STU-300276,Emily Smith,emily.smith276@student-campus.edu,+962 79 931 9796,"314 University Way, Madaba",18,M,Madaba,Capital District,2021,Finance,2.81,Academic Warning,13858.51,Need-Based Aid,True
+STU-300277,Tareq Jones,tareq.jones277@student-campus.edu,+962 79 760 7547,"395 University Way, Amman",19,F,Amman,Capital District,2022,Nursing,2.65,Good Standing,8684.66,Need-Based Aid,True
+STU-300278,Layla Haddad,layla.haddad278@student-campus.edu,+962 79 864 9499,"295 University Way, Aqaba",25,M,Aqaba,Capital District,2023,Software Engineering,3.69,Dean's List,69.28,None,True
+STU-300279,Dina Al-Qudah,dina.alqudah279@student-campus.edu,+962 78 125 8909,"63 University Way, Irbid",21,F,Irbid,Capital District,2025,Accounting,3.27,Academic Warning,578.13,None,True
+STU-300280,Layla Haddad,layla.haddad280@student-campus.edu,+962 78 566 4389,"276 University Way, Salt",24,F,Salt,Capital District,2023,Data Science,3.37,Dean's List,10206.28,Need-Based Aid,True
+STU-300281,Fatima Masri,fatima.masri281@student-campus.edu,+962 77 407 1732,"424 University Way, Madaba",23,M,Madaba,Capital District,2024,Accounting,2.36,Dean's List,8440.02,Need-Based Aid,True
+STU-300282,Ahmad Miller,ahmad.miller282@student-campus.edu,+962 79 278 3623,"179 University Way, Aqaba",23,F,Aqaba,Capital District,2022,Software Engineering,3.57,Satisfactory,397.99,None,True
+STU-300283,Dina Al-Khatib,dina.alkhatib283@student-campus.edu,+962 78 129 4232,"240 University Way, Jerash",22,F,Jerash,Capital District,2022,Data Science,3.35,Academic Warning,11151.9,Need-Based Aid,True
+STU-300284,Salma Al-Majali,salma.almajali284@student-campus.edu,+962 79 204 9796,"105 University Way, Zarqa",22,F,Zarqa,Capital District,2023,Electrical Engineering,2.65,Good Standing,12782.18,Need-Based Aid,True
+STU-300285,Huda Al-Khatib,huda.alkhatib285@student-campus.edu,+962 79 754 6134,"315 University Way, Mafraq",26,F,Mafraq,Capital District,2023,Software Engineering,2.94,Academic Warning,7446.26,Need-Based Aid,True
+STU-300286,Sophia Tarawneh,sophia.tarawneh286@student-campus.edu,+962 78 732 3826,"426 University Way, Madaba",27,F,Madaba,Capital District,2023,Software Engineering,3.27,Probation,6986.36,Need-Based Aid,True
+STU-300287,Sophia Johnson,sophia.johnson287@student-campus.edu,+962 77 412 2916,"103 University Way, Zarqa",20,F,Zarqa,Capital District,2023,Data Science,3.17,Dean's List,82.1,None,True
+STU-300288,David Al-Zubi,david.alzubi288@student-campus.edu,+962 79 492 7931,"105 University Way, Irbid",24,F,Irbid,Capital District,2024,Business Administration,3.02,Probation,11799.75,Need-Based Aid,True
+STU-300289,Daniel Smith,daniel.smith289@student-campus.edu,+962 78 243 4065,"171 University Way, Mafraq",27,F,Mafraq,Capital District,2022,Finance,3.1,Good Standing,4960.74,None,True
+STU-300290,Sophia Al-Majali,sophia.almajali290@student-campus.edu,+962 77 934 7290,"297 University Way, Irbid",18,F,Irbid,Capital District,2024,Computer Science,3.04,Satisfactory,13181.45,Need-Based Aid,True
+STU-300291,Layla Williams,layla.williams291@student-campus.edu,+962 77 184 1505,"417 University Way, Mafraq",25,M,Mafraq,Capital District,2024,Business Administration,3.22,Academic Warning,5595.91,Need-Based Aid,True
+STU-300292,Noor Al-Majali,noor.almajali292@student-campus.edu,+962 77 899 8492,"299 University Way, Salt",22,F,Salt,Capital District,2025,Electrical Engineering,3.81,Satisfactory,8476.17,Merit Scholarship,True
+STU-300293,Emily Smith,emily.smith293@student-campus.edu,+962 79 943 7010,"287 University Way, Salt",27,M,Salt,Capital District,2021,Psychology,2.0,Dean's List,4055.13,None,True
+STU-300294,Olivia Masri,olivia.masri294@student-campus.edu,+962 79 949 5055,"162 University Way, Zarqa",23,M,Zarqa,Capital District,2024,Electrical Engineering,3.04,Probation,2408.82,None,True
+STU-300295,Dina Obeidat,dina.obeidat295@student-campus.edu,+962 77 314 6744,"450 University Way, Zarqa",26,F,Zarqa,Capital District,2024,Software Engineering,3.23,Satisfactory,11623.62,Need-Based Aid,True
+STU-300296,Hamza Johnson,hamza.johnson296@student-campus.edu,+962 79 459 9720,"153 University Way, Amman",19,M,Amman,Capital District,2022,Electrical Engineering,3.28,Good Standing,7448.86,Need-Based Aid,True
+STU-300297,Huda Brown,huda.brown297@student-campus.edu,+962 79 795 2560,"79 University Way, Salt",19,F,Salt,Capital District,2025,Civil Engineering,2.98,Satisfactory,8047.32,Need-Based Aid,True
+STU-300298,Omar Obeidat,omar.obeidat298@student-campus.edu,+962 79 429 5055,"399 University Way, Irbid",27,F,Irbid,Capital District,2022,Data Science,2.36,Good Standing,14481.24,Need-Based Aid,True
+STU-300299,Yasmin Al-Zubi,yasmin.alzubi299@student-campus.edu,+962 78 177 2525,"216 University Way, Jerash",23,F,Jerash,Capital District,2024,Civil Engineering,3.3,Probation,14453.7,Need-Based Aid,True
+STU-300300,David Al-Qudah,david.alqudah300@student-campus.edu,+962 79 195 8511,"335 University Way, Amman",23,F,Amman,Capital District,2023,Accounting,3.93,Academic Warning,12834.63,Merit Scholarship,True
+STU-300301,Yousef Jones,yousef.jones301@student-campus.edu,+962 77 606 5399,"175 University Way, Jerash",19,F,Jerash,Capital District,2022,Business Administration,2.46,Probation,2814.14,None,True
+STU-300302,Huda Smith,huda.smith302@student-campus.edu,+962 78 798 1793,"33 University Way, Mafraq",20,M,Mafraq,Capital District,2025,Data Science,3.54,Probation,8914.09,Need-Based Aid,True
+STU-300303,Daniel Jones,daniel.jones303@student-campus.edu,+962 78 567 1011,"229 University Way, Irbid",26,M,Irbid,Capital District,2021,Computer Science,3.0,Academic Warning,13172.21,Need-Based Aid,True
+STU-300304,David Al-Zubi,david.alzubi304@student-campus.edu,+962 79 469 5102,"52 University Way, Zarqa",21,F,Zarqa,Capital District,2023,Data Science,3.12,Satisfactory,5616.96,Need-Based Aid,True
+STU-300305,Emma Williams,emma.williams305@student-campus.edu,+962 79 816 4836,"229 University Way, Salt",23,M,Salt,Capital District,2024,Computer Science,2.68,Good Standing,1516.59,None,True
+STU-300306,David Haddad,david.haddad306@student-campus.edu,+962 77 707 4705,"275 University Way, Zarqa",21,F,Zarqa,Capital District,2024,Electrical Engineering,3.0,Dean's List,12164.44,Need-Based Aid,True
+STU-300307,Ahmad Al-Majali,ahmad.almajali307@student-campus.edu,+962 78 172 4751,"206 University Way, Irbid",20,M,Irbid,Capital District,2024,Software Engineering,3.74,Satisfactory,7226.45,Need-Based Aid,True
+STU-300308,Olivia Jones,olivia.jones308@student-campus.edu,+962 78 240 7270,"406 University Way, Madaba",19,M,Madaba,Capital District,2023,Software Engineering,3.41,Dean's List,8465.89,Need-Based Aid,True
+STU-300309,Daniel Williams,daniel.williams309@student-campus.edu,+962 79 765 3688,"235 University Way, Amman",27,F,Amman,Capital District,2025,Software Engineering,3.93,Good Standing,14732.16,Merit Scholarship,True
+STU-300310,Olivia Al-Khatib,olivia.alkhatib310@student-campus.edu,+962 77 188 2646,"81 University Way, Mafraq",27,M,Mafraq,Capital District,2025,Business Administration,3.68,Good Standing,9108.17,Need-Based Aid,True
+STU-300311,Michael Brown,michael.brown311@student-campus.edu,+962 77 353 5537,"340 University Way, Madaba",19,M,Madaba,Capital District,2024,Nursing,3.35,Academic Warning,6374.69,Need-Based Aid,True
+STU-300312,Khaled Smith,khaled.smith312@student-campus.edu,+962 79 127 5942,"115 University Way, Salt",21,M,Salt,Capital District,2025,Psychology,3.93,Probation,5549.77,Merit Scholarship,True
+STU-300313,Olivia Tarawneh,olivia.tarawneh313@student-campus.edu,+962 78 215 4949,"265 University Way, Mafraq",23,M,Mafraq,Capital District,2022,Computer Science,3.35,Satisfactory,6264.29,Need-Based Aid,True
+STU-300314,James Al-Majali,james.almajali314@student-campus.edu,+962 79 530 6986,"289 University Way, Jerash",21,M,Jerash,Capital District,2022,Nursing,3.52,Satisfactory,1775.99,None,True
+STU-300315,Yasmin Jones,yasmin.jones315@student-campus.edu,+962 77 368 4534,"30 University Way, Zarqa",25,M,Zarqa,Capital District,2025,Computer Science,3.02,Dean's List,11921.26,Need-Based Aid,True
+STU-300316,Salma Smith,salma.smith316@student-campus.edu,+962 79 511 2350,"337 University Way, Jerash",20,M,Jerash,Capital District,2024,Finance,3.18,Satisfactory,12565.75,Need-Based Aid,True
+STU-300317,Rania Haddad,rania.haddad317@student-campus.edu,+962 77 649 6353,"210 University Way, Aqaba",18,M,Aqaba,Capital District,2025,Software Engineering,2.84,Satisfactory,4265.96,None,True
+STU-300318,Noor Brown,noor.brown318@student-campus.edu,+962 77 544 2900,"242 University Way, Aqaba",21,M,Aqaba,Capital District,2021,Electrical Engineering,3.6,Academic Warning,4556.95,None,True
+STU-300319,Noor Williams,noor.williams319@student-campus.edu,+962 79 111 3684,"264 University Way, Irbid",23,F,Irbid,Capital District,2021,Software Engineering,2.62,Good Standing,13115.01,Need-Based Aid,True
+STU-300320,James Smith,james.smith320@student-campus.edu,+962 79 899 5403,"385 University Way, Irbid",19,M,Irbid,Capital District,2023,Data Science,3.5,Satisfactory,359.56,None,True
+STU-300321,Ahmad Al-Qudah,ahmad.alqudah321@student-campus.edu,+962 78 829 2262,"264 University Way, Zarqa",26,F,Zarqa,Capital District,2025,Civil Engineering,3.06,Academic Warning,7806.86,Need-Based Aid,True
+STU-300322,James Al-Qudah,james.alqudah322@student-campus.edu,+962 78 261 5179,"405 University Way, Irbid",18,M,Irbid,Capital District,2025,Accounting,3.68,Dean's List,6955.14,Need-Based Aid,True
+STU-300323,Michael Williams,michael.williams323@student-campus.edu,+962 77 979 1201,"135 University Way, Amman",18,M,Amman,Capital District,2025,Electrical Engineering,3.49,Dean's List,10351.9,Need-Based Aid,True
+STU-300324,Yasmin Al-Qudah,yasmin.alqudah324@student-campus.edu,+962 79 922 7870,"124 University Way, Amman",23,F,Amman,Capital District,2022,Data Science,3.97,Academic Warning,2450.88,Merit Scholarship,True
+STU-300325,Khaled Tarawneh,khaled.tarawneh325@student-campus.edu,+962 77 614 1862,"101 University Way, Madaba",23,M,Madaba,Capital District,2021,Civil Engineering,3.48,Satisfactory,10024.96,Need-Based Aid,True
+STU-300326,James Al-Majali,james.almajali326@student-campus.edu,+962 78 435 2415,"293 University Way, Salt",20,F,Salt,Capital District,2024,Software Engineering,2.44,Academic Warning,5651.01,Need-Based Aid,True
+STU-300327,Ahmad Al-Qudah,ahmad.alqudah327@student-campus.edu,+962 79 737 4974,"247 University Way, Salt",20,F,Salt,Capital District,2025,Civil Engineering,3.12,Good Standing,9280.72,Need-Based Aid,True
+STU-300328,Michael Masri,michael.masri328@student-campus.edu,+962 77 519 1391,"129 University Way, Irbid",18,F,Irbid,Capital District,2022,Finance,2.62,Good Standing,601.43,None,True
+STU-300329,Daniel Miller,daniel.miller329@student-campus.edu,+962 79 844 6038,"63 University Way, Jerash",24,M,Jerash,Capital District,2021,Nursing,2.92,Dean's List,6925.91,Need-Based Aid,True
+STU-300330,James Al-Khatib,james.alkhatib330@student-campus.edu,+962 79 386 2524,"32 University Way, Irbid",21,M,Irbid,Capital District,2021,Accounting,3.83,Academic Warning,7833.76,Merit Scholarship,True
+STU-300331,James Tarawneh,james.tarawneh331@student-campus.edu,+962 79 236 7461,"48 University Way, Zarqa",19,M,Zarqa,Capital District,2021,Accounting,3.44,Satisfactory,3214.9,None,True
+STU-300332,Layla Williams,layla.williams332@student-campus.edu,+962 78 920 7438,"368 University Way, Salt",21,F,Salt,Capital District,2023,Electrical Engineering,2.84,Good Standing,2094.35,None,True
+STU-300333,Huda Masri,huda.masri333@student-campus.edu,+962 77 898 2785,"89 University Way, Aqaba",27,M,Aqaba,Capital District,2021,Electrical Engineering,2.69,Satisfactory,2827.11,None,True
+STU-300334,Hamza Masri,hamza.masri334@student-campus.edu,+962 79 466 4401,"241 University Way, Zarqa",20,F,Zarqa,Capital District,2024,Nursing,3.16,Academic Warning,5162.12,Need-Based Aid,True
+STU-300335,Dina Obeidat,dina.obeidat335@student-campus.edu,+962 79 813 1660,"120 University Way, Salt",26,F,Salt,Capital District,2022,Software Engineering,2.6,Dean's List,1452.15,None,True
+STU-300336,Zaid Haddad,zaid.haddad336@student-campus.edu,+962 79 406 5262,"429 University Way, Amman",20,M,Amman,Capital District,2024,Nursing,2.85,Good Standing,14209.8,Need-Based Aid,True
+STU-300337,Ahmad Tarawneh,ahmad.tarawneh337@student-campus.edu,+962 77 573 2669,"421 University Way, Aqaba",19,M,Aqaba,Capital District,2025,Finance,3.29,Academic Warning,6074.91,Need-Based Aid,True
+STU-300338,Tareq Al-Majali,tareq.almajali338@student-campus.edu,+962 78 481 2376,"308 University Way, Aqaba",20,F,Aqaba,Capital District,2022,Electrical Engineering,3.67,Dean's List,12134.54,Need-Based Aid,True
+STU-300339,Yousef Al-Majali,yousef.almajali339@student-campus.edu,+962 77 967 6432,"72 University Way, Irbid",21,M,Irbid,Capital District,2024,Electrical Engineering,3.42,Dean's List,14616.26,Need-Based Aid,True
+STU-300340,Dina Al-Majali,dina.almajali340@student-campus.edu,+962 78 130 7270,"359 University Way, Jerash",19,F,Jerash,Capital District,2024,Psychology,2.12,Good Standing,1211.03,None,True
+STU-300341,Hamza Al-Qudah,hamza.alqudah341@student-campus.edu,+962 78 252 1567,"324 University Way, Salt",23,M,Salt,Capital District,2023,Data Science,3.29,Good Standing,9775.04,Need-Based Aid,True
+STU-300342,Daniel Obeidat,daniel.obeidat342@student-campus.edu,+962 77 189 5583,"206 University Way, Mafraq",21,M,Mafraq,Capital District,2025,Business Administration,3.18,Academic Warning,13071.14,Need-Based Aid,True
+STU-300343,Layla Al-Khatib,layla.alkhatib343@student-campus.edu,+962 78 900 6883,"255 University Way, Amman",25,F,Amman,Capital District,2025,Electrical Engineering,3.34,Probation,9513.52,Need-Based Aid,True
+STU-300344,Fatima Johnson,fatima.johnson344@student-campus.edu,+962 77 126 6224,"315 University Way, Salt",22,M,Salt,Capital District,2024,Nursing,3.88,Probation,6435.39,Merit Scholarship,True
+STU-300345,Ahmad Jones,ahmad.jones345@student-campus.edu,+962 79 338 3615,"61 University Way, Madaba",22,M,Madaba,Capital District,2024,Computer Science,2.22,Satisfactory,6466.15,Need-Based Aid,True
+STU-300346,Emma Al-Khatib,emma.alkhatib346@student-campus.edu,+962 79 966 7363,"191 University Way, Aqaba",22,M,Aqaba,Capital District,2021,Finance,2.88,Satisfactory,538.48,None,True
+STU-300347,Hamza Al-Khatib,hamza.alkhatib347@student-campus.edu,+962 79 817 6761,"300 University Way, Amman",19,M,Amman,Capital District,2023,Nursing,3.42,Probation,8019.01,Need-Based Aid,True
+STU-300348,Michael Al-Khatib,michael.alkhatib348@student-campus.edu,+962 78 138 2478,"38 University Way, Irbid",25,M,Irbid,Capital District,2023,Finance,2.44,Academic Warning,14903.14,Need-Based Aid,True
+STU-300349,Sophia Al-Khatib,sophia.alkhatib349@student-campus.edu,+962 78 728 4300,"422 University Way, Amman",19,M,Amman,Capital District,2024,Finance,3.81,Dean's List,14380.61,Merit Scholarship,True
+STU-300350,Huda Brown,huda.brown350@student-campus.edu,+962 77 700 3320,"406 University Way, Amman",25,M,Amman,Capital District,2021,Nursing,3.32,Good Standing,605.99,None,True
+STU-300351,James Miller,james.miller351@student-campus.edu,+962 79 203 6514,"164 University Way, Jerash",27,F,Jerash,Capital District,2023,Software Engineering,3.53,Satisfactory,10586.96,Need-Based Aid,True
+STU-300352,Zaid Al-Zubi,zaid.alzubi352@student-campus.edu,+962 79 675 6846,"124 University Way, Irbid",25,M,Irbid,Capital District,2023,Accounting,2.89,Academic Warning,4526.47,None,True
+STU-300353,Salma Obeidat,salma.obeidat353@student-campus.edu,+962 79 686 7415,"445 University Way, Amman",22,M,Amman,Capital District,2022,Data Science,3.52,Satisfactory,13544.84,Need-Based Aid,True
+STU-300354,Hamza Johnson,hamza.johnson354@student-campus.edu,+962 78 244 6425,"391 University Way, Zarqa",21,M,Zarqa,Capital District,2022,Psychology,3.63,Satisfactory,676.72,None,True
+STU-300355,Khaled Al-Qudah,khaled.alqudah355@student-campus.edu,+962 78 111 5345,"117 University Way, Madaba",26,M,Madaba,Capital District,2021,Data Science,3.25,Satisfactory,14038.11,Need-Based Aid,True
+STU-300356,David Haddad,david.haddad356@student-campus.edu,+962 77 495 8179,"385 University Way, Amman",20,F,Amman,Capital District,2021,Civil Engineering,3.26,Satisfactory,12562.14,Need-Based Aid,True
+STU-300357,Hamza Tarawneh,hamza.tarawneh357@student-campus.edu,+962 77 948 8855,"413 University Way, Jerash",22,M,Jerash,Capital District,2023,Business Administration,3.27,Academic Warning,1762.57,None,True
+STU-300358,Hamza Masri,hamza.masri358@student-campus.edu,+962 78 367 2715,"47 University Way, Amman",25,F,Amman,Capital District,2023,Computer Science,2.76,Dean's List,897.37,None,True
+STU-300359,Hamza Tarawneh,hamza.tarawneh359@student-campus.edu,+962 78 708 8909,"370 University Way, Zarqa",27,M,Zarqa,Capital District,2025,Software Engineering,3.08,Good Standing,12520.61,Need-Based Aid,True
+STU-300360,Layla Williams,layla.williams360@student-campus.edu,+962 77 203 6424,"115 University Way, Irbid",27,M,Irbid,Capital District,2024,Psychology,3.08,Good Standing,2336.37,None,True
+STU-300361,Layla Brown,layla.brown361@student-campus.edu,+962 78 343 2571,"35 University Way, Salt",18,F,Salt,Capital District,2023,Finance,3.32,Probation,8023.47,Need-Based Aid,True
+STU-300362,Michael Smith,michael.smith362@student-campus.edu,+962 77 537 2435,"160 University Way, Madaba",26,F,Madaba,Capital District,2021,Data Science,3.6,Academic Warning,13736.17,Need-Based Aid,True
+STU-300363,Abdullah Haddad,abdullah.haddad363@student-campus.edu,+962 77 584 2892,"167 University Way, Salt",19,F,Salt,Capital District,2022,Electrical Engineering,2.67,Dean's List,8511.72,Need-Based Aid,True
+STU-300364,Yasmin Masri,yasmin.masri364@student-campus.edu,+962 77 479 7249,"199 University Way, Jerash",23,M,Jerash,Capital District,2025,Software Engineering,3.09,Satisfactory,5958.5,Need-Based Aid,True
+STU-300365,Dina Al-Majali,dina.almajali365@student-campus.edu,+962 77 957 5400,"298 University Way, Salt",27,M,Salt,Capital District,2024,Accounting,3.82,Satisfactory,6675.24,Merit Scholarship,True
+STU-300366,Zaid Jones,zaid.jones366@student-campus.edu,+962 79 332 1999,"440 University Way, Jerash",24,F,Jerash,Capital District,2023,Software Engineering,2.82,Dean's List,946.76,None,True
+STU-300367,James Tarawneh,james.tarawneh367@student-campus.edu,+962 78 406 2293,"212 University Way, Aqaba",27,M,Aqaba,Capital District,2025,Accounting,2.78,Probation,14531.28,Need-Based Aid,True
+STU-300368,James Johnson,james.johnson368@student-campus.edu,+962 77 875 8357,"98 University Way, Irbid",21,M,Irbid,Capital District,2025,Psychology,3.24,Probation,4659.81,None,True
+STU-300369,Abdullah Jones,abdullah.jones369@student-campus.edu,+962 77 799 8133,"113 University Way, Jerash",21,M,Jerash,Capital District,2021,Data Science,3.53,Good Standing,2840.45,None,True
+STU-300370,Sophia Obeidat,sophia.obeidat370@student-campus.edu,+962 79 506 6343,"448 University Way, Jerash",21,F,Jerash,Capital District,2021,Software Engineering,3.16,Satisfactory,4290.71,None,True
+STU-300371,James Masri,james.masri371@student-campus.edu,+962 77 524 3451,"85 University Way, Jerash",21,M,Jerash,Capital District,2025,Psychology,3.75,Dean's List,14465.6,Merit Scholarship,True
+STU-300372,Tareq Johnson,tareq.johnson372@student-campus.edu,+962 78 370 7275,"345 University Way, Madaba",24,F,Madaba,Capital District,2025,Civil Engineering,3.54,Dean's List,1414.29,None,True
+STU-300373,Michael Johnson,michael.johnson373@student-campus.edu,+962 78 247 7581,"29 University Way, Salt",22,F,Salt,Capital District,2022,Computer Science,3.53,Academic Warning,13009.55,Need-Based Aid,True
+STU-300374,Huda Brown,huda.brown374@student-campus.edu,+962 78 120 6535,"428 University Way, Salt",25,F,Salt,Capital District,2024,Computer Science,3.4,Good Standing,10617.66,Need-Based Aid,True
+STU-300375,Noor Obeidat,noor.obeidat375@student-campus.edu,+962 78 861 8259,"406 University Way, Irbid",22,F,Irbid,Capital District,2022,Software Engineering,4.0,Academic Warning,12450.29,Merit Scholarship,True
+STU-300376,Rania Brown,rania.brown376@student-campus.edu,+962 78 316 7671,"389 University Way, Aqaba",21,F,Aqaba,Capital District,2021,Psychology,3.06,Academic Warning,14638.46,Need-Based Aid,True
+STU-300377,James Miller,james.miller377@student-campus.edu,+962 77 418 9303,"216 University Way, Irbid",19,M,Irbid,Capital District,2025,Computer Science,2.25,Satisfactory,12632.32,Need-Based Aid,True
+STU-300378,James Johnson,james.johnson378@student-campus.edu,+962 77 355 1541,"243 University Way, Aqaba",23,M,Aqaba,Capital District,2022,Data Science,3.87,Dean's List,14150.74,Merit Scholarship,True
+STU-300379,Fatima Brown,fatima.brown379@student-campus.edu,+962 79 506 3029,"358 University Way, Mafraq",26,M,Mafraq,Capital District,2023,Civil Engineering,2.94,Good Standing,1904.03,None,True
+STU-300380,Khaled Al-Qudah,khaled.alqudah380@student-campus.edu,+962 78 700 6730,"186 University Way, Irbid",26,M,Irbid,Capital District,2024,Psychology,3.2,Academic Warning,11936.83,Need-Based Aid,True
+STU-300381,Rania Brown,rania.brown381@student-campus.edu,+962 77 266 4511,"448 University Way, Jerash",20,M,Jerash,Capital District,2021,Civil Engineering,3.74,Dean's List,8185.14,Need-Based Aid,True
+STU-300382,Daniel Al-Khatib,daniel.alkhatib382@student-campus.edu,+962 79 109 8767,"77 University Way, Amman",22,M,Amman,Capital District,2024,Civil Engineering,2.43,Good Standing,8152.43,Need-Based Aid,True
+STU-300383,Sophia Jones,sophia.jones383@student-campus.edu,+962 79 826 5511,"226 University Way, Salt",25,F,Salt,Capital District,2023,Electrical Engineering,2.59,Dean's List,13483.82,Need-Based Aid,True
+STU-300384,Fatima Masri,fatima.masri384@student-campus.edu,+962 79 633 7506,"309 University Way, Salt",24,M,Salt,Capital District,2024,Electrical Engineering,2.43,Satisfactory,14577.06,Need-Based Aid,True
+STU-300385,Ahmad Smith,ahmad.smith385@student-campus.edu,+962 78 800 2771,"256 University Way, Salt",18,M,Salt,Capital District,2025,Finance,2.79,Satisfactory,10572.57,Need-Based Aid,True
+STU-300386,Huda Obeidat,huda.obeidat386@student-campus.edu,+962 77 253 9475,"401 University Way, Salt",23,M,Salt,Capital District,2023,Civil Engineering,3.35,Satisfactory,7244.08,Need-Based Aid,True
+STU-300387,Omar Jones,omar.jones387@student-campus.edu,+962 79 126 9148,"161 University Way, Irbid",18,F,Irbid,Capital District,2023,Business Administration,3.39,Probation,6846.06,Need-Based Aid,True
+STU-300388,Layla Tarawneh,layla.tarawneh388@student-campus.edu,+962 78 843 4643,"361 University Way, Aqaba",19,F,Aqaba,Capital District,2025,Computer Science,3.27,Academic Warning,5795.12,Need-Based Aid,True
+STU-300389,Emma Al-Qudah,emma.alqudah389@student-campus.edu,+962 78 199 8713,"75 University Way, Irbid",24,F,Irbid,Capital District,2022,Civil Engineering,2.51,Probation,5423.99,Need-Based Aid,True
+STU-300390,Olivia Jones,olivia.jones390@student-campus.edu,+962 77 463 4659,"391 University Way, Zarqa",19,F,Zarqa,Capital District,2023,Data Science,2.11,Probation,5872.6,Need-Based Aid,True
+STU-300391,Layla Jones,layla.jones391@student-campus.edu,+962 78 971 2929,"250 University Way, Salt",21,M,Salt,Capital District,2023,Nursing,3.17,Satisfactory,1346.3,None,True
+STU-300392,Daniel Johnson,daniel.johnson392@student-campus.edu,+962 77 612 2963,"358 University Way, Mafraq",23,F,Mafraq,Capital District,2021,Psychology,2.94,Probation,1161.54,None,True
+STU-300393,James Obeidat,james.obeidat393@student-campus.edu,+962 77 450 7704,"301 University Way, Irbid",24,F,Irbid,Capital District,2022,Computer Science,3.36,Academic Warning,11698.05,Need-Based Aid,True
+STU-300394,Zaid Al-Qudah,zaid.alqudah394@student-campus.edu,+962 79 281 6134,"334 University Way, Madaba",22,M,Madaba,Capital District,2024,Software Engineering,3.47,Good Standing,6691.09,Need-Based Aid,True
+STU-300395,Ahmad Masri,ahmad.masri395@student-campus.edu,+962 78 904 2442,"76 University Way, Irbid",18,F,Irbid,Capital District,2022,Electrical Engineering,3.21,Satisfactory,13960.27,Need-Based Aid,True
+STU-300396,Daniel Tarawneh,daniel.tarawneh396@student-campus.edu,+962 77 138 9745,"112 University Way, Jerash",25,F,Jerash,Capital District,2024,Business Administration,3.49,Academic Warning,9183.32,Need-Based Aid,True
+STU-300397,Ahmad Al-Qudah,ahmad.alqudah397@student-campus.edu,+962 79 851 5076,"125 University Way, Amman",27,F,Amman,Capital District,2021,Electrical Engineering,3.25,Probation,527.64,None,True
+STU-300398,Noor Al-Zubi,noor.alzubi398@student-campus.edu,+962 77 166 1749,"162 University Way, Salt",26,F,Salt,Capital District,2025,Business Administration,3.39,Dean's List,2362.85,None,True
+STU-300399,Dina Brown,dina.brown399@student-campus.edu,+962 78 803 3192,"185 University Way, Madaba",25,F,Madaba,Capital District,2025,Psychology,2.83,Probation,3087.3,None,True
+STU-300400,Fatima Jones,fatima.jones400@student-campus.edu,+962 77 329 3149,"118 University Way, Amman",22,M,Amman,Capital District,2024,Data Science,3.07,Good Standing,14636.04,Need-Based Aid,True
+STU-300401,Michael Smith,michael.smith401@student-campus.edu,+962 78 997 5190,"404 University Way, Amman",26,M,Amman,Capital District,2023,Software Engineering,3.24,Good Standing,3280.56,None,True
+STU-300402,Sophia Al-Majali,sophia.almajali402@student-campus.edu,+962 78 554 7230,"73 University Way, Zarqa",22,F,Zarqa,Capital District,2021,Computer Science,3.52,Dean's List,7736.34,Need-Based Aid,True
+STU-300403,Yasmin Brown,yasmin.brown403@student-campus.edu,+962 78 777 2654,"349 University Way, Salt",19,F,Salt,Capital District,2021,Electrical Engineering,2.97,Good Standing,14042.65,Need-Based Aid,True
+STU-300404,Sophia Johnson,sophia.johnson404@student-campus.edu,+962 78 216 2741,"264 University Way, Zarqa",26,M,Zarqa,Capital District,2021,Business Administration,3.38,Good Standing,14657.89,Need-Based Aid,True
+STU-300405,Sophia Al-Khatib,sophia.alkhatib405@student-campus.edu,+962 79 519 5839,"92 University Way, Madaba",21,M,Madaba,Capital District,2022,Finance,3.03,Satisfactory,3545.41,None,True
+STU-300406,Emily Masri,emily.masri406@student-campus.edu,+962 77 113 2458,"66 University Way, Aqaba",27,F,Aqaba,Capital District,2023,Accounting,3.1,Good Standing,736.76,None,True
+STU-300407,Zaid Haddad,zaid.haddad407@student-campus.edu,+962 79 336 8483,"161 University Way, Salt",21,F,Salt,Capital District,2021,Software Engineering,3.52,Probation,2304.03,None,True
+STU-300408,Dina Al-Majali,dina.almajali408@student-campus.edu,+962 78 920 6123,"228 University Way, Salt",26,M,Salt,Capital District,2021,Data Science,2.25,Dean's List,949.93,None,True
+STU-300409,Tareq Miller,tareq.miller409@student-campus.edu,+962 78 466 8171,"328 University Way, Irbid",23,F,Irbid,Capital District,2022,Computer Science,2.57,Dean's List,2926.86,None,True
+STU-300410,Olivia Haddad,olivia.haddad410@student-campus.edu,+962 78 509 8479,"149 University Way, Zarqa",22,F,Zarqa,Capital District,2022,Nursing,2.48,Satisfactory,8528.55,Need-Based Aid,True
+STU-300411,David Miller,david.miller411@student-campus.edu,+962 77 812 1960,"442 University Way, Zarqa",20,M,Zarqa,Capital District,2022,Business Administration,2.1,Academic Warning,13686.73,Need-Based Aid,True
+STU-300412,Tareq Tarawneh,tareq.tarawneh412@student-campus.edu,+962 77 725 7221,"408 University Way, Mafraq",26,F,Mafraq,Capital District,2025,Accounting,2.84,Probation,8058.28,Need-Based Aid,True
+STU-300413,Sophia Al-Majali,sophia.almajali413@student-campus.edu,+962 78 551 1753,"42 University Way, Zarqa",18,F,Zarqa,Capital District,2024,Accounting,3.49,Good Standing,9389.84,Need-Based Aid,True
+STU-300414,Daniel Al-Qudah,daniel.alqudah414@student-campus.edu,+962 79 994 6542,"275 University Way, Aqaba",22,M,Aqaba,Capital District,2025,Finance,3.02,Dean's List,3028.01,None,True
+STU-300415,Layla Williams,layla.williams415@student-campus.edu,+962 77 959 1894,"15 University Way, Jerash",21,M,Jerash,Capital District,2023,Accounting,3.24,Good Standing,12008.75,Need-Based Aid,True
+STU-300416,James Miller,james.miller416@student-campus.edu,+962 78 428 4946,"179 University Way, Zarqa",23,F,Zarqa,Capital District,2022,Accounting,3.64,Academic Warning,9266.83,Need-Based Aid,True
+STU-300417,Omar Smith,omar.smith417@student-campus.edu,+962 77 180 8521,"237 University Way, Jerash",20,F,Jerash,Capital District,2024,Finance,3.75,Good Standing,12962.05,Merit Scholarship,True
+STU-300418,Yousef Miller,yousef.miller418@student-campus.edu,+962 78 863 1291,"62 University Way, Zarqa",24,F,Zarqa,Capital District,2023,Accounting,3.12,Academic Warning,14232.65,Need-Based Aid,True
+STU-300419,Layla Al-Majali,layla.almajali419@student-campus.edu,+962 79 733 5990,"270 University Way, Zarqa",21,M,Zarqa,Capital District,2021,Finance,3.76,Probation,5218.51,Merit Scholarship,True
+STU-300420,Daniel Williams,daniel.williams420@student-campus.edu,+962 77 964 8445,"179 University Way, Amman",19,F,Amman,Capital District,2023,Nursing,3.19,Academic Warning,1358.69,None,True
+STU-300421,David Williams,david.williams421@student-campus.edu,+962 79 327 1035,"184 University Way, Zarqa",19,F,Zarqa,Capital District,2021,Accounting,2.77,Satisfactory,3388.93,None,True
+STU-300422,Daniel Jones,daniel.jones422@student-campus.edu,+962 79 208 1750,"94 University Way, Madaba",24,F,Madaba,Capital District,2025,Finance,2.88,Satisfactory,6567.62,Need-Based Aid,True
+STU-300423,Zaid Miller,zaid.miller423@student-campus.edu,+962 77 223 7437,"120 University Way, Aqaba",20,F,Aqaba,Capital District,2023,Software Engineering,2.48,Academic Warning,14185.4,Need-Based Aid,True
+STU-300424,Abdullah Brown,abdullah.brown424@student-campus.edu,+962 79 957 3018,"405 University Way, Amman",21,F,Amman,Capital District,2024,Software Engineering,2.75,Satisfactory,5674.65,Need-Based Aid,True
+STU-300425,Dina Williams,dina.williams425@student-campus.edu,+962 77 643 1795,"293 University Way, Mafraq",24,F,Mafraq,Capital District,2022,Finance,2.99,Probation,11561.6,Need-Based Aid,True
+STU-300426,Michael Masri,michael.masri426@student-campus.edu,+962 79 934 3103,"63 University Way, Irbid",21,F,Irbid,Capital District,2025,Data Science,3.51,Probation,8107.15,Need-Based Aid,True
+STU-300427,Emma Johnson,emma.johnson427@student-campus.edu,+962 78 723 5067,"150 University Way, Jerash",21,F,Jerash,Capital District,2025,Nursing,3.92,Probation,2742.13,Merit Scholarship,True
+STU-300428,Huda Obeidat,huda.obeidat428@student-campus.edu,+962 79 816 9393,"163 University Way, Jerash",20,F,Jerash,Capital District,2022,Data Science,2.53,Academic Warning,4811.01,None,True
+STU-300429,David Brown,david.brown429@student-campus.edu,+962 79 831 5760,"361 University Way, Aqaba",21,F,Aqaba,Capital District,2022,Electrical Engineering,3.33,Probation,9797.88,Need-Based Aid,True
+STU-300430,Emma Al-Zubi,emma.alzubi430@student-campus.edu,+962 79 218 6771,"297 University Way, Madaba",24,F,Madaba,Capital District,2025,Finance,2.68,Good Standing,10092.8,Need-Based Aid,True
+STU-300431,Michael Johnson,michael.johnson431@student-campus.edu,+962 77 635 2744,"22 University Way, Jerash",23,F,Jerash,Capital District,2023,Finance,3.36,Academic Warning,6521.4,Need-Based Aid,True
+STU-300432,Zaid Al-Majali,zaid.almajali432@student-campus.edu,+962 78 799 5105,"84 University Way, Irbid",27,M,Irbid,Capital District,2023,Electrical Engineering,3.09,Dean's List,3429.68,None,True
+STU-300433,David Jones,david.jones433@student-campus.edu,+962 78 933 8415,"62 University Way, Amman",25,M,Amman,Capital District,2025,Electrical Engineering,2.33,Satisfactory,10828.6,Need-Based Aid,True
+STU-300434,Olivia Williams,olivia.williams434@student-campus.edu,+962 79 780 1769,"205 University Way, Salt",18,F,Salt,Capital District,2022,Business Administration,3.57,Probation,2533.1,None,True
+STU-300435,Layla Jones,layla.jones435@student-campus.edu,+962 79 357 4327,"327 University Way, Amman",21,F,Amman,Capital District,2021,Finance,2.88,Satisfactory,14050.05,Need-Based Aid,True
+STU-300436,Khaled Williams,khaled.williams436@student-campus.edu,+962 79 298 5819,"239 University Way, Aqaba",20,M,Aqaba,Capital District,2025,Psychology,2.91,Satisfactory,2818.55,None,True
+STU-300437,Emma Haddad,emma.haddad437@student-campus.edu,+962 78 141 8020,"152 University Way, Zarqa",23,F,Zarqa,Capital District,2025,Data Science,2.67,Good Standing,1609.69,None,True
+STU-300438,Zaid Al-Zubi,zaid.alzubi438@student-campus.edu,+962 78 826 3536,"30 University Way, Madaba",20,M,Madaba,Capital District,2021,Civil Engineering,2.86,Probation,7464.72,Need-Based Aid,True
+STU-300439,Huda Johnson,huda.johnson439@student-campus.edu,+962 79 663 6866,"47 University Way, Mafraq",27,F,Mafraq,Capital District,2023,Psychology,3.34,Dean's List,7793.24,Need-Based Aid,True
+STU-300440,James Al-Khatib,james.alkhatib440@student-campus.edu,+962 78 656 9798,"216 University Way, Irbid",20,M,Irbid,Capital District,2021,Finance,3.06,Good Standing,7622.89,Need-Based Aid,True
+STU-300441,Fatima Al-Khatib,fatima.alkhatib441@student-campus.edu,+962 78 323 9691,"253 University Way, Madaba",23,M,Madaba,Capital District,2023,Nursing,3.3,Good Standing,6550.01,Need-Based Aid,True
+STU-300442,Tareq Williams,tareq.williams442@student-campus.edu,+962 77 798 6258,"205 University Way, Aqaba",19,M,Aqaba,Capital District,2022,Accounting,3.31,Satisfactory,14922.22,Need-Based Aid,True
+STU-300443,Salma Obeidat,salma.obeidat443@student-campus.edu,+962 79 922 9335,"238 University Way, Madaba",27,F,Madaba,Capital District,2021,Civil Engineering,3.74,Probation,7294.21,Need-Based Aid,True
+STU-300444,Omar Obeidat,omar.obeidat444@student-campus.edu,+962 77 271 9814,"283 University Way, Zarqa",27,M,Zarqa,Capital District,2025,Nursing,3.0,Good Standing,7169.2,Need-Based Aid,True
+STU-300445,Daniel Haddad,daniel.haddad445@student-campus.edu,+962 77 650 8130,"341 University Way, Zarqa",25,M,Zarqa,Capital District,2024,Electrical Engineering,2.49,Good Standing,6326.49,Need-Based Aid,True
+STU-300446,Olivia Williams,olivia.williams446@student-campus.edu,+962 77 189 2200,"37 University Way, Madaba",21,M,Madaba,Capital District,2024,Computer Science,3.63,Good Standing,1002.39,None,True
+STU-300447,Rania Smith,rania.smith447@student-campus.edu,+962 78 497 8391,"332 University Way, Salt",18,F,Salt,Capital District,2022,Psychology,3.0,Dean's List,8894.35,Need-Based Aid,True
+STU-300448,Layla Al-Qudah,layla.alqudah448@student-campus.edu,+962 79 837 2036,"397 University Way, Amman",25,M,Amman,Capital District,2021,Business Administration,3.65,Dean's List,3419.52,None,True
+STU-300449,David Miller,david.miller449@student-campus.edu,+962 78 905 5937,"320 University Way, Zarqa",22,M,Zarqa,Capital District,2025,Nursing,3.32,Dean's List,9564.13,Need-Based Aid,True
+STU-300450,Noor Jones,noor.jones450@student-campus.edu,+962 78 260 9740,"122 University Way, Amman",27,M,Amman,Capital District,2024,Business Administration,3.09,Academic Warning,762.5,None,True
+STU-300451,Olivia Tarawneh,olivia.tarawneh451@student-campus.edu,+962 79 914 7113,"15 University Way, Salt",24,M,Salt,Capital District,2022,Civil Engineering,3.31,Probation,14720.81,Need-Based Aid,True
+STU-300452,Tareq Al-Majali,tareq.almajali452@student-campus.edu,+962 79 660 2394,"166 University Way, Jerash",23,M,Jerash,Capital District,2025,Psychology,4.0,Dean's List,7035.08,Merit Scholarship,True
+STU-300453,Olivia Brown,olivia.brown453@student-campus.edu,+962 77 288 4617,"325 University Way, Irbid",27,F,Irbid,Capital District,2024,Electrical Engineering,4.0,Satisfactory,13451.33,Merit Scholarship,True
+STU-300454,Abdullah Haddad,abdullah.haddad454@student-campus.edu,+962 79 662 2198,"158 University Way, Mafraq",26,M,Mafraq,Capital District,2021,Psychology,3.18,Good Standing,7133.42,Need-Based Aid,True
+STU-300455,Rania Haddad,rania.haddad455@student-campus.edu,+962 78 231 4842,"61 University Way, Madaba",22,F,Madaba,Capital District,2024,Psychology,3.22,Good Standing,904.96,None,True
+STU-300456,Sophia Haddad,sophia.haddad456@student-campus.edu,+962 78 731 6008,"365 University Way, Mafraq",18,M,Mafraq,Capital District,2024,Nursing,3.63,Good Standing,12333.2,Need-Based Aid,True
+STU-300457,Michael Johnson,michael.johnson457@student-campus.edu,+962 77 420 5033,"412 University Way, Irbid",18,M,Irbid,Capital District,2024,Nursing,2.77,Satisfactory,9722.76,Need-Based Aid,True
+STU-300458,David Brown,david.brown458@student-campus.edu,+962 79 850 6432,"255 University Way, Irbid",22,F,Irbid,Capital District,2023,Civil Engineering,3.3,Academic Warning,11726.36,Need-Based Aid,True
+STU-300459,Dina Al-Qudah,dina.alqudah459@student-campus.edu,+962 77 761 2343,"440 University Way, Zarqa",23,F,Zarqa,Capital District,2025,Accounting,3.14,Satisfactory,6422.55,Need-Based Aid,True
+STU-300460,Zaid Smith,zaid.smith460@student-campus.edu,+962 77 969 9309,"333 University Way, Zarqa",18,M,Zarqa,Capital District,2021,Civil Engineering,3.29,Good Standing,9569.05,Need-Based Aid,True
+STU-300461,Michael Johnson,michael.johnson461@student-campus.edu,+962 79 366 9904,"286 University Way, Amman",19,F,Amman,Capital District,2022,Psychology,2.77,Academic Warning,12843.44,Need-Based Aid,True
+STU-300462,Daniel Jones,daniel.jones462@student-campus.edu,+962 79 850 5767,"78 University Way, Aqaba",25,F,Aqaba,Capital District,2024,Nursing,2.43,Good Standing,9465.98,Need-Based Aid,True
+STU-300463,James Smith,james.smith463@student-campus.edu,+962 79 344 3717,"397 University Way, Amman",25,M,Amman,Capital District,2023,Business Administration,2.22,Dean's List,5215.1,Need-Based Aid,True
+STU-300464,Dina Al-Zubi,dina.alzubi464@student-campus.edu,+962 79 849 8921,"193 University Way, Irbid",18,M,Irbid,Capital District,2025,Psychology,2.65,Good Standing,9937.94,Need-Based Aid,True
+STU-300465,Khaled Jones,khaled.jones465@student-campus.edu,+962 78 339 1701,"352 University Way, Salt",23,M,Salt,Capital District,2021,Electrical Engineering,2.94,Academic Warning,10077.81,Need-Based Aid,True
+STU-300466,James Jones,james.jones466@student-campus.edu,+962 77 140 6309,"62 University Way, Mafraq",18,F,Mafraq,Capital District,2024,Business Administration,3.02,Satisfactory,14408.8,Need-Based Aid,True
+STU-300467,Olivia Obeidat,olivia.obeidat467@student-campus.edu,+962 78 769 7201,"197 University Way, Irbid",25,M,Irbid,Capital District,2025,Finance,4.0,Probation,5563.68,Merit Scholarship,True
+STU-300468,James Obeidat,james.obeidat468@student-campus.edu,+962 78 936 6653,"259 University Way, Jerash",26,F,Jerash,Capital District,2025,Electrical Engineering,3.65,Academic Warning,6376.23,Need-Based Aid,True
+STU-300469,Sophia Al-Majali,sophia.almajali469@student-campus.edu,+962 77 178 9430,"339 University Way, Irbid",26,F,Irbid,Capital District,2024,Data Science,2.72,Probation,12181.84,Need-Based Aid,True
+STU-300470,Abdullah Al-Zubi,abdullah.alzubi470@student-campus.edu,+962 79 335 7793,"425 University Way, Zarqa",23,F,Zarqa,Capital District,2023,Data Science,3.31,Good Standing,7586.43,Need-Based Aid,True
+STU-300471,Olivia Haddad,olivia.haddad471@student-campus.edu,+962 79 265 7732,"21 University Way, Aqaba",24,M,Aqaba,Capital District,2024,Accounting,2.97,Academic Warning,11048.6,Need-Based Aid,True
+STU-300472,Omar Al-Zubi,omar.alzubi472@student-campus.edu,+962 79 624 1642,"303 University Way, Irbid",27,M,Irbid,Capital District,2022,Psychology,3.02,Probation,6895.64,Need-Based Aid,True
+STU-300473,Omar Al-Zubi,omar.alzubi473@student-campus.edu,+962 79 677 1305,"378 University Way, Jerash",24,F,Jerash,Capital District,2025,Data Science,3.23,Satisfactory,3232.43,None,True
+STU-300474,Yousef Al-Khatib,yousef.alkhatib474@student-campus.edu,+962 77 324 7730,"317 University Way, Mafraq",22,M,Mafraq,Capital District,2024,Psychology,3.43,Academic Warning,11178.06,Need-Based Aid,True
+STU-300475,Michael Miller,michael.miller475@student-campus.edu,+962 77 841 6614,"242 University Way, Salt",25,M,Salt,Capital District,2025,Psychology,3.0,Good Standing,1967.33,None,True
+STU-300476,Khaled Tarawneh,khaled.tarawneh476@student-campus.edu,+962 77 635 9263,"360 University Way, Amman",23,F,Amman,Capital District,2021,Data Science,3.63,Academic Warning,2978.75,None,True
+STU-300477,Zaid Johnson,zaid.johnson477@student-campus.edu,+962 79 615 2925,"57 University Way, Amman",26,F,Amman,Capital District,2024,Data Science,2.64,Dean's List,9402.37,Need-Based Aid,True
+STU-300478,Emma Al-Zubi,emma.alzubi478@student-campus.edu,+962 79 530 7068,"32 University Way, Jerash",23,F,Jerash,Capital District,2021,Finance,3.15,Probation,11209.05,Need-Based Aid,True
+STU-300479,Khaled Jones,khaled.jones479@student-campus.edu,+962 78 237 5170,"254 University Way, Zarqa",26,M,Zarqa,Capital District,2023,Business Administration,4.0,Academic Warning,13420.32,Merit Scholarship,True
+STU-300480,Yousef Obeidat,yousef.obeidat480@student-campus.edu,+962 77 105 1116,"305 University Way, Salt",18,M,Salt,Capital District,2024,Finance,3.25,Probation,4088.8,None,True
+STU-300481,James Al-Majali,james.almajali481@student-campus.edu,+962 78 209 3535,"228 University Way, Jerash",18,F,Jerash,Capital District,2023,Electrical Engineering,3.79,Academic Warning,1660.86,Merit Scholarship,True
+STU-300482,Rania Miller,rania.miller482@student-campus.edu,+962 79 382 7511,"396 University Way, Madaba",18,M,Madaba,Capital District,2025,Business Administration,3.19,Probation,14340.7,Need-Based Aid,True
+STU-300483,Layla Smith,layla.smith483@student-campus.edu,+962 79 668 8925,"139 University Way, Madaba",23,F,Madaba,Capital District,2022,Accounting,3.41,Probation,2316.35,None,True
+STU-300484,Michael Al-Qudah,michael.alqudah484@student-campus.edu,+962 78 901 3650,"61 University Way, Aqaba",25,M,Aqaba,Capital District,2021,Data Science,3.12,Academic Warning,2965.0,None,True
+STU-300485,James Tarawneh,james.tarawneh485@student-campus.edu,+962 77 498 1086,"421 University Way, Amman",20,M,Amman,Capital District,2025,Finance,3.07,Satisfactory,4369.94,None,True
+STU-300486,Zaid Masri,zaid.masri486@student-campus.edu,+962 78 327 7075,"50 University Way, Zarqa",19,M,Zarqa,Capital District,2021,Business Administration,2.8,Probation,7940.87,Need-Based Aid,True
+STU-300487,Olivia Tarawneh,olivia.tarawneh487@student-campus.edu,+962 79 711 1941,"406 University Way, Salt",26,M,Salt,Capital District,2025,Psychology,3.34,Academic Warning,13242.38,Need-Based Aid,True
+STU-300488,Daniel Masri,daniel.masri488@student-campus.edu,+962 77 134 9364,"274 University Way, Salt",25,M,Salt,Capital District,2022,Computer Science,2.77,Academic Warning,11408.19,Need-Based Aid,True
+STU-300489,Sophia Al-Zubi,sophia.alzubi489@student-campus.edu,+962 77 188 5520,"409 University Way, Amman",24,F,Amman,Capital District,2022,Nursing,3.45,Dean's List,10622.36,Need-Based Aid,True
+STU-300490,Fatima Williams,fatima.williams490@student-campus.edu,+962 79 115 2124,"56 University Way, Aqaba",22,F,Aqaba,Capital District,2025,Business Administration,3.64,Academic Warning,2627.71,None,True
+STU-300491,Olivia Miller,olivia.miller491@student-campus.edu,+962 78 331 4187,"242 University Way, Madaba",22,F,Madaba,Capital District,2023,Psychology,3.31,Probation,5365.24,Need-Based Aid,True
+STU-300492,Michael Al-Majali,michael.almajali492@student-campus.edu,+962 79 174 9243,"160 University Way, Zarqa",18,F,Zarqa,Capital District,2024,Data Science,3.02,Satisfactory,7176.07,Need-Based Aid,True
+STU-300493,Tareq Jones,tareq.jones493@student-campus.edu,+962 79 553 7178,"298 University Way, Salt",19,F,Salt,Capital District,2025,Civil Engineering,3.35,Probation,2211.39,None,True
+STU-300494,Khaled Jones,khaled.jones494@student-campus.edu,+962 78 219 5224,"44 University Way, Amman",26,F,Amman,Capital District,2024,Accounting,3.01,Satisfactory,4101.45,None,True
+STU-300495,Daniel Jones,daniel.jones495@student-campus.edu,+962 78 628 9776,"14 University Way, Jerash",21,F,Jerash,Capital District,2023,Electrical Engineering,3.57,Good Standing,4625.0,None,True
+STU-300496,Khaled Obeidat,khaled.obeidat496@student-campus.edu,+962 79 282 8807,"170 University Way, Zarqa",25,F,Zarqa,Capital District,2023,Business Administration,2.33,Dean's List,1909.14,None,True
+STU-300497,Abdullah Johnson,abdullah.johnson497@student-campus.edu,+962 79 304 4847,"386 University Way, Mafraq",25,M,Mafraq,Capital District,2022,Data Science,3.0,Satisfactory,8253.6,Need-Based Aid,True
+STU-300498,Rania Al-Khatib,rania.alkhatib498@student-campus.edu,+962 77 897 2747,"71 University Way, Madaba",21,M,Madaba,Capital District,2022,Electrical Engineering,2.25,Good Standing,10575.42,Need-Based Aid,True
+STU-300499,Emma Williams,emma.williams499@student-campus.edu,+962 78 480 6167,"262 University Way, Amman",20,F,Amman,Capital District,2021,Psychology,2.48,Academic Warning,1048.97,None,True
+STU-300500,Yasmin Al-Zubi,yasmin.alzubi500@student-campus.edu,+962 79 231 1887,"279 University Way, Aqaba",24,F,Aqaba,Capital District,2024,Civil Engineering,3.76,Probation,7216.85,Merit Scholarship,True
+STU-300501,Yasmin Smith,yasmin.smith501@student-campus.edu,+962 79 894 3863,"244 University Way, Jerash",18,M,Jerash,Capital District,2023,Finance,3.55,Dean's List,11733.17,Need-Based Aid,True
+STU-300502,David Smith,david.smith502@student-campus.edu,+962 79 315 7216,"307 University Way, Amman",22,M,Amman,Capital District,2021,Nursing,2.83,Academic Warning,11219.85,Need-Based Aid,True
+STU-300503,Huda Al-Qudah,huda.alqudah503@student-campus.edu,+962 77 375 8722,"323 University Way, Salt",26,F,Salt,Capital District,2022,Civil Engineering,2.47,Probation,12226.1,Need-Based Aid,True
+STU-300504,Fatima Al-Zubi,fatima.alzubi504@student-campus.edu,+962 78 817 7099,"196 University Way, Aqaba",25,F,Aqaba,Capital District,2024,Accounting,1.82,Probation,6723.61,Need-Based Aid,True
+STU-300505,Rania Masri,rania.masri505@student-campus.edu,+962 77 838 5422,"421 University Way, Aqaba",25,M,Aqaba,Capital District,2022,Psychology,2.91,Good Standing,12308.36,Need-Based Aid,True
+STU-300506,Emily Tarawneh,emily.tarawneh506@student-campus.edu,+962 78 925 1159,"100 University Way, Irbid",18,F,Irbid,Capital District,2022,Electrical Engineering,4.0,Academic Warning,3611.3,Merit Scholarship,True
+STU-300507,Yasmin Al-Zubi,yasmin.alzubi507@student-campus.edu,+962 78 356 1781,"213 University Way, Mafraq",19,M,Mafraq,Capital District,2023,Finance,3.35,Probation,5412.16,Need-Based Aid,True
+STU-300508,David Al-Zubi,david.alzubi508@student-campus.edu,+962 79 198 8370,"391 University Way, Mafraq",20,F,Mafraq,Capital District,2023,Electrical Engineering,2.9,Dean's List,2645.33,None,True
+STU-300509,Rania Al-Qudah,rania.alqudah509@student-campus.edu,+962 78 120 7746,"72 University Way, Salt",20,F,Salt,Capital District,2025,Finance,3.36,Satisfactory,7012.27,Need-Based Aid,True
+STU-300510,Emma Johnson,emma.johnson510@student-campus.edu,+962 78 463 6326,"354 University Way, Irbid",19,F,Irbid,Capital District,2025,Psychology,2.45,Good Standing,5880.9,Need-Based Aid,True
+STU-300511,Olivia Masri,olivia.masri511@student-campus.edu,+962 78 746 3373,"95 University Way, Salt",27,F,Salt,Capital District,2025,Business Administration,3.02,Dean's List,3613.91,None,True
+STU-300512,Layla Williams,layla.williams512@student-campus.edu,+962 77 265 6629,"126 University Way, Zarqa",19,F,Zarqa,Capital District,2024,Psychology,3.19,Probation,11276.71,Need-Based Aid,True
+STU-300513,Huda Williams,huda.williams513@student-campus.edu,+962 78 555 6950,"392 University Way, Jerash",25,F,Jerash,Capital District,2025,Civil Engineering,3.11,Satisfactory,4707.7,None,True
+STU-300514,Layla Al-Zubi,layla.alzubi514@student-campus.edu,+962 79 357 2311,"117 University Way, Aqaba",23,M,Aqaba,Capital District,2022,Computer Science,3.51,Good Standing,4092.06,None,True
+STU-300515,Salma Haddad,salma.haddad515@student-campus.edu,+962 77 889 7504,"278 University Way, Amman",24,M,Amman,Capital District,2024,Software Engineering,3.31,Dean's List,1963.35,None,True
+STU-300516,Tareq Obeidat,tareq.obeidat516@student-campus.edu,+962 78 334 5053,"387 University Way, Jerash",20,F,Jerash,Capital District,2021,Data Science,3.45,Probation,6582.33,Need-Based Aid,True
+STU-300517,Dina Williams,dina.williams517@student-campus.edu,+962 77 135 6846,"450 University Way, Irbid",21,F,Irbid,Capital District,2025,Data Science,2.84,Good Standing,4544.47,None,True
+STU-300518,Yasmin Masri,yasmin.masri518@student-campus.edu,+962 77 814 9835,"100 University Way, Mafraq",24,F,Mafraq,Capital District,2025,Civil Engineering,3.55,Probation,5539.09,Need-Based Aid,True
+STU-300519,Daniel Brown,daniel.brown519@student-campus.edu,+962 78 593 9841,"126 University Way, Salt",20,M,Salt,Capital District,2025,Business Administration,3.88,Probation,3539.96,Merit Scholarship,True
+STU-300520,Dina Obeidat,dina.obeidat520@student-campus.edu,+962 78 110 1001,"277 University Way, Irbid",24,M,Irbid,Capital District,2023,Business Administration,2.71,Satisfactory,11447.33,Need-Based Aid,True
+STU-300521,Fatima Obeidat,fatima.obeidat521@student-campus.edu,+962 78 406 1149,"402 University Way, Mafraq",18,F,Mafraq,Capital District,2021,Finance,2.75,Academic Warning,13950.05,Need-Based Aid,True
+STU-300522,Noor Johnson,noor.johnson522@student-campus.edu,+962 77 521 8161,"212 University Way, Madaba",18,M,Madaba,Capital District,2025,Computer Science,3.75,Good Standing,7468.98,Merit Scholarship,True
+STU-300523,Hamza Brown,hamza.brown523@student-campus.edu,+962 77 532 4924,"274 University Way, Salt",25,F,Salt,Capital District,2022,Business Administration,3.06,Academic Warning,9644.98,Need-Based Aid,True
+STU-300524,Noor Williams,noor.williams524@student-campus.edu,+962 77 286 3238,"158 University Way, Aqaba",24,M,Aqaba,Capital District,2024,Civil Engineering,3.78,Probation,13007.58,Merit Scholarship,True
+STU-300525,Daniel Masri,daniel.masri525@student-campus.edu,+962 77 428 1317,"87 University Way, Mafraq",18,M,Mafraq,Capital District,2023,Accounting,2.95,Probation,14982.44,Need-Based Aid,True
+STU-300526,Emily Al-Majali,emily.almajali526@student-campus.edu,+962 77 832 8183,"382 University Way, Salt",26,M,Salt,Capital District,2023,Software Engineering,3.8,Good Standing,9202.75,Merit Scholarship,True
+STU-300527,Khaled Haddad,khaled.haddad527@student-campus.edu,+962 78 530 6104,"412 University Way, Aqaba",18,F,Aqaba,Capital District,2024,Computer Science,3.21,Good Standing,13346.69,Need-Based Aid,True
+STU-300528,Fatima Masri,fatima.masri528@student-campus.edu,+962 77 372 7429,"46 University Way, Irbid",27,F,Irbid,Capital District,2021,Nursing,3.27,Dean's List,13629.12,Need-Based Aid,True
+STU-300529,Hamza Al-Khatib,hamza.alkhatib529@student-campus.edu,+962 79 354 7304,"404 University Way, Zarqa",25,F,Zarqa,Capital District,2021,Business Administration,3.85,Satisfactory,11871.77,Merit Scholarship,True
+STU-300530,Khaled Brown,khaled.brown530@student-campus.edu,+962 79 781 4415,"252 University Way, Zarqa",27,F,Zarqa,Capital District,2024,Electrical Engineering,2.99,Dean's List,6913.97,Need-Based Aid,True
+STU-300531,Emma Obeidat,emma.obeidat531@student-campus.edu,+962 78 592 5895,"111 University Way, Zarqa",27,F,Zarqa,Capital District,2021,Data Science,2.73,Satisfactory,1217.31,None,True
+STU-300532,Omar Miller,omar.miller532@student-campus.edu,+962 78 115 3742,"416 University Way, Jerash",21,F,Jerash,Capital District,2022,Software Engineering,2.95,Good Standing,237.08,None,True
+STU-300533,Michael Haddad,michael.haddad533@student-campus.edu,+962 79 902 8786,"362 University Way, Amman",25,M,Amman,Capital District,2021,Electrical Engineering,3.35,Academic Warning,7158.01,Need-Based Aid,True
+STU-300534,Fatima Jones,fatima.jones534@student-campus.edu,+962 77 802 6544,"398 University Way, Mafraq",20,M,Mafraq,Capital District,2022,Electrical Engineering,2.45,Dean's List,7414.72,Need-Based Aid,True
+STU-300535,Omar Al-Qudah,omar.alqudah535@student-campus.edu,+962 78 338 6189,"295 University Way, Irbid",22,F,Irbid,Capital District,2021,Finance,3.44,Good Standing,6110.44,Need-Based Aid,True
+STU-300536,Dina Brown,dina.brown536@student-campus.edu,+962 79 237 5107,"30 University Way, Madaba",20,F,Madaba,Capital District,2024,Computer Science,2.91,Good Standing,8522.51,Need-Based Aid,True
+STU-300537,David Masri,david.masri537@student-campus.edu,+962 77 680 4057,"288 University Way, Mafraq",22,F,Mafraq,Capital District,2025,Civil Engineering,3.67,Probation,8282.44,Need-Based Aid,True
+STU-300538,Huda Brown,huda.brown538@student-campus.edu,+962 77 643 3539,"240 University Way, Irbid",26,F,Irbid,Capital District,2025,Civil Engineering,2.07,Academic Warning,12549.2,Need-Based Aid,True
+STU-300539,Rania Smith,rania.smith539@student-campus.edu,+962 79 289 1306,"327 University Way, Jerash",22,F,Jerash,Capital District,2021,Accounting,2.8,Satisfactory,1629.86,None,True
+STU-300540,Sophia Al-Khatib,sophia.alkhatib540@student-campus.edu,+962 77 636 9151,"402 University Way, Jerash",18,M,Jerash,Capital District,2025,Software Engineering,2.39,Satisfactory,3377.66,None,True
+STU-300541,Sophia Obeidat,sophia.obeidat541@student-campus.edu,+962 77 635 2092,"32 University Way, Zarqa",21,M,Zarqa,Capital District,2023,Business Administration,2.78,Satisfactory,11895.07,Need-Based Aid,True
+STU-300542,Hamza Miller,hamza.miller542@student-campus.edu,+962 77 201 1521,"302 University Way, Mafraq",25,F,Mafraq,Capital District,2021,Electrical Engineering,3.26,Dean's List,12717.55,Need-Based Aid,True
+STU-300543,Emma Masri,emma.masri543@student-campus.edu,+962 77 475 4616,"320 University Way, Salt",23,M,Salt,Capital District,2025,Psychology,3.07,Probation,14922.36,Need-Based Aid,True
+STU-300544,Ahmad Al-Khatib,ahmad.alkhatib544@student-campus.edu,+962 78 671 7814,"430 University Way, Amman",23,F,Amman,Capital District,2024,Software Engineering,3.04,Academic Warning,13093.68,Need-Based Aid,True
+STU-300545,David Al-Majali,david.almajali545@student-campus.edu,+962 79 172 5979,"49 University Way, Amman",22,M,Amman,Capital District,2025,Civil Engineering,3.08,Probation,13348.49,Need-Based Aid,True
+STU-300546,James Haddad,james.haddad546@student-campus.edu,+962 77 297 9621,"346 University Way, Jerash",20,M,Jerash,Capital District,2025,Electrical Engineering,3.24,Dean's List,4715.22,None,True
+STU-300547,Michael Williams,michael.williams547@student-campus.edu,+962 79 208 6864,"355 University Way, Jerash",23,F,Jerash,Capital District,2025,Finance,2.7,Good Standing,6024.92,Need-Based Aid,True
+STU-300548,David Williams,david.williams548@student-campus.edu,+962 79 511 9268,"182 University Way, Irbid",24,M,Irbid,Capital District,2022,Software Engineering,3.47,Academic Warning,4021.28,None,True
+STU-300549,Emily Johnson,emily.johnson549@student-campus.edu,+962 78 522 8054,"432 University Way, Madaba",26,F,Madaba,Capital District,2023,Nursing,3.45,Academic Warning,9094.49,Need-Based Aid,True
+STU-300550,Sophia Al-Khatib,sophia.alkhatib550@student-campus.edu,+962 79 862 5162,"194 University Way, Jerash",24,F,Jerash,Capital District,2022,Finance,3.32,Probation,14082.08,Need-Based Aid,True
+STU-300551,Dina Tarawneh,dina.tarawneh551@student-campus.edu,+962 79 238 5945,"13 University Way, Amman",27,F,Amman,Capital District,2023,Computer Science,3.4,Dean's List,5169.61,Need-Based Aid,True
+STU-300552,Khaled Al-Khatib,khaled.alkhatib552@student-campus.edu,+962 77 138 8542,"192 University Way, Irbid",26,M,Irbid,Capital District,2023,Computer Science,3.28,Satisfactory,8355.03,Need-Based Aid,True
+STU-300553,Zaid Obeidat,zaid.obeidat553@student-campus.edu,+962 78 930 5920,"57 University Way, Aqaba",18,F,Aqaba,Capital District,2022,Psychology,4.0,Satisfactory,4444.49,Merit Scholarship,True
+STU-300554,Michael Al-Khatib,michael.alkhatib554@student-campus.edu,+962 78 945 2562,"314 University Way, Irbid",21,F,Irbid,Capital District,2024,Nursing,3.11,Dean's List,2547.0,None,True
+STU-300555,Omar Brown,omar.brown555@student-campus.edu,+962 78 456 8115,"223 University Way, Amman",21,M,Amman,Capital District,2021,Business Administration,3.01,Probation,2927.78,None,True
+STU-300556,Khaled Brown,khaled.brown556@student-campus.edu,+962 78 636 1674,"173 University Way, Amman",18,M,Amman,Capital District,2024,Computer Science,2.81,Probation,869.18,None,True
+STU-300557,Huda Smith,huda.smith557@student-campus.edu,+962 78 870 9269,"56 University Way, Jerash",19,M,Jerash,Capital District,2021,Data Science,2.69,Good Standing,14239.4,Need-Based Aid,True
+STU-300558,Layla Obeidat,layla.obeidat558@student-campus.edu,+962 77 587 1807,"290 University Way, Madaba",25,F,Madaba,Capital District,2022,Data Science,2.59,Academic Warning,6043.19,Need-Based Aid,True
+STU-300559,Rania Haddad,rania.haddad559@student-campus.edu,+962 77 592 4245,"259 University Way, Irbid",21,F,Irbid,Capital District,2024,Finance,2.75,Academic Warning,12511.81,Need-Based Aid,True
+STU-300560,Daniel Johnson,daniel.johnson560@student-campus.edu,+962 77 173 5362,"407 University Way, Aqaba",19,F,Aqaba,Capital District,2025,Finance,3.12,Good Standing,10219.94,Need-Based Aid,True
+STU-300561,Huda Williams,huda.williams561@student-campus.edu,+962 78 474 6706,"107 University Way, Jerash",20,F,Jerash,Capital District,2021,Software Engineering,3.3,Probation,2878.82,None,True
+STU-300562,Fatima Johnson,fatima.johnson562@student-campus.edu,+962 79 941 8245,"329 University Way, Madaba",20,M,Madaba,Capital District,2022,Civil Engineering,3.17,Dean's List,2631.93,None,True
+STU-300563,Dina Al-Majali,dina.almajali563@student-campus.edu,+962 79 973 2405,"67 University Way, Irbid",19,M,Irbid,Capital District,2023,Electrical Engineering,2.81,Good Standing,12179.82,Need-Based Aid,True
+STU-300564,Khaled Johnson,khaled.johnson564@student-campus.edu,+962 79 923 2823,"166 University Way, Madaba",19,F,Madaba,Capital District,2021,Civil Engineering,3.56,Good Standing,3970.68,None,True
+STU-300565,Yasmin Al-Majali,yasmin.almajali565@student-campus.edu,+962 77 659 9573,"394 University Way, Aqaba",25,F,Aqaba,Capital District,2025,Electrical Engineering,3.48,Satisfactory,13699.28,Need-Based Aid,True
+STU-300566,Emily Masri,emily.masri566@student-campus.edu,+962 79 779 9631,"32 University Way, Jerash",26,F,Jerash,Capital District,2021,Data Science,3.08,Probation,2100.83,None,True
+STU-300567,Hamza Al-Majali,hamza.almajali567@student-campus.edu,+962 77 576 1136,"44 University Way, Salt",22,F,Salt,Capital District,2025,Electrical Engineering,2.86,Satisfactory,10165.63,Need-Based Aid,True
+STU-300568,Emma Obeidat,emma.obeidat568@student-campus.edu,+962 79 495 4787,"204 University Way, Salt",24,M,Salt,Capital District,2021,Software Engineering,3.4,Satisfactory,12217.11,Need-Based Aid,True
+STU-300569,Huda Masri,huda.masri569@student-campus.edu,+962 77 612 8503,"297 University Way, Irbid",27,M,Irbid,Capital District,2021,Finance,3.23,Probation,3528.85,None,True
+STU-300570,Omar Al-Khatib,omar.alkhatib570@student-campus.edu,+962 78 862 3572,"19 University Way, Mafraq",26,F,Mafraq,Capital District,2023,Civil Engineering,2.5,Probation,4143.11,None,True
+STU-300571,Emma Al-Qudah,emma.alqudah571@student-campus.edu,+962 77 740 5221,"208 University Way, Salt",18,M,Salt,Capital District,2022,Civil Engineering,3.12,Satisfactory,14467.78,Need-Based Aid,True
+STU-300572,Emily Obeidat,emily.obeidat572@student-campus.edu,+962 79 240 2438,"383 University Way, Jerash",27,F,Jerash,Capital District,2023,Data Science,3.27,Good Standing,3968.96,None,True
+STU-300573,James Williams,james.williams573@student-campus.edu,+962 79 256 7987,"169 University Way, Aqaba",18,F,Aqaba,Capital District,2024,Electrical Engineering,2.75,Probation,6449.36,Need-Based Aid,True
+STU-300574,Dina Smith,dina.smith574@student-campus.edu,+962 77 416 9582,"79 University Way, Aqaba",18,F,Aqaba,Capital District,2022,Electrical Engineering,3.24,Good Standing,6487.73,Need-Based Aid,True
+STU-300575,Zaid Williams,zaid.williams575@student-campus.edu,+962 79 645 2939,"104 University Way, Zarqa",22,F,Zarqa,Capital District,2023,Data Science,2.5,Probation,3795.52,None,True
+STU-300576,Zaid Brown,zaid.brown576@student-campus.edu,+962 78 553 5485,"87 University Way, Jerash",25,M,Jerash,Capital District,2024,Nursing,3.75,Dean's List,11636.87,Merit Scholarship,True
+STU-300577,Tareq Al-Zubi,tareq.alzubi577@student-campus.edu,+962 79 680 4783,"315 University Way, Salt",18,M,Salt,Capital District,2025,Computer Science,3.71,Good Standing,11577.74,Need-Based Aid,True
+STU-300578,Khaled Williams,khaled.williams578@student-campus.edu,+962 77 614 8680,"374 University Way, Mafraq",20,F,Mafraq,Capital District,2021,Nursing,3.04,Dean's List,5674.77,Need-Based Aid,True
+STU-300579,Hamza Miller,hamza.miller579@student-campus.edu,+962 77 297 4707,"26 University Way, Irbid",20,F,Irbid,Capital District,2024,Accounting,3.31,Academic Warning,12526.89,Need-Based Aid,True
+STU-300580,Ahmad Obeidat,ahmad.obeidat580@student-campus.edu,+962 77 281 8197,"325 University Way, Aqaba",21,F,Aqaba,Capital District,2022,Electrical Engineering,2.07,Academic Warning,3196.12,None,True
+STU-300581,David Al-Qudah,david.alqudah581@student-campus.edu,+962 77 722 7232,"378 University Way, Jerash",27,F,Jerash,Capital District,2024,Electrical Engineering,2.63,Academic Warning,64.59,None,True
+STU-300582,Salma Johnson,salma.johnson582@student-campus.edu,+962 79 211 8399,"243 University Way, Amman",21,M,Amman,Capital District,2025,Psychology,3.02,Probation,8567.51,Need-Based Aid,True
+STU-300583,Khaled Smith,khaled.smith583@student-campus.edu,+962 79 883 1807,"107 University Way, Jerash",20,F,Jerash,Capital District,2021,Business Administration,2.67,Probation,14911.17,Need-Based Aid,True
+STU-300584,Dina Tarawneh,dina.tarawneh584@student-campus.edu,+962 78 401 1893,"363 University Way, Irbid",19,M,Irbid,Capital District,2024,Civil Engineering,3.47,Satisfactory,579.66,None,True
+STU-300585,Dina Miller,dina.miller585@student-campus.edu,+962 77 897 9952,"79 University Way, Zarqa",19,F,Zarqa,Capital District,2025,Software Engineering,4.0,Academic Warning,3119.97,Merit Scholarship,True
+STU-300586,Layla Al-Qudah,layla.alqudah586@student-campus.edu,+962 79 829 4308,"242 University Way, Mafraq",19,M,Mafraq,Capital District,2022,Computer Science,2.62,Academic Warning,7783.72,Need-Based Aid,True
+STU-300587,Rania Al-Qudah,rania.alqudah587@student-campus.edu,+962 79 560 6946,"53 University Way, Zarqa",23,F,Zarqa,Capital District,2021,Software Engineering,2.77,Good Standing,12149.11,Need-Based Aid,True
+STU-300588,Olivia Jones,olivia.jones588@student-campus.edu,+962 79 489 1719,"403 University Way, Jerash",22,M,Jerash,Capital District,2022,Psychology,3.26,Probation,1335.63,None,True
+STU-300589,Huda Johnson,huda.johnson589@student-campus.edu,+962 79 152 7874,"167 University Way, Irbid",22,F,Irbid,Capital District,2022,Data Science,3.88,Good Standing,5928.52,Merit Scholarship,True
+STU-300590,Olivia Jones,olivia.jones590@student-campus.edu,+962 77 307 1057,"328 University Way, Zarqa",26,F,Zarqa,Capital District,2022,Civil Engineering,2.6,Academic Warning,11206.14,Need-Based Aid,True
+STU-300591,Ahmad Masri,ahmad.masri591@student-campus.edu,+962 79 605 4897,"121 University Way, Amman",23,F,Amman,Capital District,2025,Accounting,3.26,Academic Warning,5573.15,Need-Based Aid,True
+STU-300592,Dina Tarawneh,dina.tarawneh592@student-campus.edu,+962 77 660 5556,"327 University Way, Amman",19,M,Amman,Capital District,2025,Software Engineering,3.97,Academic Warning,2832.55,Merit Scholarship,True
+STU-300593,Omar Al-Zubi,omar.alzubi593@student-campus.edu,+962 77 974 1531,"351 University Way, Amman",21,F,Amman,Capital District,2023,Computer Science,2.41,Good Standing,2932.44,None,True
+STU-300594,Huda Haddad,huda.haddad594@student-campus.edu,+962 77 788 5659,"322 University Way, Irbid",21,M,Irbid,Capital District,2024,Software Engineering,2.57,Dean's List,6150.73,Need-Based Aid,True
+STU-300595,Dina Brown,dina.brown595@student-campus.edu,+962 78 430 7038,"204 University Way, Zarqa",26,M,Zarqa,Capital District,2021,Nursing,2.96,Probation,7191.26,Need-Based Aid,True
+STU-300596,Layla Miller,layla.miller596@student-campus.edu,+962 77 224 5496,"178 University Way, Mafraq",21,F,Mafraq,Capital District,2023,Software Engineering,2.92,Probation,12927.22,Need-Based Aid,True
+STU-300597,James Al-Khatib,james.alkhatib597@student-campus.edu,+962 79 847 9666,"54 University Way, Zarqa",19,F,Zarqa,Capital District,2021,Psychology,3.52,Good Standing,9633.79,Need-Based Aid,True
+STU-300598,Olivia Brown,olivia.brown598@student-campus.edu,+962 78 638 6797,"76 University Way, Madaba",25,F,Madaba,Capital District,2024,Civil Engineering,3.26,Probation,10356.03,Need-Based Aid,True
+STU-300599,James Brown,james.brown599@student-campus.edu,+962 79 397 4171,"10 University Way, Aqaba",22,M,Aqaba,Capital District,2022,Accounting,2.35,Academic Warning,14744.81,Need-Based Aid,True
+STU-300600,Ahmad Masri,ahmad.masri600@student-campus.edu,+962 78 146 6468,"189 University Way, Jerash",18,M,Jerash,Capital District,2025,Electrical Engineering,3.38,Dean's List,6177.65,Need-Based Aid,True
+STU-300601,Ahmad Williams,ahmad.williams601@student-campus.edu,+962 78 407 9301,"291 University Way, Zarqa",24,F,Zarqa,Capital District,2023,Civil Engineering,2.89,Good Standing,6050.32,Need-Based Aid,True
+STU-300602,Ahmad Haddad,ahmad.haddad602@student-campus.edu,+962 77 298 6415,"436 University Way, Amman",20,F,Amman,Capital District,2024,Nursing,3.72,Satisfactory,13850.2,Need-Based Aid,True
+STU-300603,Emma Masri,emma.masri603@student-campus.edu,+962 77 742 8546,"284 University Way, Mafraq",26,F,Mafraq,Capital District,2022,Computer Science,2.87,Academic Warning,3688.13,None,True
+STU-300604,Dina Jones,dina.jones604@student-campus.edu,+962 79 842 6169,"294 University Way, Salt",26,M,Salt,Capital District,2025,Computer Science,2.86,Academic Warning,10947.23,Need-Based Aid,True
+STU-300605,Abdullah Johnson,abdullah.johnson605@student-campus.edu,+962 78 960 1510,"183 University Way, Irbid",21,F,Irbid,Capital District,2021,Nursing,3.39,Satisfactory,11318.6,Need-Based Aid,True
+STU-300606,Daniel Smith,daniel.smith606@student-campus.edu,+962 77 709 2914,"410 University Way, Jerash",23,F,Jerash,Capital District,2025,Psychology,3.49,Good Standing,1466.82,None,True
+STU-300607,David Miller,david.miller607@student-campus.edu,+962 77 608 4893,"200 University Way, Jerash",23,F,Jerash,Capital District,2023,Computer Science,3.35,Satisfactory,7023.47,Need-Based Aid,True
+STU-300608,Noor Al-Khatib,noor.alkhatib608@student-campus.edu,+962 78 903 1612,"408 University Way, Zarqa",24,M,Zarqa,Capital District,2022,Civil Engineering,2.39,Probation,3008.44,None,True
+STU-300609,Yousef Masri,yousef.masri609@student-campus.edu,+962 77 448 8921,"385 University Way, Irbid",18,F,Irbid,Capital District,2024,Computer Science,3.39,Probation,2780.63,None,True
+STU-300610,Huda Al-Zubi,huda.alzubi610@student-campus.edu,+962 79 137 8526,"208 University Way, Aqaba",21,M,Aqaba,Capital District,2022,Finance,2.68,Dean's List,6957.42,Need-Based Aid,True
+STU-300611,Ahmad Obeidat,ahmad.obeidat611@student-campus.edu,+962 78 147 2689,"276 University Way, Madaba",19,F,Madaba,Capital District,2021,Psychology,3.26,Dean's List,4341.45,None,True
+STU-300612,Ahmad Johnson,ahmad.johnson612@student-campus.edu,+962 77 393 5532,"282 University Way, Aqaba",24,F,Aqaba,Capital District,2023,Electrical Engineering,2.51,Satisfactory,11940.91,Need-Based Aid,True
+STU-300613,Dina Williams,dina.williams613@student-campus.edu,+962 78 217 1249,"328 University Way, Irbid",18,M,Irbid,Capital District,2022,Civil Engineering,3.35,Dean's List,13614.07,Need-Based Aid,True
+STU-300614,Abdullah Smith,abdullah.smith614@student-campus.edu,+962 77 821 5641,"303 University Way, Salt",23,M,Salt,Capital District,2023,Finance,2.79,Satisfactory,12040.81,Need-Based Aid,True
+STU-300615,Hamza Haddad,hamza.haddad615@student-campus.edu,+962 77 233 1475,"251 University Way, Mafraq",25,M,Mafraq,Capital District,2023,Psychology,2.57,Satisfactory,3990.46,None,True
+STU-300616,Tareq Tarawneh,tareq.tarawneh616@student-campus.edu,+962 77 821 8304,"325 University Way, Jerash",27,F,Jerash,Capital District,2024,Software Engineering,3.47,Dean's List,4112.02,None,True
+STU-300617,Noor Al-Qudah,noor.alqudah617@student-campus.edu,+962 79 234 2522,"426 University Way, Mafraq",20,F,Mafraq,Capital District,2021,Finance,3.26,Good Standing,3820.93,None,True
+STU-300618,Tareq Masri,tareq.masri618@student-campus.edu,+962 77 247 5227,"196 University Way, Aqaba",18,F,Aqaba,Capital District,2024,Accounting,2.87,Satisfactory,2025.57,None,True
+STU-300619,Hamza Brown,hamza.brown619@student-campus.edu,+962 77 166 8787,"67 University Way, Mafraq",25,F,Mafraq,Capital District,2024,Nursing,3.8,Satisfactory,14156.98,Merit Scholarship,True
+STU-300620,Yasmin Masri,yasmin.masri620@student-campus.edu,+962 79 205 7646,"428 University Way, Irbid",18,M,Irbid,Capital District,2023,Civil Engineering,2.95,Good Standing,6030.72,Need-Based Aid,True
+STU-300621,Huda Smith,huda.smith621@student-campus.edu,+962 78 704 7773,"132 University Way, Mafraq",18,M,Mafraq,Capital District,2025,Civil Engineering,3.16,Dean's List,3370.34,None,True
+STU-300622,Emily Al-Zubi,emily.alzubi622@student-campus.edu,+962 77 933 8063,"411 University Way, Madaba",27,F,Madaba,Capital District,2021,Business Administration,3.27,Academic Warning,12700.07,Need-Based Aid,True
+STU-300623,Michael Jones,michael.jones623@student-campus.edu,+962 79 785 2276,"388 University Way, Irbid",26,F,Irbid,Capital District,2022,Finance,2.87,Satisfactory,5987.93,Need-Based Aid,True
+STU-300624,Tareq Johnson,tareq.johnson624@student-campus.edu,+962 78 280 6046,"217 University Way, Zarqa",25,M,Zarqa,Capital District,2023,Accounting,3.36,Probation,526.75,None,True
+STU-300625,Sophia Haddad,sophia.haddad625@student-campus.edu,+962 79 776 2007,"56 University Way, Mafraq",26,M,Mafraq,Capital District,2023,Business Administration,2.91,Probation,2429.12,None,True
+STU-300626,Zaid Johnson,zaid.johnson626@student-campus.edu,+962 79 398 7389,"325 University Way, Mafraq",18,F,Mafraq,Capital District,2022,Data Science,2.96,Dean's List,9588.76,Need-Based Aid,True
+STU-300627,Abdullah Al-Khatib,abdullah.alkhatib627@student-campus.edu,+962 78 835 6640,"55 University Way, Salt",18,M,Salt,Capital District,2025,Civil Engineering,3.76,Satisfactory,11743.58,Merit Scholarship,True
+STU-300628,Sophia Smith,sophia.smith628@student-campus.edu,+962 78 662 1870,"10 University Way, Amman",21,F,Amman,Capital District,2023,Data Science,2.68,Academic Warning,3164.02,None,True
+STU-300629,Tareq Miller,tareq.miller629@student-campus.edu,+962 79 704 7459,"330 University Way, Jerash",18,F,Jerash,Capital District,2022,Computer Science,2.06,Satisfactory,13760.93,Need-Based Aid,True
+STU-300630,David Tarawneh,david.tarawneh630@student-campus.edu,+962 79 277 8780,"81 University Way, Aqaba",26,M,Aqaba,Capital District,2024,Business Administration,3.87,Academic Warning,12764.96,Merit Scholarship,True
+STU-300631,Emily Tarawneh,emily.tarawneh631@student-campus.edu,+962 79 228 3200,"15 University Way, Salt",18,M,Salt,Capital District,2022,Business Administration,4.0,Satisfactory,12725.71,Merit Scholarship,True
+STU-300632,Daniel Al-Majali,daniel.almajali632@student-campus.edu,+962 77 240 7813,"450 University Way, Irbid",23,F,Irbid,Capital District,2024,Accounting,2.97,Good Standing,3414.92,None,True
+STU-300633,David Johnson,david.johnson633@student-campus.edu,+962 79 534 8373,"206 University Way, Mafraq",26,F,Mafraq,Capital District,2022,Psychology,2.28,Academic Warning,758.04,None,True
+STU-300634,Khaled Al-Zubi,khaled.alzubi634@student-campus.edu,+962 79 342 9220,"147 University Way, Mafraq",25,F,Mafraq,Capital District,2021,Psychology,3.01,Academic Warning,13011.35,Need-Based Aid,True
+STU-300635,Emily Johnson,emily.johnson635@student-campus.edu,+962 79 477 2854,"307 University Way, Mafraq",20,F,Mafraq,Capital District,2021,Computer Science,3.02,Satisfactory,4587.0,None,True
+STU-300636,David Haddad,david.haddad636@student-campus.edu,+962 79 180 9574,"322 University Way, Mafraq",22,M,Mafraq,Capital District,2023,Finance,3.06,Good Standing,9283.75,Need-Based Aid,True
+STU-300637,Khaled Masri,khaled.masri637@student-campus.edu,+962 79 154 6628,"283 University Way, Salt",23,M,Salt,Capital District,2025,Finance,2.65,Dean's List,11399.5,Need-Based Aid,True
+STU-300638,Yasmin Masri,yasmin.masri638@student-campus.edu,+962 78 461 5827,"158 University Way, Madaba",25,M,Madaba,Capital District,2025,Accounting,3.41,Probation,1924.4,None,True
+STU-300639,Omar Brown,omar.brown639@student-campus.edu,+962 77 744 8752,"306 University Way, Salt",22,M,Salt,Capital District,2025,Civil Engineering,3.39,Probation,11712.58,Need-Based Aid,True
+STU-300640,Michael Al-Majali,michael.almajali640@student-campus.edu,+962 78 184 3077,"268 University Way, Salt",20,M,Salt,Capital District,2021,Psychology,2.48,Satisfactory,14077.67,Need-Based Aid,True
+STU-300641,Rania Obeidat,rania.obeidat641@student-campus.edu,+962 78 114 2827,"319 University Way, Salt",25,M,Salt,Capital District,2023,Psychology,3.46,Good Standing,10925.62,Need-Based Aid,True
+STU-300642,Michael Brown,michael.brown642@student-campus.edu,+962 78 901 4869,"258 University Way, Irbid",26,M,Irbid,Capital District,2023,Accounting,4.0,Good Standing,6618.34,Merit Scholarship,True
+STU-300643,James Miller,james.miller643@student-campus.edu,+962 79 941 3525,"438 University Way, Irbid",22,F,Irbid,Capital District,2021,Nursing,3.23,Dean's List,13150.17,Need-Based Aid,True
+STU-300644,Layla Jones,layla.jones644@student-campus.edu,+962 77 691 6653,"37 University Way, Irbid",18,F,Irbid,Capital District,2024,Electrical Engineering,3.0,Academic Warning,7911.86,Need-Based Aid,True
+STU-300645,Tareq Al-Majali,tareq.almajali645@student-campus.edu,+962 78 587 9724,"129 University Way, Mafraq",23,F,Mafraq,Capital District,2024,Accounting,3.09,Good Standing,11171.56,Need-Based Aid,True
+STU-300646,Emma Brown,emma.brown646@student-campus.edu,+962 79 991 8122,"16 University Way, Irbid",26,F,Irbid,Capital District,2023,Accounting,3.43,Academic Warning,12307.59,Need-Based Aid,True
+STU-300647,Dina Tarawneh,dina.tarawneh647@student-campus.edu,+962 79 752 6797,"442 University Way, Zarqa",27,F,Zarqa,Capital District,2021,Finance,2.37,Satisfactory,11240.29,Need-Based Aid,True
+STU-300648,Sophia Williams,sophia.williams648@student-campus.edu,+962 77 361 7408,"246 University Way, Salt",22,M,Salt,Capital District,2023,Nursing,3.22,Satisfactory,4317.82,None,True
+STU-300649,Olivia Williams,olivia.williams649@student-campus.edu,+962 79 806 3947,"170 University Way, Madaba",19,M,Madaba,Capital District,2025,Electrical Engineering,2.97,Probation,1767.66,None,True
+STU-300650,Emma Al-Majali,emma.almajali650@student-campus.edu,+962 79 206 8306,"189 University Way, Zarqa",23,M,Zarqa,Capital District,2024,Computer Science,3.98,Dean's List,3575.08,Merit Scholarship,True
+STU-300651,Olivia Obeidat,olivia.obeidat651@student-campus.edu,+962 79 194 1931,"314 University Way, Amman",26,M,Amman,Capital District,2021,Electrical Engineering,3.07,Satisfactory,7543.12,Need-Based Aid,True
+STU-300652,Sophia Williams,sophia.williams652@student-campus.edu,+962 78 772 4027,"66 University Way, Irbid",27,M,Irbid,Capital District,2021,Software Engineering,3.9,Dean's List,7579.15,Merit Scholarship,True
+STU-300653,Rania Obeidat,rania.obeidat653@student-campus.edu,+962 78 808 6298,"141 University Way, Salt",18,M,Salt,Capital District,2024,Software Engineering,2.65,Academic Warning,8739.67,Need-Based Aid,True
+STU-300654,Yousef Obeidat,yousef.obeidat654@student-campus.edu,+962 77 364 5336,"101 University Way, Madaba",20,F,Madaba,Capital District,2024,Business Administration,3.41,Dean's List,5926.53,Need-Based Aid,True
+STU-300655,Yousef Masri,yousef.masri655@student-campus.edu,+962 79 603 2776,"83 University Way, Irbid",22,F,Irbid,Capital District,2024,Psychology,3.29,Good Standing,11803.37,Need-Based Aid,True
+STU-300656,Abdullah Johnson,abdullah.johnson656@student-campus.edu,+962 77 174 2153,"302 University Way, Zarqa",18,F,Zarqa,Capital District,2023,Accounting,2.76,Dean's List,13697.31,Need-Based Aid,True
+STU-300657,Dina Al-Majali,dina.almajali657@student-campus.edu,+962 79 499 5365,"87 University Way, Amman",26,F,Amman,Capital District,2021,Data Science,3.23,Academic Warning,3700.88,None,True
+STU-300658,Salma Johnson,salma.johnson658@student-campus.edu,+962 78 513 2148,"286 University Way, Mafraq",19,M,Mafraq,Capital District,2024,Finance,3.7,Dean's List,11047.85,Need-Based Aid,True
+STU-300659,Ahmad Tarawneh,ahmad.tarawneh659@student-campus.edu,+962 78 798 5961,"215 University Way, Madaba",24,M,Madaba,Capital District,2025,Software Engineering,3.0,Academic Warning,10169.58,Need-Based Aid,True
+STU-300660,Daniel Williams,daniel.williams660@student-campus.edu,+962 77 961 8530,"399 University Way, Madaba",27,F,Madaba,Capital District,2025,Nursing,2.39,Dean's List,7846.36,Need-Based Aid,True
+STU-300661,Daniel Al-Khatib,daniel.alkhatib661@student-campus.edu,+962 79 295 5896,"366 University Way, Jerash",24,F,Jerash,Capital District,2021,Finance,3.14,Good Standing,2827.95,None,True
+STU-300662,Tareq Williams,tareq.williams662@student-campus.edu,+962 79 294 3292,"28 University Way, Mafraq",25,M,Mafraq,Capital District,2021,Accounting,2.74,Satisfactory,11928.48,Need-Based Aid,True
+STU-300663,Ahmad Brown,ahmad.brown663@student-campus.edu,+962 77 911 9856,"339 University Way, Jerash",20,F,Jerash,Capital District,2024,Electrical Engineering,3.0,Probation,14409.39,Need-Based Aid,True
+STU-300664,Yasmin Smith,yasmin.smith664@student-campus.edu,+962 77 445 1701,"217 University Way, Madaba",26,M,Madaba,Capital District,2021,Computer Science,3.11,Academic Warning,10827.54,Need-Based Aid,True
+STU-300665,Abdullah Jones,abdullah.jones665@student-campus.edu,+962 79 693 4817,"46 University Way, Irbid",22,M,Irbid,Capital District,2025,Accounting,2.38,Probation,13767.9,Need-Based Aid,True
+STU-300666,Olivia Al-Zubi,olivia.alzubi666@student-campus.edu,+962 77 818 3138,"17 University Way, Amman",18,M,Amman,Capital District,2024,Computer Science,2.42,Academic Warning,14762.78,Need-Based Aid,True
+STU-300667,Daniel Al-Majali,daniel.almajali667@student-campus.edu,+962 79 165 2742,"68 University Way, Irbid",21,F,Irbid,Capital District,2024,Software Engineering,3.37,Satisfactory,5280.76,Need-Based Aid,True
+STU-300668,Sophia Jones,sophia.jones668@student-campus.edu,+962 78 445 7586,"176 University Way, Aqaba",21,M,Aqaba,Capital District,2021,Electrical Engineering,2.91,Probation,9573.35,Need-Based Aid,True
+STU-300669,Emma Johnson,emma.johnson669@student-campus.edu,+962 77 707 3841,"181 University Way, Aqaba",23,M,Aqaba,Capital District,2023,Data Science,2.0,Probation,7108.99,Need-Based Aid,True
+STU-300670,Tareq Obeidat,tareq.obeidat670@student-campus.edu,+962 79 268 8187,"134 University Way, Madaba",20,M,Madaba,Capital District,2022,Business Administration,3.5,Good Standing,14799.43,Need-Based Aid,True
+STU-300671,Zaid Haddad,zaid.haddad671@student-campus.edu,+962 78 182 1104,"13 University Way, Amman",22,M,Amman,Capital District,2022,Business Administration,3.27,Probation,1407.12,None,True
+STU-300672,Yousef Brown,yousef.brown672@student-campus.edu,+962 79 229 4377,"83 University Way, Mafraq",22,F,Mafraq,Capital District,2024,Civil Engineering,2.83,Probation,6185.62,Need-Based Aid,True
+STU-300673,James Masri,james.masri673@student-campus.edu,+962 79 284 9190,"323 University Way, Amman",21,M,Amman,Capital District,2022,Electrical Engineering,2.56,Academic Warning,13133.09,Need-Based Aid,True
+STU-300674,Daniel Miller,daniel.miller674@student-campus.edu,+962 79 341 4144,"70 University Way, Amman",24,M,Amman,Capital District,2024,Nursing,3.53,Satisfactory,4260.77,None,True
+STU-300675,Sophia Al-Qudah,sophia.alqudah675@student-campus.edu,+962 79 775 4409,"151 University Way, Mafraq",21,M,Mafraq,Capital District,2022,Finance,3.31,Probation,11816.89,Need-Based Aid,True
+STU-300676,Abdullah Haddad,abdullah.haddad676@student-campus.edu,+962 77 786 1706,"37 University Way, Irbid",25,F,Irbid,Capital District,2024,Accounting,4.0,Good Standing,5741.75,Merit Scholarship,True
+STU-300677,Noor Al-Khatib,noor.alkhatib677@student-campus.edu,+962 77 206 1859,"285 University Way, Mafraq",20,M,Mafraq,Capital District,2023,Civil Engineering,3.34,Academic Warning,14699.68,Need-Based Aid,True
+STU-300678,Hamza Jones,hamza.jones678@student-campus.edu,+962 77 340 8287,"313 University Way, Zarqa",26,F,Zarqa,Capital District,2025,Accounting,3.32,Dean's List,13252.95,Need-Based Aid,True
+STU-300679,Layla Al-Khatib,layla.alkhatib679@student-campus.edu,+962 77 200 4884,"387 University Way, Madaba",21,F,Madaba,Capital District,2021,Electrical Engineering,3.07,Satisfactory,4519.81,None,True
+STU-300680,Abdullah Tarawneh,abdullah.tarawneh680@student-campus.edu,+962 77 546 3374,"120 University Way, Mafraq",18,F,Mafraq,Capital District,2024,Software Engineering,3.52,Good Standing,11552.9,Need-Based Aid,True
+STU-300681,Hamza Tarawneh,hamza.tarawneh681@student-campus.edu,+962 79 467 5418,"113 University Way, Aqaba",19,F,Aqaba,Capital District,2024,Data Science,3.43,Satisfactory,5052.85,Need-Based Aid,True
+STU-300682,Zaid Al-Majali,zaid.almajali682@student-campus.edu,+962 77 972 8627,"244 University Way, Irbid",26,F,Irbid,Capital District,2023,Computer Science,3.71,Probation,9095.44,Need-Based Aid,True
+STU-300683,Hamza Jones,hamza.jones683@student-campus.edu,+962 79 726 3784,"305 University Way, Irbid",26,M,Irbid,Capital District,2023,Electrical Engineering,2.92,Satisfactory,9877.21,Need-Based Aid,True
+STU-300684,Yousef Tarawneh,yousef.tarawneh684@student-campus.edu,+962 78 385 1237,"383 University Way, Mafraq",20,F,Mafraq,Capital District,2022,Accounting,2.95,Probation,12443.93,Need-Based Aid,True
+STU-300685,Olivia Miller,olivia.miller685@student-campus.edu,+962 79 327 3440,"303 University Way, Jerash",24,M,Jerash,Capital District,2023,Electrical Engineering,2.93,Good Standing,366.76,None,True
+STU-300686,Layla Al-Majali,layla.almajali686@student-campus.edu,+962 78 643 7460,"255 University Way, Amman",23,M,Amman,Capital District,2025,Accounting,3.51,Dean's List,3302.37,None,True
+STU-300687,Dina Masri,dina.masri687@student-campus.edu,+962 79 849 7662,"121 University Way, Amman",19,M,Amman,Capital District,2025,Software Engineering,3.82,Good Standing,10678.77,Merit Scholarship,True
+STU-300688,Fatima Obeidat,fatima.obeidat688@student-campus.edu,+962 79 412 3650,"370 University Way, Mafraq",22,F,Mafraq,Capital District,2021,Software Engineering,2.94,Good Standing,8452.85,Need-Based Aid,True
+STU-300689,Michael Brown,michael.brown689@student-campus.edu,+962 77 995 7641,"104 University Way, Mafraq",24,F,Mafraq,Capital District,2024,Computer Science,2.96,Probation,7434.08,Need-Based Aid,True
+STU-300690,Daniel Masri,daniel.masri690@student-campus.edu,+962 79 133 5859,"228 University Way, Madaba",27,F,Madaba,Capital District,2024,Software Engineering,3.29,Dean's List,828.15,None,True
+STU-300691,David Johnson,david.johnson691@student-campus.edu,+962 79 443 1898,"273 University Way, Zarqa",26,F,Zarqa,Capital District,2022,Psychology,3.04,Probation,5224.14,Need-Based Aid,True
+STU-300692,Omar Haddad,omar.haddad692@student-campus.edu,+962 78 475 3871,"341 University Way, Amman",18,M,Amman,Capital District,2024,Nursing,3.58,Academic Warning,12976.5,Need-Based Aid,True
+STU-300693,Emily Brown,emily.brown693@student-campus.edu,+962 79 216 8839,"387 University Way, Aqaba",20,M,Aqaba,Capital District,2023,Data Science,2.14,Good Standing,463.39,None,True
+STU-300694,Olivia Jones,olivia.jones694@student-campus.edu,+962 79 796 7929,"151 University Way, Salt",22,M,Salt,Capital District,2023,Nursing,2.78,Good Standing,5946.54,Need-Based Aid,True
+STU-300695,Yousef Al-Qudah,yousef.alqudah695@student-campus.edu,+962 78 826 9714,"357 University Way, Zarqa",19,F,Zarqa,Capital District,2024,Accounting,2.8,Satisfactory,14177.22,Need-Based Aid,True
+STU-300696,Dina Johnson,dina.johnson696@student-campus.edu,+962 77 182 7400,"101 University Way, Mafraq",23,F,Mafraq,Capital District,2022,Software Engineering,2.11,Satisfactory,763.21,None,True
+STU-300697,Yousef Haddad,yousef.haddad697@student-campus.edu,+962 78 254 4346,"276 University Way, Irbid",18,M,Irbid,Capital District,2021,Civil Engineering,2.72,Good Standing,11245.59,Need-Based Aid,True
+STU-300698,Noor Tarawneh,noor.tarawneh698@student-campus.edu,+962 78 554 1351,"159 University Way, Madaba",19,M,Madaba,Capital District,2024,Data Science,2.74,Probation,3864.19,None,True
+STU-300699,Yousef Al-Majali,yousef.almajali699@student-campus.edu,+962 79 451 6346,"258 University Way, Jerash",18,F,Jerash,Capital District,2023,Finance,3.06,Good Standing,12999.13,Need-Based Aid,True
+STU-300700,Dina Obeidat,dina.obeidat700@student-campus.edu,+962 78 332 8933,"200 University Way, Irbid",20,F,Irbid,Capital District,2023,Data Science,3.65,Probation,11191.02,Need-Based Aid,True
+STU-300701,Omar Al-Zubi,omar.alzubi701@student-campus.edu,+962 79 264 9770,"156 University Way, Irbid",25,M,Irbid,Capital District,2024,Civil Engineering,3.04,Satisfactory,13285.58,Need-Based Aid,True
+STU-300702,Hamza Miller,hamza.miller702@student-campus.edu,+962 77 424 3072,"235 University Way, Zarqa",19,F,Zarqa,Capital District,2022,Data Science,2.69,Good Standing,3238.87,None,True
+STU-300703,Fatima Al-Zubi,fatima.alzubi703@student-campus.edu,+962 78 251 7109,"239 University Way, Madaba",27,M,Madaba,Capital District,2021,Finance,3.12,Good Standing,7969.39,Need-Based Aid,True
+STU-300704,Emily Obeidat,emily.obeidat704@student-campus.edu,+962 77 569 6246,"89 University Way, Mafraq",20,M,Mafraq,Capital District,2024,Computer Science,3.62,Dean's List,11689.05,Need-Based Aid,True
+STU-300705,Olivia Smith,olivia.smith705@student-campus.edu,+962 78 872 3409,"419 University Way, Mafraq",18,F,Mafraq,Capital District,2023,Nursing,2.71,Probation,3685.5,None,True
+STU-300706,Huda Brown,huda.brown706@student-campus.edu,+962 79 664 2914,"167 University Way, Irbid",21,M,Irbid,Capital District,2021,Accounting,2.74,Dean's List,3461.19,None,True
+STU-300707,Salma Johnson,salma.johnson707@student-campus.edu,+962 78 156 4197,"308 University Way, Zarqa",25,M,Zarqa,Capital District,2023,Accounting,3.4,Good Standing,407.73,None,True
+STU-300708,Rania Al-Khatib,rania.alkhatib708@student-campus.edu,+962 79 787 2431,"272 University Way, Mafraq",19,F,Mafraq,Capital District,2025,Software Engineering,3.05,Dean's List,14377.73,Need-Based Aid,True
+STU-300709,Abdullah Masri,abdullah.masri709@student-campus.edu,+962 79 469 7513,"85 University Way, Amman",18,F,Amman,Capital District,2025,Psychology,3.44,Satisfactory,10650.25,Need-Based Aid,True
+STU-300710,Fatima Tarawneh,fatima.tarawneh710@student-campus.edu,+962 78 415 8300,"297 University Way, Madaba",26,M,Madaba,Capital District,2023,Computer Science,3.14,Satisfactory,9533.41,Need-Based Aid,True
+STU-300711,Abdullah Brown,abdullah.brown711@student-campus.edu,+962 77 925 7944,"383 University Way, Salt",23,F,Salt,Capital District,2024,Business Administration,3.47,Academic Warning,11159.92,Need-Based Aid,True
+STU-300712,Zaid Miller,zaid.miller712@student-campus.edu,+962 77 410 8776,"278 University Way, Irbid",21,F,Irbid,Capital District,2021,Psychology,2.68,Probation,7974.19,Need-Based Aid,True
+STU-300713,Yousef Johnson,yousef.johnson713@student-campus.edu,+962 79 379 7791,"99 University Way, Jerash",25,F,Jerash,Capital District,2021,Software Engineering,3.14,Academic Warning,7142.01,Need-Based Aid,True
+STU-300714,David Johnson,david.johnson714@student-campus.edu,+962 78 667 9037,"31 University Way, Jerash",26,F,Jerash,Capital District,2022,Electrical Engineering,3.06,Good Standing,6742.98,Need-Based Aid,True
+STU-300715,Michael Obeidat,michael.obeidat715@student-campus.edu,+962 77 910 1040,"88 University Way, Aqaba",21,F,Aqaba,Capital District,2024,Finance,2.6,Academic Warning,9606.59,Need-Based Aid,True
+STU-300716,Noor Williams,noor.williams716@student-campus.edu,+962 77 603 5009,"24 University Way, Jerash",23,M,Jerash,Capital District,2023,Software Engineering,2.45,Academic Warning,3023.02,None,True
+STU-300717,Rania Masri,rania.masri717@student-campus.edu,+962 79 546 5225,"331 University Way, Mafraq",18,F,Mafraq,Capital District,2023,Psychology,3.46,Dean's List,13320.88,Need-Based Aid,True
+STU-300718,David Miller,david.miller718@student-campus.edu,+962 78 266 1958,"84 University Way, Amman",21,F,Amman,Capital District,2025,Nursing,2.99,Dean's List,12176.29,Need-Based Aid,True
+STU-300719,Dina Brown,dina.brown719@student-campus.edu,+962 78 469 7873,"335 University Way, Amman",23,F,Amman,Capital District,2022,Nursing,2.69,Good Standing,5243.45,Need-Based Aid,True
+STU-300720,Omar Obeidat,omar.obeidat720@student-campus.edu,+962 79 287 2548,"316 University Way, Aqaba",19,M,Aqaba,Capital District,2021,Finance,3.11,Satisfactory,8679.14,Need-Based Aid,True
+STU-300721,Emily Al-Qudah,emily.alqudah721@student-campus.edu,+962 77 647 6761,"431 University Way, Madaba",27,M,Madaba,Capital District,2023,Civil Engineering,3.66,Satisfactory,2115.41,None,True
+STU-300722,Ahmad Al-Zubi,ahmad.alzubi722@student-campus.edu,+962 78 448 3671,"62 University Way, Mafraq",27,M,Mafraq,Capital District,2023,Civil Engineering,2.12,Probation,14585.19,Need-Based Aid,True
+STU-300723,Zaid Smith,zaid.smith723@student-campus.edu,+962 78 571 2251,"69 University Way, Zarqa",20,M,Zarqa,Capital District,2025,Electrical Engineering,2.48,Good Standing,13543.39,Need-Based Aid,True
+STU-300724,Ahmad Masri,ahmad.masri724@student-campus.edu,+962 78 711 9570,"400 University Way, Irbid",21,F,Irbid,Capital District,2023,Civil Engineering,2.73,Satisfactory,13828.46,Need-Based Aid,True
+STU-300725,Hamza Brown,hamza.brown725@student-campus.edu,+962 77 977 3332,"362 University Way, Aqaba",19,M,Aqaba,Capital District,2021,Computer Science,3.81,Satisfactory,4982.45,Merit Scholarship,True
+STU-300726,Noor Al-Zubi,noor.alzubi726@student-campus.edu,+962 79 881 2830,"49 University Way, Jerash",23,M,Jerash,Capital District,2021,Data Science,3.28,Good Standing,2537.02,None,True
+STU-300727,Yasmin Jones,yasmin.jones727@student-campus.edu,+962 77 912 9412,"313 University Way, Zarqa",19,M,Zarqa,Capital District,2022,Computer Science,3.5,Academic Warning,3176.58,None,True
+STU-300728,Yasmin Haddad,yasmin.haddad728@student-campus.edu,+962 79 110 2581,"410 University Way, Salt",21,M,Salt,Capital District,2021,Computer Science,2.64,Satisfactory,1350.02,None,True
+STU-300729,Sophia Al-Khatib,sophia.alkhatib729@student-campus.edu,+962 77 192 3384,"443 University Way, Madaba",23,F,Madaba,Capital District,2022,Electrical Engineering,2.65,Probation,1801.66,None,True
+STU-300730,Michael Al-Qudah,michael.alqudah730@student-campus.edu,+962 79 683 2119,"60 University Way, Aqaba",24,M,Aqaba,Capital District,2025,Data Science,3.35,Satisfactory,1069.57,None,True
+STU-300731,James Al-Khatib,james.alkhatib731@student-campus.edu,+962 79 201 4506,"268 University Way, Amman",23,F,Amman,Capital District,2022,Civil Engineering,3.18,Good Standing,14847.35,Need-Based Aid,True
+STU-300732,Fatima Brown,fatima.brown732@student-campus.edu,+962 77 954 6813,"204 University Way, Zarqa",20,F,Zarqa,Capital District,2024,Data Science,3.4,Probation,1110.87,None,True
+STU-300733,Abdullah Smith,abdullah.smith733@student-campus.edu,+962 77 577 2807,"276 University Way, Madaba",25,M,Madaba,Capital District,2021,Business Administration,3.07,Good Standing,1988.13,None,True
+STU-300734,Yasmin Jones,yasmin.jones734@student-campus.edu,+962 77 435 9088,"69 University Way, Amman",24,F,Amman,Capital District,2025,Civil Engineering,3.28,Satisfactory,12408.82,Need-Based Aid,True
+STU-300735,Noor Masri,noor.masri735@student-campus.edu,+962 79 517 5761,"447 University Way, Aqaba",25,F,Aqaba,Capital District,2024,Civil Engineering,3.22,Probation,8703.6,Need-Based Aid,True
+STU-300736,Abdullah Miller,abdullah.miller736@student-campus.edu,+962 77 790 9055,"354 University Way, Irbid",22,M,Irbid,Capital District,2023,Accounting,3.5,Dean's List,11616.26,Need-Based Aid,True
+STU-300737,Salma Masri,salma.masri737@student-campus.edu,+962 78 510 2666,"389 University Way, Irbid",26,M,Irbid,Capital District,2021,Software Engineering,3.51,Probation,9463.68,Need-Based Aid,True
+STU-300738,Yousef Al-Qudah,yousef.alqudah738@student-campus.edu,+962 77 338 7958,"381 University Way, Jerash",21,F,Jerash,Capital District,2022,Nursing,2.42,Good Standing,13232.63,Need-Based Aid,True
+STU-300739,Rania Jones,rania.jones739@student-campus.edu,+962 78 587 7626,"258 University Way, Jerash",26,F,Jerash,Capital District,2023,Psychology,2.14,Probation,9577.01,Need-Based Aid,True
+STU-300740,Zaid Jones,zaid.jones740@student-campus.edu,+962 78 609 4781,"331 University Way, Salt",20,M,Salt,Capital District,2021,Software Engineering,3.6,Academic Warning,7831.88,Need-Based Aid,True
+STU-300741,Ahmad Haddad,ahmad.haddad741@student-campus.edu,+962 77 491 6356,"88 University Way, Amman",20,F,Amman,Capital District,2024,Software Engineering,3.68,Dean's List,10691.25,Need-Based Aid,True
+STU-300742,Sophia Johnson,sophia.johnson742@student-campus.edu,+962 78 306 5809,"348 University Way, Mafraq",23,F,Mafraq,Capital District,2025,Software Engineering,2.69,Dean's List,6710.89,Need-Based Aid,True
+STU-300743,Yasmin Smith,yasmin.smith743@student-campus.edu,+962 77 540 2951,"206 University Way, Amman",23,F,Amman,Capital District,2023,Finance,2.31,Satisfactory,5190.96,Need-Based Aid,True
+STU-300744,Huda Miller,huda.miller744@student-campus.edu,+962 77 281 5965,"371 University Way, Amman",25,M,Amman,Capital District,2024,Accounting,3.19,Academic Warning,7014.79,Need-Based Aid,True
+STU-300745,Yasmin Tarawneh,yasmin.tarawneh745@student-campus.edu,+962 77 682 9037,"347 University Way, Mafraq",20,F,Mafraq,Capital District,2024,Civil Engineering,3.57,Good Standing,2545.71,None,True
+STU-300746,Yasmin Smith,yasmin.smith746@student-campus.edu,+962 78 606 7189,"325 University Way, Jerash",26,F,Jerash,Capital District,2021,Finance,3.96,Good Standing,11948.58,Merit Scholarship,True
+STU-300747,Noor Al-Qudah,noor.alqudah747@student-campus.edu,+962 77 957 7003,"188 University Way, Amman",21,M,Amman,Capital District,2025,Computer Science,3.38,Dean's List,3910.56,None,True
+STU-300748,Daniel Al-Qudah,daniel.alqudah748@student-campus.edu,+962 78 521 6755,"38 University Way, Madaba",23,M,Madaba,Capital District,2024,Software Engineering,2.98,Academic Warning,2302.97,None,True
+STU-300749,Khaled Al-Khatib,khaled.alkhatib749@student-campus.edu,+962 78 217 6531,"96 University Way, Zarqa",27,M,Zarqa,Capital District,2021,Psychology,2.75,Satisfactory,3695.28,None,True
+STU-300750,Emily Al-Qudah,emily.alqudah750@student-campus.edu,+962 78 120 8695,"311 University Way, Jerash",23,M,Jerash,Capital District,2024,Accounting,3.16,Dean's List,12631.05,Need-Based Aid,True
+STU-300751,Huda Tarawneh,huda.tarawneh751@student-campus.edu,+962 78 202 4373,"182 University Way, Zarqa",24,F,Zarqa,Capital District,2023,Business Administration,3.02,Probation,4953.02,None,True
+STU-300752,James Jones,james.jones752@student-campus.edu,+962 78 546 4305,"264 University Way, Salt",27,M,Salt,Capital District,2025,Data Science,2.69,Satisfactory,10290.75,Need-Based Aid,True
+STU-300753,Emily Al-Khatib,emily.alkhatib753@student-campus.edu,+962 79 511 4700,"329 University Way, Salt",27,M,Salt,Capital District,2021,Civil Engineering,4.0,Satisfactory,12846.14,Merit Scholarship,True
+STU-300754,David Miller,david.miller754@student-campus.edu,+962 78 168 9700,"253 University Way, Madaba",22,F,Madaba,Capital District,2025,Software Engineering,3.95,Probation,1166.17,Merit Scholarship,True
+STU-300755,Abdullah Al-Qudah,abdullah.alqudah755@student-campus.edu,+962 78 779 9846,"170 University Way, Salt",22,M,Salt,Capital District,2025,Civil Engineering,3.66,Dean's List,11475.37,Need-Based Aid,True
+STU-300756,Layla Tarawneh,layla.tarawneh756@student-campus.edu,+962 79 881 9971,"102 University Way, Mafraq",19,M,Mafraq,Capital District,2025,Psychology,2.74,Satisfactory,4614.98,None,True
+STU-300757,Daniel Brown,daniel.brown757@student-campus.edu,+962 77 776 8656,"147 University Way, Mafraq",23,F,Mafraq,Capital District,2025,Data Science,3.53,Probation,3249.34,None,True
+STU-300758,Michael Brown,michael.brown758@student-campus.edu,+962 78 251 4938,"87 University Way, Madaba",27,F,Madaba,Capital District,2022,Finance,3.44,Dean's List,10333.52,Need-Based Aid,True
+STU-300759,Layla Tarawneh,layla.tarawneh759@student-campus.edu,+962 78 943 5702,"340 University Way, Jerash",22,M,Jerash,Capital District,2022,Software Engineering,3.35,Satisfactory,13646.95,Need-Based Aid,True
+STU-300760,Rania Williams,rania.williams760@student-campus.edu,+962 77 253 4144,"24 University Way, Aqaba",21,M,Aqaba,Capital District,2024,Electrical Engineering,3.71,Probation,4425.29,None,True
+STU-300761,Noor Masri,noor.masri761@student-campus.edu,+962 79 137 4309,"91 University Way, Jerash",19,F,Jerash,Capital District,2024,Finance,3.44,Academic Warning,8532.51,Need-Based Aid,True
+STU-300762,Zaid Al-Majali,zaid.almajali762@student-campus.edu,+962 79 972 1691,"379 University Way, Irbid",21,F,Irbid,Capital District,2025,Civil Engineering,3.48,Satisfactory,4347.51,None,True
+STU-300763,Ahmad Al-Majali,ahmad.almajali763@student-campus.edu,+962 77 516 6954,"353 University Way, Salt",20,M,Salt,Capital District,2025,Nursing,3.44,Dean's List,8314.28,Need-Based Aid,True
+STU-300764,Salma Miller,salma.miller764@student-campus.edu,+962 79 780 9605,"138 University Way, Zarqa",27,F,Zarqa,Capital District,2021,Electrical Engineering,3.3,Good Standing,9327.93,Need-Based Aid,True
+STU-300765,Yousef Al-Khatib,yousef.alkhatib765@student-campus.edu,+962 79 854 7388,"422 University Way, Madaba",23,M,Madaba,Capital District,2023,Software Engineering,2.35,Probation,9155.03,Need-Based Aid,True
+STU-300766,Layla Al-Khatib,layla.alkhatib766@student-campus.edu,+962 78 550 7690,"140 University Way, Aqaba",19,M,Aqaba,Capital District,2022,Software Engineering,3.19,Good Standing,9353.2,Need-Based Aid,True
+STU-300767,Yasmin Smith,yasmin.smith767@student-campus.edu,+962 78 799 5036,"152 University Way, Jerash",18,M,Jerash,Capital District,2023,Software Engineering,2.9,Satisfactory,2026.2,None,True
+STU-300768,Fatima Masri,fatima.masri768@student-campus.edu,+962 79 778 1895,"363 University Way, Amman",26,M,Amman,Capital District,2021,Civil Engineering,2.57,Satisfactory,10403.11,Need-Based Aid,True
+STU-300769,Rania Smith,rania.smith769@student-campus.edu,+962 79 987 4872,"449 University Way, Zarqa",27,F,Zarqa,Capital District,2023,Civil Engineering,3.91,Academic Warning,10121.26,Merit Scholarship,True
+STU-300770,Salma Al-Majali,salma.almajali770@student-campus.edu,+962 77 404 4446,"450 University Way, Zarqa",25,M,Zarqa,Capital District,2023,Civil Engineering,3.93,Academic Warning,10238.82,Merit Scholarship,True
+STU-300771,Dina Williams,dina.williams771@student-campus.edu,+962 77 942 9055,"251 University Way, Salt",19,F,Salt,Capital District,2021,Business Administration,3.76,Satisfactory,1111.06,Merit Scholarship,True
+STU-300772,Huda Brown,huda.brown772@student-campus.edu,+962 79 167 6764,"225 University Way, Salt",18,F,Salt,Capital District,2022,Software Engineering,3.26,Academic Warning,6702.58,Need-Based Aid,True
+STU-300773,Dina Brown,dina.brown773@student-campus.edu,+962 79 239 1050,"215 University Way, Mafraq",19,M,Mafraq,Capital District,2022,Computer Science,3.76,Dean's List,6135.53,Merit Scholarship,True
+STU-300774,Daniel Obeidat,daniel.obeidat774@student-campus.edu,+962 77 355 9460,"375 University Way, Zarqa",25,M,Zarqa,Capital District,2021,Psychology,3.16,Satisfactory,1300.67,None,True
+STU-300775,Sophia Williams,sophia.williams775@student-campus.edu,+962 79 236 5270,"98 University Way, Mafraq",25,F,Mafraq,Capital District,2024,Nursing,3.24,Academic Warning,3335.52,None,True
+STU-300776,Noor Al-Khatib,noor.alkhatib776@student-campus.edu,+962 78 997 7182,"437 University Way, Irbid",26,M,Irbid,Capital District,2023,Business Administration,2.66,Dean's List,6614.44,Need-Based Aid,True
+STU-300777,Ahmad Al-Majali,ahmad.almajali777@student-campus.edu,+962 78 303 5289,"369 University Way, Zarqa",18,M,Zarqa,Capital District,2022,Psychology,3.33,Probation,11143.59,Need-Based Aid,True
+STU-300778,Omar Tarawneh,omar.tarawneh778@student-campus.edu,+962 77 191 7028,"97 University Way, Salt",19,M,Salt,Capital District,2025,Business Administration,3.18,Probation,3555.93,None,True
+STU-300779,Ahmad Brown,ahmad.brown779@student-campus.edu,+962 77 329 4328,"107 University Way, Mafraq",27,F,Mafraq,Capital District,2024,Business Administration,2.56,Probation,12446.25,Need-Based Aid,True
+STU-300780,Noor Brown,noor.brown780@student-campus.edu,+962 77 714 4531,"431 University Way, Jerash",27,F,Jerash,Capital District,2022,Business Administration,3.13,Academic Warning,8186.97,Need-Based Aid,True
+STU-300781,Olivia Williams,olivia.williams781@student-campus.edu,+962 77 129 5754,"144 University Way, Jerash",25,M,Jerash,Capital District,2022,Business Administration,3.11,Good Standing,11406.33,Need-Based Aid,True
+STU-300782,Sophia Masri,sophia.masri782@student-campus.edu,+962 77 110 8682,"78 University Way, Mafraq",19,F,Mafraq,Capital District,2025,Nursing,3.96,Good Standing,7088.34,Merit Scholarship,True
+STU-300783,David Tarawneh,david.tarawneh783@student-campus.edu,+962 77 197 1962,"36 University Way, Salt",18,F,Salt,Capital District,2024,Business Administration,3.55,Good Standing,7487.91,Need-Based Aid,True
+STU-300784,Khaled Masri,khaled.masri784@student-campus.edu,+962 77 359 9266,"327 University Way, Amman",18,F,Amman,Capital District,2025,Psychology,3.16,Satisfactory,9295.79,Need-Based Aid,True
+STU-300785,Noor Tarawneh,noor.tarawneh785@student-campus.edu,+962 79 283 5264,"96 University Way, Amman",24,F,Amman,Capital District,2025,Data Science,3.26,Satisfactory,13919.56,Need-Based Aid,True
+STU-300786,Huda Masri,huda.masri786@student-campus.edu,+962 77 366 2914,"170 University Way, Jerash",26,M,Jerash,Capital District,2023,Software Engineering,3.17,Good Standing,7377.19,Need-Based Aid,True
+STU-300787,Zaid Masri,zaid.masri787@student-campus.edu,+962 78 727 5321,"274 University Way, Salt",24,F,Salt,Capital District,2024,Nursing,3.06,Satisfactory,7929.86,Need-Based Aid,True
+STU-300788,Layla Al-Zubi,layla.alzubi788@student-campus.edu,+962 77 293 3435,"37 University Way, Mafraq",20,M,Mafraq,Capital District,2022,Accounting,2.66,Satisfactory,9029.95,Need-Based Aid,True
+STU-300789,Hamza Al-Majali,hamza.almajali789@student-campus.edu,+962 78 218 9108,"30 University Way, Mafraq",25,F,Mafraq,Capital District,2022,Civil Engineering,3.08,Academic Warning,11062.73,Need-Based Aid,True
+STU-300790,Fatima Brown,fatima.brown790@student-campus.edu,+962 77 966 3425,"73 University Way, Mafraq",18,F,Mafraq,Capital District,2024,Accounting,2.81,Probation,1077.76,None,True
+STU-300791,Yousef Al-Khatib,yousef.alkhatib791@student-campus.edu,+962 79 779 4479,"308 University Way, Salt",26,M,Salt,Capital District,2022,Data Science,2.59,Satisfactory,7735.31,Need-Based Aid,True
+STU-300792,James Jones,james.jones792@student-campus.edu,+962 77 886 9161,"356 University Way, Zarqa",26,M,Zarqa,Capital District,2024,Data Science,3.38,Probation,7223.87,Need-Based Aid,True
+STU-300793,Huda Al-Majali,huda.almajali793@student-campus.edu,+962 79 208 6300,"88 University Way, Madaba",25,M,Madaba,Capital District,2024,Software Engineering,3.33,Satisfactory,13825.27,Need-Based Aid,True
+STU-300794,Yousef Masri,yousef.masri794@student-campus.edu,+962 78 144 8423,"176 University Way, Amman",26,M,Amman,Capital District,2023,Accounting,2.35,Academic Warning,7402.6,Need-Based Aid,True
+STU-300795,Abdullah Miller,abdullah.miller795@student-campus.edu,+962 79 172 9964,"318 University Way, Amman",23,F,Amman,Capital District,2023,Civil Engineering,3.09,Dean's List,7024.81,Need-Based Aid,True
+STU-300796,Yousef Tarawneh,yousef.tarawneh796@student-campus.edu,+962 77 121 4411,"93 University Way, Jerash",22,F,Jerash,Capital District,2022,Data Science,3.6,Satisfactory,14433.0,Need-Based Aid,True
+STU-300797,Salma Obeidat,salma.obeidat797@student-campus.edu,+962 78 853 6080,"360 University Way, Mafraq",21,M,Mafraq,Capital District,2023,Software Engineering,3.63,Good Standing,6758.65,Need-Based Aid,True
+STU-300798,Fatima Williams,fatima.williams798@student-campus.edu,+962 78 556 7358,"253 University Way, Aqaba",27,F,Aqaba,Capital District,2025,Nursing,3.61,Dean's List,2713.27,None,True
+STU-300799,Michael Johnson,michael.johnson799@student-campus.edu,+962 79 290 8112,"332 University Way, Madaba",24,F,Madaba,Capital District,2024,Software Engineering,3.17,Academic Warning,3253.74,None,True
+STU-300800,Yousef Al-Majali,yousef.almajali800@student-campus.edu,+962 79 802 3540,"263 University Way, Aqaba",19,M,Aqaba,Capital District,2024,Nursing,2.77,Probation,1427.81,None,True
+STU-300801,Noor Masri,noor.masri801@student-campus.edu,+962 77 230 5921,"440 University Way, Salt",27,M,Salt,Capital District,2024,Software Engineering,2.66,Academic Warning,8.52,None,True
+STU-300802,James Tarawneh,james.tarawneh802@student-campus.edu,+962 77 625 2763,"271 University Way, Zarqa",18,F,Zarqa,Capital District,2021,Psychology,3.31,Satisfactory,6479.18,Need-Based Aid,True
+STU-300803,Layla Haddad,layla.haddad803@student-campus.edu,+962 78 699 2339,"403 University Way, Madaba",23,M,Madaba,Capital District,2023,Psychology,3.32,Academic Warning,11538.64,Need-Based Aid,True
+STU-300804,Tareq Brown,tareq.brown804@student-campus.edu,+962 77 185 7819,"370 University Way, Jerash",19,F,Jerash,Capital District,2022,Data Science,3.73,Academic Warning,11002.0,Need-Based Aid,True
+STU-300805,Huda Johnson,huda.johnson805@student-campus.edu,+962 78 992 4066,"118 University Way, Salt",24,M,Salt,Capital District,2025,Accounting,3.64,Academic Warning,482.24,None,True
+STU-300806,Yousef Brown,yousef.brown806@student-campus.edu,+962 79 118 1095,"212 University Way, Jerash",22,M,Jerash,Capital District,2021,Civil Engineering,3.09,Probation,8549.74,Need-Based Aid,True
+STU-300807,Ahmad Al-Zubi,ahmad.alzubi807@student-campus.edu,+962 78 733 6910,"363 University Way, Mafraq",22,F,Mafraq,Capital District,2024,Accounting,2.59,Academic Warning,2314.25,None,True
+STU-300808,Noor Haddad,noor.haddad808@student-campus.edu,+962 77 935 1260,"366 University Way, Aqaba",24,M,Aqaba,Capital District,2021,Data Science,3.01,Good Standing,14116.14,Need-Based Aid,True
+STU-300809,Ahmad Al-Khatib,ahmad.alkhatib809@student-campus.edu,+962 79 978 9824,"107 University Way, Jerash",25,M,Jerash,Capital District,2022,Data Science,3.25,Academic Warning,2510.47,None,True
+STU-300810,Noor Jones,noor.jones810@student-campus.edu,+962 77 219 3721,"88 University Way, Jerash",21,F,Jerash,Capital District,2024,Data Science,3.06,Academic Warning,9399.59,Need-Based Aid,True
+STU-300811,Yasmin Masri,yasmin.masri811@student-campus.edu,+962 77 401 7418,"36 University Way, Aqaba",27,F,Aqaba,Capital District,2025,Accounting,2.89,Dean's List,4893.58,None,True
+STU-300812,Ahmad Haddad,ahmad.haddad812@student-campus.edu,+962 77 599 7548,"258 University Way, Salt",22,F,Salt,Capital District,2024,Business Administration,3.26,Academic Warning,9623.42,Need-Based Aid,True
+STU-300813,Khaled Brown,khaled.brown813@student-campus.edu,+962 79 423 2040,"147 University Way, Jerash",19,F,Jerash,Capital District,2021,Finance,2.92,Dean's List,6183.88,Need-Based Aid,True
+STU-300814,Yasmin Haddad,yasmin.haddad814@student-campus.edu,+962 79 546 1340,"92 University Way, Mafraq",18,F,Mafraq,Capital District,2023,Psychology,2.87,Academic Warning,11394.65,Need-Based Aid,True
+STU-300815,Olivia Al-Khatib,olivia.alkhatib815@student-campus.edu,+962 79 324 6556,"318 University Way, Aqaba",20,F,Aqaba,Capital District,2024,Nursing,3.29,Academic Warning,3460.19,None,True
+STU-300816,Zaid Obeidat,zaid.obeidat816@student-campus.edu,+962 77 736 4394,"154 University Way, Mafraq",24,M,Mafraq,Capital District,2023,Business Administration,2.97,Academic Warning,13586.88,Need-Based Aid,True
+STU-300817,Emma Masri,emma.masri817@student-campus.edu,+962 79 603 2653,"416 University Way, Irbid",23,F,Irbid,Capital District,2022,Data Science,3.26,Good Standing,7503.14,Need-Based Aid,True
+STU-300818,Yasmin Obeidat,yasmin.obeidat818@student-campus.edu,+962 77 467 5273,"192 University Way, Amman",21,M,Amman,Capital District,2025,Electrical Engineering,3.27,Good Standing,11341.4,Need-Based Aid,True
+STU-300819,Hamza Miller,hamza.miller819@student-campus.edu,+962 78 216 4714,"71 University Way, Madaba",22,M,Madaba,Capital District,2021,Computer Science,2.64,Probation,12745.95,Need-Based Aid,True
+STU-300820,Yasmin Obeidat,yasmin.obeidat820@student-campus.edu,+962 77 973 9444,"319 University Way, Salt",26,M,Salt,Capital District,2021,Nursing,2.93,Satisfactory,14982.43,Need-Based Aid,True
+STU-300821,David Al-Majali,david.almajali821@student-campus.edu,+962 79 724 2669,"431 University Way, Zarqa",23,M,Zarqa,Capital District,2021,Accounting,3.8,Academic Warning,3359.18,Merit Scholarship,True
+STU-300822,James Haddad,james.haddad822@student-campus.edu,+962 77 845 5786,"372 University Way, Madaba",18,F,Madaba,Capital District,2022,Software Engineering,2.63,Good Standing,4303.39,None,True
+STU-300823,James Masri,james.masri823@student-campus.edu,+962 77 225 4307,"234 University Way, Madaba",18,F,Madaba,Capital District,2023,Data Science,2.2,Dean's List,3756.5,None,True
+STU-300824,Ahmad Al-Khatib,ahmad.alkhatib824@student-campus.edu,+962 77 372 7101,"376 University Way, Irbid",22,F,Irbid,Capital District,2023,Nursing,2.31,Academic Warning,3943.07,None,True
+STU-300825,Fatima Williams,fatima.williams825@student-campus.edu,+962 77 241 8025,"221 University Way, Jerash",22,F,Jerash,Capital District,2025,Data Science,3.16,Good Standing,8736.67,Need-Based Aid,True
+STU-300826,Dina Miller,dina.miller826@student-campus.edu,+962 77 888 1162,"377 University Way, Mafraq",26,M,Mafraq,Capital District,2021,Nursing,3.16,Probation,14902.84,Need-Based Aid,True
+STU-300827,Yousef Al-Qudah,yousef.alqudah827@student-campus.edu,+962 77 502 1607,"348 University Way, Jerash",23,M,Jerash,Capital District,2022,Business Administration,3.1,Satisfactory,14854.17,Need-Based Aid,True
+STU-300828,Michael Al-Majali,michael.almajali828@student-campus.edu,+962 79 817 5986,"379 University Way, Jerash",25,F,Jerash,Capital District,2024,Civil Engineering,3.7,Probation,7901.6,Need-Based Aid,True
+STU-300829,Fatima Al-Majali,fatima.almajali829@student-campus.edu,+962 79 513 8310,"339 University Way, Irbid",23,M,Irbid,Capital District,2025,Civil Engineering,1.95,Probation,9585.41,Need-Based Aid,True
+STU-300830,Emily Johnson,emily.johnson830@student-campus.edu,+962 77 408 2380,"28 University Way, Jerash",21,F,Jerash,Capital District,2023,Accounting,3.33,Probation,12899.56,Need-Based Aid,True
+STU-300831,Salma Brown,salma.brown831@student-campus.edu,+962 77 195 9383,"292 University Way, Salt",24,F,Salt,Capital District,2025,Finance,3.85,Good Standing,13994.0,Merit Scholarship,True
+STU-300832,James Al-Qudah,james.alqudah832@student-campus.edu,+962 77 952 5979,"381 University Way, Salt",24,F,Salt,Capital District,2021,Computer Science,2.64,Good Standing,3057.91,None,True
+STU-300833,James Haddad,james.haddad833@student-campus.edu,+962 77 148 3043,"239 University Way, Madaba",25,F,Madaba,Capital District,2023,Nursing,2.98,Dean's List,7928.13,Need-Based Aid,True
+STU-300834,Michael Brown,michael.brown834@student-campus.edu,+962 79 695 9737,"442 University Way, Aqaba",19,M,Aqaba,Capital District,2023,Accounting,2.81,Dean's List,12492.56,Need-Based Aid,True
+STU-300835,Fatima Obeidat,fatima.obeidat835@student-campus.edu,+962 79 855 5057,"63 University Way, Jerash",24,F,Jerash,Capital District,2022,Psychology,2.75,Satisfactory,4548.03,None,True
+STU-300836,James Johnson,james.johnson836@student-campus.edu,+962 77 828 7974,"434 University Way, Zarqa",20,F,Zarqa,Capital District,2024,Nursing,3.0,Good Standing,6597.14,Need-Based Aid,True
+STU-300837,Yousef Haddad,yousef.haddad837@student-campus.edu,+962 77 556 2279,"199 University Way, Mafraq",25,F,Mafraq,Capital District,2022,Business Administration,3.79,Dean's List,14784.32,Merit Scholarship,True
+STU-300838,Michael Smith,michael.smith838@student-campus.edu,+962 79 533 8210,"362 University Way, Mafraq",25,F,Mafraq,Capital District,2023,Business Administration,3.98,Probation,14775.7,Merit Scholarship,True
+STU-300839,Olivia Tarawneh,olivia.tarawneh839@student-campus.edu,+962 78 828 8499,"76 University Way, Irbid",24,M,Irbid,Capital District,2025,Data Science,3.0,Good Standing,13591.6,Need-Based Aid,True
+STU-300840,David Al-Khatib,david.alkhatib840@student-campus.edu,+962 79 478 2945,"318 University Way, Irbid",27,F,Irbid,Capital District,2021,Accounting,4.0,Academic Warning,11976.73,Merit Scholarship,True
+STU-300841,Tareq Haddad,tareq.haddad841@student-campus.edu,+962 79 256 2929,"200 University Way, Amman",23,F,Amman,Capital District,2023,Psychology,3.17,Satisfactory,4036.96,None,True
+STU-300842,Fatima Obeidat,fatima.obeidat842@student-campus.edu,+962 77 902 7910,"34 University Way, Irbid",18,F,Irbid,Capital District,2021,Accounting,3.94,Satisfactory,4812.75,Merit Scholarship,True
+STU-300843,Noor Al-Khatib,noor.alkhatib843@student-campus.edu,+962 79 457 2106,"32 University Way, Zarqa",24,F,Zarqa,Capital District,2021,Accounting,3.11,Good Standing,8209.24,Need-Based Aid,True
+STU-300844,Yasmin Johnson,yasmin.johnson844@student-campus.edu,+962 78 586 3175,"400 University Way, Madaba",25,M,Madaba,Capital District,2024,Psychology,3.21,Satisfactory,8411.66,Need-Based Aid,True
+STU-300845,James Williams,james.williams845@student-campus.edu,+962 79 433 2463,"419 University Way, Irbid",19,F,Irbid,Capital District,2024,Accounting,3.31,Academic Warning,7582.54,Need-Based Aid,True
+STU-300846,Salma Al-Khatib,salma.alkhatib846@student-campus.edu,+962 79 553 5544,"340 University Way, Amman",19,M,Amman,Capital District,2025,Nursing,4.0,Academic Warning,9550.05,Merit Scholarship,True
+STU-300847,Hamza Brown,hamza.brown847@student-campus.edu,+962 79 672 2395,"108 University Way, Zarqa",20,M,Zarqa,Capital District,2023,Psychology,3.53,Dean's List,6124.85,Need-Based Aid,True
+STU-300848,Michael Smith,michael.smith848@student-campus.edu,+962 77 774 9713,"102 University Way, Amman",26,M,Amman,Capital District,2025,Accounting,2.83,Good Standing,11237.61,Need-Based Aid,True
+STU-300849,Rania Jones,rania.jones849@student-campus.edu,+962 77 926 9741,"320 University Way, Mafraq",23,F,Mafraq,Capital District,2025,Electrical Engineering,3.59,Good Standing,5003.25,Need-Based Aid,True
+STU-300850,Salma Johnson,salma.johnson850@student-campus.edu,+962 78 284 7798,"22 University Way, Madaba",27,F,Madaba,Capital District,2021,Accounting,2.99,Dean's List,4960.15,None,True
+STU-300851,Salma Obeidat,salma.obeidat851@student-campus.edu,+962 78 247 3992,"140 University Way, Irbid",26,M,Irbid,Capital District,2021,Software Engineering,2.93,Dean's List,1908.39,None,True
+STU-300852,Zaid Obeidat,zaid.obeidat852@student-campus.edu,+962 77 127 1958,"162 University Way, Madaba",23,F,Madaba,Capital District,2021,Data Science,3.56,Academic Warning,2830.68,None,True
+STU-300853,Tareq Al-Qudah,tareq.alqudah853@student-campus.edu,+962 78 947 2981,"36 University Way, Salt",24,M,Salt,Capital District,2023,Business Administration,3.16,Good Standing,12757.81,Need-Based Aid,True
+STU-300854,Khaled Jones,khaled.jones854@student-campus.edu,+962 79 870 9264,"207 University Way, Mafraq",21,M,Mafraq,Capital District,2022,Psychology,3.28,Probation,6694.24,Need-Based Aid,True
+STU-300855,Rania Al-Majali,rania.almajali855@student-campus.edu,+962 77 595 1473,"218 University Way, Jerash",18,M,Jerash,Capital District,2025,Accounting,3.16,Satisfactory,3418.02,None,True
+STU-300856,Ahmad Obeidat,ahmad.obeidat856@student-campus.edu,+962 79 767 3057,"165 University Way, Aqaba",21,F,Aqaba,Capital District,2021,Psychology,3.3,Probation,11390.12,Need-Based Aid,True
+STU-300857,Dina Haddad,dina.haddad857@student-campus.edu,+962 79 272 5016,"285 University Way, Madaba",23,F,Madaba,Capital District,2022,Electrical Engineering,3.34,Probation,8309.72,Need-Based Aid,True
+STU-300858,Emily Masri,emily.masri858@student-campus.edu,+962 79 271 1008,"40 University Way, Salt",19,F,Salt,Capital District,2024,Computer Science,2.28,Dean's List,317.34,None,True
+STU-300859,Rania Johnson,rania.johnson859@student-campus.edu,+962 79 960 9361,"154 University Way, Aqaba",20,M,Aqaba,Capital District,2023,Business Administration,3.45,Satisfactory,4745.42,None,True
+STU-300860,Hamza Brown,hamza.brown860@student-campus.edu,+962 77 504 3014,"435 University Way, Salt",18,M,Salt,Capital District,2021,Psychology,2.71,Probation,2655.02,None,True
+STU-300861,Olivia Smith,olivia.smith861@student-campus.edu,+962 79 450 5282,"395 University Way, Madaba",25,F,Madaba,Capital District,2022,Business Administration,2.5,Satisfactory,9838.09,Need-Based Aid,True
+STU-300862,Rania Al-Khatib,rania.alkhatib862@student-campus.edu,+962 79 436 1260,"364 University Way, Mafraq",26,M,Mafraq,Capital District,2022,Nursing,3.12,Satisfactory,4125.47,None,True
+STU-300863,Daniel Al-Majali,daniel.almajali863@student-campus.edu,+962 79 277 7769,"294 University Way, Amman",26,F,Amman,Capital District,2021,Accounting,3.19,Probation,974.2,None,True
+STU-300864,Salma Smith,salma.smith864@student-campus.edu,+962 79 555 3022,"190 University Way, Amman",21,F,Amman,Capital District,2025,Software Engineering,2.84,Dean's List,824.02,None,True
+STU-300865,Sophia Al-Qudah,sophia.alqudah865@student-campus.edu,+962 78 479 4161,"237 University Way, Zarqa",23,M,Zarqa,Capital District,2021,Data Science,3.52,Academic Warning,8725.91,Need-Based Aid,True
+STU-300866,Khaled Brown,khaled.brown866@student-campus.edu,+962 77 935 5967,"423 University Way, Aqaba",27,M,Aqaba,Capital District,2023,Civil Engineering,2.55,Dean's List,325.85,None,True
+STU-300867,Khaled Masri,khaled.masri867@student-campus.edu,+962 79 823 4425,"13 University Way, Mafraq",23,M,Mafraq,Capital District,2023,Computer Science,2.97,Satisfactory,12731.88,Need-Based Aid,True
+STU-300868,Daniel Tarawneh,daniel.tarawneh868@student-campus.edu,+962 77 665 4174,"347 University Way, Mafraq",20,M,Mafraq,Capital District,2025,Civil Engineering,2.89,Dean's List,2330.96,None,True
+STU-300869,Yousef Johnson,yousef.johnson869@student-campus.edu,+962 79 976 4734,"277 University Way, Salt",21,F,Salt,Capital District,2022,Software Engineering,3.13,Good Standing,9098.5,Need-Based Aid,True
+STU-300870,Abdullah Miller,abdullah.miller870@student-campus.edu,+962 79 673 8437,"11 University Way, Salt",25,F,Salt,Capital District,2025,Finance,3.28,Dean's List,6670.32,Need-Based Aid,True
+STU-300871,Daniel Williams,daniel.williams871@student-campus.edu,+962 78 224 9491,"248 University Way, Jerash",22,F,Jerash,Capital District,2024,Nursing,2.7,Dean's List,6642.77,Need-Based Aid,True
+STU-300872,Fatima Smith,fatima.smith872@student-campus.edu,+962 78 645 8354,"171 University Way, Salt",26,M,Salt,Capital District,2021,Electrical Engineering,3.48,Dean's List,1076.96,None,True
+STU-300873,Salma Al-Khatib,salma.alkhatib873@student-campus.edu,+962 79 331 7943,"48 University Way, Amman",26,M,Amman,Capital District,2025,Software Engineering,3.18,Satisfactory,12041.28,Need-Based Aid,True
+STU-300874,Abdullah Al-Zubi,abdullah.alzubi874@student-campus.edu,+962 77 591 8077,"423 University Way, Zarqa",18,M,Zarqa,Capital District,2021,Civil Engineering,2.3,Satisfactory,13395.79,Need-Based Aid,True
+STU-300875,Michael Jones,michael.jones875@student-campus.edu,+962 78 344 6583,"436 University Way, Zarqa",25,M,Zarqa,Capital District,2022,Civil Engineering,2.27,Satisfactory,165.25,None,True
+STU-300876,Huda Smith,huda.smith876@student-campus.edu,+962 77 740 8314,"306 University Way, Mafraq",21,M,Mafraq,Capital District,2025,Software Engineering,3.14,Good Standing,2679.06,None,True
+STU-300877,Yousef Al-Majali,yousef.almajali877@student-campus.edu,+962 77 163 8240,"38 University Way, Zarqa",23,F,Zarqa,Capital District,2023,Business Administration,3.05,Dean's List,13558.56,Need-Based Aid,True
+STU-300878,Sophia Williams,sophia.williams878@student-campus.edu,+962 79 153 5831,"445 University Way, Amman",20,F,Amman,Capital District,2021,Software Engineering,3.1,Academic Warning,8242.4,Need-Based Aid,True
+STU-300879,Salma Haddad,salma.haddad879@student-campus.edu,+962 78 493 8605,"417 University Way, Amman",21,F,Amman,Capital District,2022,Business Administration,3.14,Probation,2250.59,None,True
+STU-300880,Sophia Johnson,sophia.johnson880@student-campus.edu,+962 79 436 4153,"65 University Way, Mafraq",21,M,Mafraq,Capital District,2021,Nursing,3.25,Dean's List,3041.86,None,True
+STU-300881,Ahmad Johnson,ahmad.johnson881@student-campus.edu,+962 79 621 5198,"191 University Way, Irbid",18,F,Irbid,Capital District,2022,Psychology,3.58,Dean's List,9899.79,Need-Based Aid,True
+STU-300882,Yasmin Brown,yasmin.brown882@student-campus.edu,+962 77 916 1722,"40 University Way, Aqaba",25,M,Aqaba,Capital District,2022,Accounting,2.65,Probation,10872.25,Need-Based Aid,True
+STU-300883,Noor Johnson,noor.johnson883@student-campus.edu,+962 79 654 3385,"85 University Way, Salt",19,F,Salt,Capital District,2023,Finance,2.62,Academic Warning,8991.4,Need-Based Aid,True
+STU-300884,Noor Johnson,noor.johnson884@student-campus.edu,+962 79 700 3369,"39 University Way, Amman",21,M,Amman,Capital District,2023,Civil Engineering,2.66,Satisfactory,14297.23,Need-Based Aid,True
+STU-300885,James Miller,james.miller885@student-campus.edu,+962 77 305 4297,"412 University Way, Madaba",19,M,Madaba,Capital District,2024,Computer Science,3.28,Probation,7410.95,Need-Based Aid,True
+STU-300886,Huda Al-Khatib,huda.alkhatib886@student-campus.edu,+962 79 679 6499,"325 University Way, Madaba",19,F,Madaba,Capital District,2025,Accounting,3.71,Academic Warning,4504.08,None,True
+STU-300887,Layla Al-Qudah,layla.alqudah887@student-campus.edu,+962 78 324 1060,"337 University Way, Amman",21,M,Amman,Capital District,2024,Software Engineering,2.96,Good Standing,7158.49,Need-Based Aid,True
+STU-300888,David Al-Khatib,david.alkhatib888@student-campus.edu,+962 78 852 6431,"423 University Way, Aqaba",27,F,Aqaba,Capital District,2022,Psychology,2.02,Academic Warning,5394.99,Need-Based Aid,True
+STU-300889,Abdullah Tarawneh,abdullah.tarawneh889@student-campus.edu,+962 77 466 1491,"294 University Way, Amman",27,M,Amman,Capital District,2023,Computer Science,2.38,Good Standing,3366.24,None,True
+STU-300890,Zaid Obeidat,zaid.obeidat890@student-campus.edu,+962 77 130 4262,"111 University Way, Madaba",21,F,Madaba,Capital District,2025,Electrical Engineering,2.78,Academic Warning,689.45,None,True
+STU-300891,Hamza Al-Khatib,hamza.alkhatib891@student-campus.edu,+962 77 300 1352,"100 University Way, Aqaba",23,F,Aqaba,Capital District,2023,Data Science,2.9,Satisfactory,5283.19,Need-Based Aid,True
+STU-300892,Tareq Al-Majali,tareq.almajali892@student-campus.edu,+962 77 412 8474,"132 University Way, Madaba",27,F,Madaba,Capital District,2021,Business Administration,2.97,Good Standing,10671.14,Need-Based Aid,True
+STU-300893,Fatima Williams,fatima.williams893@student-campus.edu,+962 79 166 2941,"83 University Way, Jerash",20,M,Jerash,Capital District,2025,Finance,3.17,Good Standing,276.57,None,True
+STU-300894,Abdullah Al-Khatib,abdullah.alkhatib894@student-campus.edu,+962 79 539 5006,"33 University Way, Madaba",27,M,Madaba,Capital District,2023,Business Administration,3.01,Probation,6587.68,Need-Based Aid,True
+STU-300895,Emily Obeidat,emily.obeidat895@student-campus.edu,+962 79 914 5588,"74 University Way, Amman",19,F,Amman,Capital District,2022,Nursing,3.62,Good Standing,9660.14,Need-Based Aid,True
+STU-300896,Abdullah Brown,abdullah.brown896@student-campus.edu,+962 77 620 7358,"394 University Way, Zarqa",20,F,Zarqa,Capital District,2025,Accounting,2.85,Dean's List,9156.06,Need-Based Aid,True
+STU-300897,Yasmin Smith,yasmin.smith897@student-campus.edu,+962 79 811 8918,"376 University Way, Madaba",21,F,Madaba,Capital District,2023,Data Science,2.76,Academic Warning,11649.73,Need-Based Aid,True
+STU-300898,Yasmin Obeidat,yasmin.obeidat898@student-campus.edu,+962 77 324 4325,"241 University Way, Amman",18,M,Amman,Capital District,2025,Business Administration,3.37,Probation,12157.8,Need-Based Aid,True
+STU-300899,Salma Al-Khatib,salma.alkhatib899@student-campus.edu,+962 78 360 2388,"78 University Way, Irbid",26,M,Irbid,Capital District,2024,Business Administration,2.46,Satisfactory,10675.59,Need-Based Aid,True
+STU-300900,Noor Masri,noor.masri900@student-campus.edu,+962 78 624 6511,"228 University Way, Amman",26,F,Amman,Capital District,2022,Nursing,3.33,Probation,1541.97,None,True
+STU-300901,Dina Tarawneh,dina.tarawneh901@student-campus.edu,+962 78 491 1404,"101 University Way, Madaba",21,F,Madaba,Capital District,2024,Nursing,3.2,Academic Warning,7125.34,Need-Based Aid,True
+STU-300902,Khaled Obeidat,khaled.obeidat902@student-campus.edu,+962 79 625 9956,"339 University Way, Salt",26,M,Salt,Capital District,2021,Nursing,3.08,Dean's List,9051.09,Need-Based Aid,True
+STU-300903,Rania Al-Khatib,rania.alkhatib903@student-campus.edu,+962 77 659 4281,"180 University Way, Madaba",25,M,Madaba,Capital District,2021,Software Engineering,3.86,Dean's List,3683.49,Merit Scholarship,True
+STU-300904,Emma Al-Qudah,emma.alqudah904@student-campus.edu,+962 79 718 3258,"447 University Way, Aqaba",26,F,Aqaba,Capital District,2023,Civil Engineering,2.87,Satisfactory,638.28,None,True
+STU-300905,Ahmad Jones,ahmad.jones905@student-campus.edu,+962 78 941 1194,"251 University Way, Jerash",26,M,Jerash,Capital District,2023,Civil Engineering,4.0,Satisfactory,3353.85,Merit Scholarship,True
+STU-300906,Salma Al-Khatib,salma.alkhatib906@student-campus.edu,+962 79 701 8679,"379 University Way, Aqaba",23,F,Aqaba,Capital District,2024,Electrical Engineering,3.05,Good Standing,6823.42,Need-Based Aid,True
+STU-300907,Huda Jones,huda.jones907@student-campus.edu,+962 79 527 4433,"234 University Way, Jerash",19,F,Jerash,Capital District,2022,Nursing,2.58,Dean's List,6208.95,Need-Based Aid,True
+STU-300908,Emily Al-Majali,emily.almajali908@student-campus.edu,+962 78 855 1158,"265 University Way, Irbid",27,F,Irbid,Capital District,2025,Data Science,3.18,Satisfactory,2650.0,None,True
+STU-300909,Huda Al-Khatib,huda.alkhatib909@student-campus.edu,+962 78 701 1380,"300 University Way, Salt",24,M,Salt,Capital District,2024,Business Administration,2.67,Academic Warning,12366.23,Need-Based Aid,True
+STU-300910,Zaid Al-Zubi,zaid.alzubi910@student-campus.edu,+962 78 309 7400,"42 University Way, Jerash",27,F,Jerash,Capital District,2025,Psychology,2.81,Satisfactory,13885.3,Need-Based Aid,True
+STU-300911,Abdullah Masri,abdullah.masri911@student-campus.edu,+962 79 411 2527,"97 University Way, Mafraq",27,M,Mafraq,Capital District,2025,Nursing,3.33,Dean's List,3020.22,None,True
+STU-300912,Emma Smith,emma.smith912@student-campus.edu,+962 77 291 4260,"45 University Way, Mafraq",19,F,Mafraq,Capital District,2025,Computer Science,3.4,Good Standing,13943.59,Need-Based Aid,True
+STU-300913,Noor Al-Khatib,noor.alkhatib913@student-campus.edu,+962 78 158 7039,"275 University Way, Zarqa",22,M,Zarqa,Capital District,2025,Civil Engineering,2.87,Good Standing,267.91,None,True
+STU-300914,Hamza Al-Qudah,hamza.alqudah914@student-campus.edu,+962 77 649 7855,"254 University Way, Zarqa",19,M,Zarqa,Capital District,2022,Business Administration,3.59,Academic Warning,13874.44,Need-Based Aid,True
+STU-300915,Salma Miller,salma.miller915@student-campus.edu,+962 78 937 8778,"91 University Way, Salt",18,F,Salt,Capital District,2022,Data Science,3.67,Good Standing,14278.93,Need-Based Aid,True
+STU-300916,Michael Al-Khatib,michael.alkhatib916@student-campus.edu,+962 77 246 8302,"42 University Way, Aqaba",27,F,Aqaba,Capital District,2023,Accounting,3.8,Probation,180.78,Merit Scholarship,True
+STU-300917,Sophia Jones,sophia.jones917@student-campus.edu,+962 78 573 1640,"387 University Way, Mafraq",27,M,Mafraq,Capital District,2023,Finance,3.39,Good Standing,11445.29,Need-Based Aid,True
+STU-300918,Noor Williams,noor.williams918@student-campus.edu,+962 79 943 3869,"222 University Way, Jerash",27,M,Jerash,Capital District,2023,Nursing,3.76,Academic Warning,14553.02,Merit Scholarship,True
+STU-300919,Hamza Johnson,hamza.johnson919@student-campus.edu,+962 79 682 2565,"211 University Way, Irbid",26,M,Irbid,Capital District,2024,Accounting,2.3,Academic Warning,13588.53,Need-Based Aid,True
+STU-300920,Khaled Miller,khaled.miller920@student-campus.edu,+962 79 168 4559,"262 University Way, Salt",24,F,Salt,Capital District,2025,Civil Engineering,3.01,Good Standing,14560.65,Need-Based Aid,True
+STU-300921,Emily Haddad,emily.haddad921@student-campus.edu,+962 78 561 3700,"139 University Way, Madaba",23,M,Madaba,Capital District,2021,Software Engineering,2.76,Satisfactory,8254.85,Need-Based Aid,True
+STU-300922,James Al-Majali,james.almajali922@student-campus.edu,+962 78 451 7542,"448 University Way, Mafraq",27,M,Mafraq,Capital District,2021,Computer Science,3.2,Academic Warning,1172.34,None,True
+STU-300923,Salma Al-Majali,salma.almajali923@student-campus.edu,+962 78 786 8606,"258 University Way, Irbid",23,F,Irbid,Capital District,2021,Civil Engineering,2.89,Dean's List,12746.84,Need-Based Aid,True
+STU-300924,Yousef Haddad,yousef.haddad924@student-campus.edu,+962 78 940 5573,"440 University Way, Irbid",24,M,Irbid,Capital District,2024,Electrical Engineering,3.08,Probation,9207.42,Need-Based Aid,True
+STU-300925,Hamza Miller,hamza.miller925@student-campus.edu,+962 78 227 9759,"389 University Way, Irbid",20,F,Irbid,Capital District,2021,Psychology,4.0,Dean's List,9221.05,Merit Scholarship,True
+STU-300926,Hamza Haddad,hamza.haddad926@student-campus.edu,+962 78 282 4549,"375 University Way, Mafraq",25,M,Mafraq,Capital District,2022,Civil Engineering,3.07,Dean's List,6258.8,Need-Based Aid,True
+STU-300927,Emma Smith,emma.smith927@student-campus.edu,+962 78 806 6051,"237 University Way, Zarqa",26,M,Zarqa,Capital District,2021,Accounting,3.34,Good Standing,8577.63,Need-Based Aid,True
+STU-300928,Sophia Al-Majali,sophia.almajali928@student-campus.edu,+962 78 344 4276,"56 University Way, Aqaba",24,M,Aqaba,Capital District,2022,Business Administration,3.05,Dean's List,2303.7,None,True
+STU-300929,Layla Al-Majali,layla.almajali929@student-campus.edu,+962 77 198 3750,"380 University Way, Zarqa",22,M,Zarqa,Capital District,2022,Nursing,3.18,Dean's List,11096.55,Need-Based Aid,True
+STU-300930,Omar Tarawneh,omar.tarawneh930@student-campus.edu,+962 79 741 4105,"329 University Way, Madaba",19,M,Madaba,Capital District,2023,Software Engineering,3.15,Probation,1125.26,None,True
+STU-300931,Emily Tarawneh,emily.tarawneh931@student-campus.edu,+962 77 465 6298,"98 University Way, Aqaba",18,M,Aqaba,Capital District,2022,Software Engineering,3.35,Academic Warning,10946.71,Need-Based Aid,True
+STU-300932,Salma Williams,salma.williams932@student-campus.edu,+962 78 325 2081,"346 University Way, Aqaba",24,F,Aqaba,Capital District,2024,Computer Science,3.67,Satisfactory,12734.68,Need-Based Aid,True
+STU-300933,Daniel Johnson,daniel.johnson933@student-campus.edu,+962 78 408 9185,"62 University Way, Aqaba",24,M,Aqaba,Capital District,2021,Computer Science,3.89,Satisfactory,7087.03,Merit Scholarship,True
+STU-300934,Rania Haddad,rania.haddad934@student-campus.edu,+962 78 279 6209,"445 University Way, Irbid",25,F,Irbid,Capital District,2024,Nursing,3.29,Probation,7647.46,Need-Based Aid,True
+STU-300935,Yousef Al-Qudah,yousef.alqudah935@student-campus.edu,+962 78 623 4808,"267 University Way, Mafraq",27,M,Mafraq,Capital District,2025,Psychology,3.42,Dean's List,4683.21,None,True
+STU-300936,Khaled Al-Majali,khaled.almajali936@student-campus.edu,+962 79 538 4990,"327 University Way, Aqaba",22,M,Aqaba,Capital District,2023,Software Engineering,2.63,Probation,14541.88,Need-Based Aid,True
+STU-300937,Omar Al-Zubi,omar.alzubi937@student-campus.edu,+962 77 484 4348,"338 University Way, Aqaba",26,M,Aqaba,Capital District,2023,Accounting,3.11,Satisfactory,10996.87,Need-Based Aid,True
+STU-300938,Khaled Brown,khaled.brown938@student-campus.edu,+962 78 425 1648,"276 University Way, Irbid",25,F,Irbid,Capital District,2023,Accounting,3.57,Probation,5534.83,Need-Based Aid,True
+STU-300939,Daniel Miller,daniel.miller939@student-campus.edu,+962 78 348 4372,"286 University Way, Madaba",20,M,Madaba,Capital District,2022,Computer Science,3.54,Satisfactory,2622.11,None,True
+STU-300940,Emma Al-Khatib,emma.alkhatib940@student-campus.edu,+962 77 552 1099,"43 University Way, Madaba",26,F,Madaba,Capital District,2024,Psychology,3.25,Good Standing,3293.69,None,True
+STU-300941,Yousef Al-Khatib,yousef.alkhatib941@student-campus.edu,+962 77 277 9992,"435 University Way, Irbid",18,M,Irbid,Capital District,2022,Data Science,3.55,Dean's List,6958.83,Need-Based Aid,True
+STU-300942,Khaled Smith,khaled.smith942@student-campus.edu,+962 77 838 4236,"135 University Way, Salt",23,F,Salt,Capital District,2024,Business Administration,3.37,Dean's List,14138.53,Need-Based Aid,True
+STU-300943,Hamza Johnson,hamza.johnson943@student-campus.edu,+962 79 306 5454,"410 University Way, Mafraq",27,F,Mafraq,Capital District,2023,Civil Engineering,3.69,Good Standing,11012.2,Need-Based Aid,True
+STU-300944,Yousef Al-Qudah,yousef.alqudah944@student-campus.edu,+962 78 532 9278,"322 University Way, Mafraq",24,F,Mafraq,Capital District,2022,Business Administration,3.28,Academic Warning,3228.66,None,True
+STU-300945,Zaid Miller,zaid.miller945@student-campus.edu,+962 77 877 5918,"314 University Way, Jerash",27,M,Jerash,Capital District,2024,Computer Science,2.99,Academic Warning,12893.42,Need-Based Aid,True
+STU-300946,Emily Brown,emily.brown946@student-campus.edu,+962 78 564 5640,"202 University Way, Mafraq",18,F,Mafraq,Capital District,2024,Civil Engineering,3.3,Good Standing,5673.01,Need-Based Aid,True
+STU-300947,Yousef Al-Qudah,yousef.alqudah947@student-campus.edu,+962 77 294 1068,"16 University Way, Aqaba",23,F,Aqaba,Capital District,2024,Data Science,1.83,Probation,12775.83,Need-Based Aid,True
+STU-300948,Yasmin Tarawneh,yasmin.tarawneh948@student-campus.edu,+962 78 415 2167,"219 University Way, Jerash",25,M,Jerash,Capital District,2023,Business Administration,3.32,Academic Warning,3625.49,None,True
+STU-300949,Tareq Tarawneh,tareq.tarawneh949@student-campus.edu,+962 78 361 6711,"270 University Way, Aqaba",24,F,Aqaba,Capital District,2022,Psychology,1.51,Probation,9279.91,Need-Based Aid,True
+STU-300950,Daniel Brown,daniel.brown950@student-campus.edu,+962 79 352 4970,"254 University Way, Jerash",26,M,Jerash,Capital District,2024,Computer Science,2.37,Satisfactory,13900.06,Need-Based Aid,True
+STU-300951,Fatima Williams,fatima.williams951@student-campus.edu,+962 79 250 5166,"136 University Way, Mafraq",22,M,Mafraq,Capital District,2023,Data Science,3.35,Dean's List,3868.41,None,True
+STU-300952,Ahmad Haddad,ahmad.haddad952@student-campus.edu,+962 79 293 7929,"94 University Way, Zarqa",24,F,Zarqa,Capital District,2024,Business Administration,3.36,Dean's List,10393.9,Need-Based Aid,True
+STU-300953,Rania Brown,rania.brown953@student-campus.edu,+962 79 415 7743,"395 University Way, Jerash",22,M,Jerash,Capital District,2025,Finance,2.63,Satisfactory,14809.69,Need-Based Aid,True
+STU-300954,Tareq Williams,tareq.williams954@student-campus.edu,+962 79 314 7520,"367 University Way, Salt",26,F,Salt,Capital District,2022,Nursing,2.83,Probation,2258.97,None,True
+STU-300955,Ahmad Al-Zubi,ahmad.alzubi955@student-campus.edu,+962 79 527 9600,"223 University Way, Zarqa",19,F,Zarqa,Capital District,2021,Computer Science,3.77,Academic Warning,1326.03,Merit Scholarship,True
+STU-300956,Olivia Tarawneh,olivia.tarawneh956@student-campus.edu,+962 79 237 4244,"259 University Way, Irbid",20,M,Irbid,Capital District,2023,Data Science,2.93,Good Standing,10112.93,Need-Based Aid,True
+STU-300957,James Haddad,james.haddad957@student-campus.edu,+962 77 160 3993,"424 University Way, Irbid",18,M,Irbid,Capital District,2022,Psychology,4.0,Academic Warning,5096.04,Merit Scholarship,True
+STU-300958,Rania Miller,rania.miller958@student-campus.edu,+962 79 270 2307,"160 University Way, Zarqa",25,M,Zarqa,Capital District,2025,Accounting,3.15,Academic Warning,1068.67,None,True
+STU-300959,Salma Haddad,salma.haddad959@student-campus.edu,+962 79 340 8829,"258 University Way, Amman",20,M,Amman,Capital District,2023,Software Engineering,3.33,Satisfactory,7129.58,Need-Based Aid,True
+STU-300960,Ahmad Al-Majali,ahmad.almajali960@student-campus.edu,+962 77 316 9557,"415 University Way, Amman",21,M,Amman,Capital District,2025,Computer Science,3.88,Satisfactory,11306.56,Merit Scholarship,True
+STU-300961,Salma Johnson,salma.johnson961@student-campus.edu,+962 78 718 8036,"182 University Way, Mafraq",26,F,Mafraq,Capital District,2024,Civil Engineering,3.21,Probation,4276.84,None,True
+STU-300962,Emma Al-Qudah,emma.alqudah962@student-campus.edu,+962 78 725 1937,"192 University Way, Jerash",21,F,Jerash,Capital District,2023,Electrical Engineering,2.7,Satisfactory,5025.7,Need-Based Aid,True
+STU-300963,Tareq Al-Majali,tareq.almajali963@student-campus.edu,+962 79 225 9693,"153 University Way, Amman",19,M,Amman,Capital District,2022,Business Administration,3.1,Academic Warning,12685.49,Need-Based Aid,True
+STU-300964,Fatima Masri,fatima.masri964@student-campus.edu,+962 79 292 1051,"336 University Way, Jerash",18,F,Jerash,Capital District,2025,Accounting,3.13,Probation,7801.08,Need-Based Aid,True
+STU-300965,Ahmad Williams,ahmad.williams965@student-campus.edu,+962 77 721 8938,"214 University Way, Mafraq",20,M,Mafraq,Capital District,2023,Computer Science,2.54,Satisfactory,12640.98,Need-Based Aid,True
+STU-300966,Fatima Tarawneh,fatima.tarawneh966@student-campus.edu,+962 79 299 3345,"276 University Way, Salt",27,M,Salt,Capital District,2024,Software Engineering,3.03,Academic Warning,6695.84,Need-Based Aid,True
+STU-300967,Zaid Masri,zaid.masri967@student-campus.edu,+962 77 556 2895,"256 University Way, Mafraq",23,M,Mafraq,Capital District,2025,Civil Engineering,2.82,Dean's List,14294.63,Need-Based Aid,True
+STU-300968,Khaled Al-Khatib,khaled.alkhatib968@student-campus.edu,+962 79 129 3625,"177 University Way, Jerash",27,F,Jerash,Capital District,2021,Software Engineering,3.57,Good Standing,9761.92,Need-Based Aid,True
+STU-300969,Rania Al-Khatib,rania.alkhatib969@student-campus.edu,+962 79 748 9060,"56 University Way, Irbid",20,F,Irbid,Capital District,2021,Accounting,3.17,Satisfactory,1738.48,None,True
+STU-300970,Khaled Johnson,khaled.johnson970@student-campus.edu,+962 79 860 7252,"344 University Way, Jerash",21,F,Jerash,Capital District,2023,Software Engineering,3.02,Probation,13276.39,Need-Based Aid,True
+STU-300971,Khaled Al-Khatib,khaled.alkhatib971@student-campus.edu,+962 77 191 6574,"389 University Way, Zarqa",19,M,Zarqa,Capital District,2023,Software Engineering,3.1,Satisfactory,7338.98,Need-Based Aid,True
+STU-300972,Olivia Haddad,olivia.haddad972@student-campus.edu,+962 78 690 1027,"169 University Way, Madaba",21,M,Madaba,Capital District,2022,Nursing,3.25,Probation,2124.58,None,True
+STU-300973,Michael Smith,michael.smith973@student-campus.edu,+962 78 916 3069,"276 University Way, Madaba",23,M,Madaba,Capital District,2024,Business Administration,3.43,Good Standing,2290.35,None,True
+STU-300974,Tareq Tarawneh,tareq.tarawneh974@student-campus.edu,+962 77 935 5863,"438 University Way, Madaba",26,M,Madaba,Capital District,2024,Finance,2.7,Dean's List,10313.01,Need-Based Aid,True
+STU-300975,Yasmin Williams,yasmin.williams975@student-campus.edu,+962 77 864 1562,"316 University Way, Salt",21,F,Salt,Capital District,2025,Data Science,2.68,Academic Warning,710.59,None,True
+STU-300976,Noor Smith,noor.smith976@student-campus.edu,+962 79 948 4534,"263 University Way, Mafraq",25,F,Mafraq,Capital District,2025,Civil Engineering,3.65,Dean's List,4298.91,None,True
+STU-300977,David Tarawneh,david.tarawneh977@student-campus.edu,+962 79 929 4687,"368 University Way, Aqaba",24,M,Aqaba,Capital District,2022,Nursing,2.96,Dean's List,2096.81,None,True
+STU-300978,Hamza Miller,hamza.miller978@student-campus.edu,+962 77 661 7427,"182 University Way, Irbid",20,F,Irbid,Capital District,2023,Business Administration,2.51,Academic Warning,6616.16,Need-Based Aid,True
+STU-300979,Emma Masri,emma.masri979@student-campus.edu,+962 79 844 5637,"154 University Way, Zarqa",27,M,Zarqa,Capital District,2024,Business Administration,3.35,Satisfactory,6215.31,Need-Based Aid,True
+STU-300980,David Miller,david.miller980@student-campus.edu,+962 78 870 1886,"445 University Way, Irbid",22,F,Irbid,Capital District,2021,Business Administration,3.36,Probation,7828.15,Need-Based Aid,True
+STU-300981,Dina Williams,dina.williams981@student-campus.edu,+962 79 594 5769,"84 University Way, Mafraq",19,M,Mafraq,Capital District,2022,Psychology,2.46,Good Standing,4194.54,None,True
+STU-300982,Abdullah Jones,abdullah.jones982@student-campus.edu,+962 79 904 3418,"202 University Way, Zarqa",27,F,Zarqa,Capital District,2023,Computer Science,3.25,Good Standing,480.65,None,True
+STU-300983,Emma Miller,emma.miller983@student-campus.edu,+962 78 283 1859,"70 University Way, Madaba",27,F,Madaba,Capital District,2021,Computer Science,3.48,Good Standing,9215.79,Need-Based Aid,True
+STU-300984,Michael Tarawneh,michael.tarawneh984@student-campus.edu,+962 77 346 7498,"260 University Way, Amman",18,F,Amman,Capital District,2022,Business Administration,3.32,Good Standing,5605.77,Need-Based Aid,True
+STU-300985,David Johnson,david.johnson985@student-campus.edu,+962 79 491 5509,"333 University Way, Mafraq",27,F,Mafraq,Capital District,2021,Business Administration,3.43,Good Standing,9770.02,Need-Based Aid,True
+STU-300986,Fatima Al-Majali,fatima.almajali986@student-campus.edu,+962 78 756 9351,"125 University Way, Zarqa",27,M,Zarqa,Capital District,2021,Software Engineering,2.52,Dean's List,1630.0,None,True
+STU-300987,Michael Johnson,michael.johnson987@student-campus.edu,+962 79 285 7290,"257 University Way, Zarqa",26,F,Zarqa,Capital District,2023,Accounting,3.3,Probation,206.66,None,True
+STU-300988,Noor Johnson,noor.johnson988@student-campus.edu,+962 79 982 9806,"104 University Way, Zarqa",20,F,Zarqa,Capital District,2023,Software Engineering,3.01,Good Standing,3724.41,None,True
+STU-300989,David Al-Majali,david.almajali989@student-campus.edu,+962 77 631 9830,"375 University Way, Mafraq",24,M,Mafraq,Capital District,2025,Finance,2.93,Academic Warning,6848.21,Need-Based Aid,True
+STU-300990,Abdullah Williams,abdullah.williams990@student-campus.edu,+962 77 668 8327,"419 University Way, Irbid",23,F,Irbid,Capital District,2025,Data Science,3.54,Dean's List,5911.08,Need-Based Aid,True
+STU-300991,Tareq Al-Majali,tareq.almajali991@student-campus.edu,+962 77 675 5206,"445 University Way, Irbid",24,M,Irbid,Capital District,2022,Psychology,3.82,Good Standing,12154.54,Merit Scholarship,True
+STU-300992,Yousef Haddad,yousef.haddad992@student-campus.edu,+962 78 773 1001,"137 University Way, Irbid",24,F,Irbid,Capital District,2023,Civil Engineering,3.96,Probation,5667.56,Merit Scholarship,True
+STU-300993,Omar Smith,omar.smith993@student-campus.edu,+962 79 602 6127,"277 University Way, Irbid",24,F,Irbid,Capital District,2024,Finance,3.74,Satisfactory,7956.62,Need-Based Aid,True
+STU-300994,Sophia Smith,sophia.smith994@student-campus.edu,+962 77 137 4081,"82 University Way, Amman",23,F,Amman,Capital District,2021,Electrical Engineering,3.1,Probation,8902.73,Need-Based Aid,True
+STU-300995,Abdullah Al-Zubi,abdullah.alzubi995@student-campus.edu,+962 78 231 7914,"48 University Way, Madaba",24,F,Madaba,Capital District,2022,Finance,3.31,Probation,327.47,None,True
+STU-300996,Rania Tarawneh,rania.tarawneh996@student-campus.edu,+962 78 792 7968,"365 University Way, Zarqa",23,M,Zarqa,Capital District,2024,Business Administration,3.5,Good Standing,7727.0,Need-Based Aid,True
+STU-300997,Emily Al-Khatib,emily.alkhatib997@student-campus.edu,+962 79 773 9379,"319 University Way, Madaba",18,M,Madaba,Capital District,2022,Civil Engineering,3.2,Dean's List,5172.47,Need-Based Aid,True
+STU-300998,Layla Miller,layla.miller998@student-campus.edu,+962 77 718 5055,"49 University Way, Jerash",18,F,Jerash,Capital District,2024,Nursing,3.21,Good Standing,6319.2,Need-Based Aid,True
+STU-300999,Tareq Smith,tareq.smith999@student-campus.edu,+962 78 755 2457,"195 University Way, Zarqa",27,F,Zarqa,Capital District,2024,Finance,3.52,Dean's List,1504.31,None,True

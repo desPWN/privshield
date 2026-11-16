@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --canvas: #151518;
+    --canvas-elevated: #1C1C20;
+    --surface-panel: #1E1E23;
+    --surface-elevated: #28282F;
+    --surface-hover: #32323B;
+    --border-hairline: rgba(255, 255, 255, 0.08);
+    --accent: #E5A00D;
+    --text-primary: #F2F2F7;
+    --text-secondary: #A0A0A8;
+    --text-muted: #6E6E78;
+  }
+
+  html, body, #root {
+    overflow-x: hidden;
+  }
+
+  body {
+    background-color: #151518;
+    color: #F2F2F7;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Display', system-ui, sans-serif;
+  }
+
+  table, .metric-value, .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Apple-style subtle dark scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #151518;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #28282F;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #32323B;
+}
+
+/* Apple frosted glass material panels */
+.apple-panel {
+  background-color: rgba(30, 30, 35, 0.90);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.75rem;
+}
+
+.apple-panel-interactive {
+  background-color: rgba(30, 30, 35, 0.90);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.75rem;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.apple-panel-interactive:hover {
+  border-color: rgba(255, 255, 255, 0.16);
+  background-color: rgba(40, 40, 47, 0.95);
+  transform: translateY(-1px);
+}
+
+/* Retain backwards-compatibility for existing components during transition */
+.cyber-panel {
+  background-color: rgba(17, 21, 30, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 0.75rem;
+}
+
+.cyber-panel-interactive {
+  background-color: rgba(17, 21, 30, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 0.75rem;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cyber-panel-interactive:hover {
+  border-color: rgba(139, 156, 247, 0.3);
+  background-color: rgba(23, 29, 40, 0.95);
+}
+
+/* Modal entrance keyframe */
+@keyframes modalEnter {
+  from {
+    opacity: 0;
+    transform: scale(0.96) translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.animate-modal-enter {
+  animation: modalEnter 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Dark shimmer skeleton animation */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.02) 25%, rgba(255, 255, 255, 0.06) 50%, rgba(255, 255, 255, 0.02) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.8s infinite;
+}
